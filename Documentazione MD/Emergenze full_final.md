@@ -78,3 +78,36 @@ Nel caso in cui dovesse verificarsi questa eventualità:
 
 ## 2. Emergenze in Caduta Libera
 
+### Perdita di stabilità
+
+In caso di perdita di stabilità durante la caduta libera è importante mantenere il controllo della quota, ricordando le priorità:
+ - Aprire 
+ - Aprire alla quota giusta 
+ - Aprire in posizione stabile
+
+Di conseguenza, in caso di perdita di stabilità, fare arco evitando movimenti a scatti e mantenere la posizione finché il flusso d’aria stesso non riporta a volare stabile sulla pancia.
+Se in quota di apertura la posizione non è ancora stabile, procedere comunque con l’apertura del principale.
+
+### Ingresso in Nube o Perdita di Visibilità
+
+Può succedere che durante un lancio si attraversi uno strato di nubi / si perda visibilità del terreno sotto di sé.
+
+**Cosa fare?**
+In entrambi i casi è importante evitare spostamenti «incontrollati» lungo l’asse di lancio e di conseguenza la cosa migliore da fare è fermarsi, mantenere una posizione di caduta libera «piatta» senza perdere mai la coscienza della quota e alla quota giusta procedere con l’apertura del paracadute principale.
+
+**Cosa fare se l’apertura avviene sopra le nubi o in nube?**
+Mantenere la vela frenata a circa il 40% e rilasciare poi leggermente il comando sinistro in modo da innescare una rotazione piatta a destra.
+
+### Apertura accidentale
+
+**Come può succedere un’apertura accidentale?**
+Un’apertura accidentale del paracadute (principale o di emergenza) è una diretta conseguenza di un errore umano.
+
+**Come si può minimizzare questo rischio?**
+È importante mantenere alto il livello di sicurezza, effettuando i controlli al proprio materiale (a terra e in aereo) e muovendosi con criterio in aereo e in porta nei momenti di salita in aereo e fase di lancio.
+
+**Cosa fare?**
+Nel caso di un’apertura accidentale in caduta libera, è molto probabile che la vela non si apra correttamente e che si presenti un malfunzionamento alla velatura. In tal caso, a seconda di quota e situazione, procedere con gli eventuali tentativi per risolvere / procedura di emergenza.
+Se invece la vela è correttamente manovrabile, è necessario spostarsi subito dall’asse di lancio e a questo punto il «lancio» stesso cambia: non è più un lancio di caduta libera ma diventa un lancio di navigazione.
+
+**NB:** in caso di apertura in quota elevata durante il periodo invernale o comunque in caso di basse temperature, i comandi devono essere tenuti ponendo il dorso della mano all’aria, in modo da mantenere più calde le dita.
