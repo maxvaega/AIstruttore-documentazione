@@ -8,10 +8,6 @@ Saltare è bellissimo! usa i primi salti dopo il corso per goderti le sensazioni
 
 **E' fondamentale saltare sempre in sicurezza**: hai ripassato le procedure che hai appreso durante il corso? Saranno utili ad ogni salto:
 
--   Prima dell’imbarco in aereo: fai sempre attenzione ai controlli del materiale, controllati da solo e fatti controllare, segui sempre le procedure di imbarco e comunica con il DL (direttore di lancio) per ricevere le indicazioni sul posto in aereo e l’ordine di uscita.
-    
--   all’interno dell'aereo: fai attenzione al materiale che indossi, proteggi le maniglie con le mani se necessario e muoviti il meno possibile. Ricordati le **procedure da seguire in caso di emergenza in aereo.** Segui le indicazioni del DL per l’uscita e ricordati di proteggere il materiale quando ti muovi sulla porta dell’aereo
-    
--   In aria: Goditi il tuo salto e una volta sotto vela, esegui i controlli che hai imparato a fare, guardati attorno per verificare il traffico delle altre vele nello spazio aereo, controlla la quota sull’altimetro e la tua posizione rispetto all’aeroporto e al punto di atterraggio. Controlla il vento, in che direzione atterrerai? Preparati per il circuito di atterraggio controllando sempre il traffico, l’altitudine e la tua posizione.
-    
--   A terra: Raccogli la vela, le funi e il pilotino in maniera ordinata e stiva i comandi. Controlla in aria per verificare che non ci siano altri paracadutisti in atterraggio. Ricorda: il salto finisce solo quando sei di nuovo dentro l’hangar!
+- controlla e fatti controllare il materiale prima di salire in aereo e prima di ogni lancio
+- La posizione di caduta libera
+- DALL'APERTURA ALL'ATTERRAGGIO
