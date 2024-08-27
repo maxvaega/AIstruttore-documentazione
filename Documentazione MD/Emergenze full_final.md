@@ -157,28 +157,28 @@ Per malfunzionamento si intende ogni tipo di anomalia nella vela o nell'equipagg
 Inoltre, sono possibili delle **aperture inusuali** della propria vela, che potrebbero comportare l’attuazione della procedura di emergenza.
 
 ### Apertura corretta
-1.Avvertimento dello shock di apertura
+1. Avvertimento dello shock di apertura
 
-2.La vela è rettangolare sopra la propria testa
+2. La vela è rettangolare sopra la propria testa
 
-3.Niente appare a prima vista rotto
+3. Niente appare a prima vista rotto
 
-4.Il Paracadute vola in modo rettilineo
+4. Il Paracadute vola in modo rettilineo
 
-5.Il mondo intorno a noi è «fermo»
+5. Il mondo intorno a noi è «fermo»
 
-6.Le funi non sono avvitate
+6. Le funi non sono avvitate
 
-7.I comandi sono accessibili
+7. I comandi sono accessibili
 
-8.Lo slider è sceso fino alle bretelle
+8. Lo slider è sceso fino alle bretelle
 
 ### Emergenza a bassa velocità
-1.Avvertimento dello shock di apertura
+1. Avvertimento dello shock di apertura
 
-2.Il mondo si è fermato? NO
+2. Il mondo si è fermato? NO
 
-3.La velatura gira da sola (autorotazione)
+3. La velatura gira da sola (autorotazione)
 
 **Cercare di risolvere il problema mantenendo consapevolezza della quota** 
 
@@ -188,9 +188,9 @@ Inoltre, sono possibili delle **aperture inusuali** della propria vela, che potr
 
 Si tratta di una parziale o assente apertura.
 
-1.NON c’è lo shock di apertura
+1. NON c’è lo shock di apertura
 
-2.Il mondo si è fermato? NO
+2. Il mondo si è fermato? NO
 
 La velatura non è aperta
 
@@ -200,12 +200,12 @@ La velatura non è aperta
 
 ## Procedura di emergenza
 
-- 1 -- Guarda e impugna con la mano destra la maniglia di sgancio
-- 2 -- Guarda e impugna con la mano sinistra la maniglia della riserva **NB:** in caso si tratti di una maniglia di ferro, è importante infilare il pollice all’interno della maniglia stessa, in modo da mantenere un’impugnatura più salda.
-- 3 -- Svelcra e traziona verso il basso la maniglia di sgancio
-- 4 -- Assicurati della totale trazione della maniglia di sgancio portando in alto il braccio destro
-- 5 -- Dopo aver sganciato il paracadute principale raddoppia la presa sulla maniglia della riserva
-- 6 -- Traziona verso il basso la maniglia della riserva
+1. Guarda e impugna con la mano destra la maniglia di sgancio
+2. Guarda e impugna con la mano sinistra la maniglia della riserva **NB:** in caso si tratti di una maniglia di ferro, è importante infilare il pollice all’interno della maniglia stessa, in modo da mantenere un’impugnatura più salda.
+3. Svelcra e traziona verso il basso la maniglia di sgancio
+4. Assicurati della totale trazione della maniglia di sgancio portando in alto il braccio destro
+5. Dopo aver sganciato il paracadute principale raddoppia la presa sulla maniglia della riserva
+6. Traziona verso il basso la maniglia della riserva
 
 ## Malfunzionamenti totali
 
