@@ -180,9 +180,9 @@ Inoltre, sono possibili delle **aperture inusuali** della propria vela, che potr
 
 3.La velatura gira da sola (autorotazione)
 
-** Cercare di risolvere il problema mantenendo consapevolezza della quota ** 
+**Cercare di risolvere il problema mantenendo consapevolezza della quota** 
 
-** Se NON è risolvibile: Applicare la procedura di emergenza**
+**Se NON è risolvibile: Applicare la procedura di emergenza**
 
 ### Emergenza ad alta velocità
 
@@ -194,9 +194,9 @@ Si tratta di una parziale o assente apertura.
 
 La velatura non è aperta
 
-** Se contando 5 secondi la vela non è ancora aperta ** 
+**Se contando 5 secondi la vela non è ancora aperta** 
 
-** Applicare la Procedura di Emergenza**
+**Applicare la Procedura di Emergenza**
 
 ## Procedura di emergenza
 
