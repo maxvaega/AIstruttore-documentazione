@@ -81,9 +81,9 @@ Nel caso in cui dovesse verificarsi questa eventualità:
 ### Perdita di stabilità
 
 In caso di perdita di stabilità durante la caduta libera è importante mantenere il controllo della quota, ricordando le priorità:
- - Aprire 
- - Aprire alla quota giusta 
- - Aprire in posizione stabile
+ - Aprire il paracadute
+ - Aprire il paracadute alla quota prestabilita 
+ - Aprire il paracadute alla quota prestabilita possibilmente stabile
 
 Di conseguenza, in caso di perdita di stabilità, fare arco evitando movimenti a scatti e mantenere la posizione finché il flusso d’aria stesso non riporta a volare stabile sulla pancia.
 Se in quota di apertura la posizione non è ancora stabile, procedere comunque con l’apertura del principale.
