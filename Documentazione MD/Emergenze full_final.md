@@ -504,7 +504,7 @@ Oltre alla capriola, ci sono accorgimenti aggiuntivi da adottare nelle diverse c
 Possibilmente, è preferibile atterrare contro vento e deve essere effettuata la frenata subito prima dell’impatto con l’albero.
 Le gambe devono essere unite e raccolte per ammortizzare l’urto, mentre le braccia vanno a proteggere il viso e il collo.
 
-**COSA FARE se dopo l’impatto si rimane appesi con la vela e i piedi non toccano terra?**
+**COSA FARE se dopo l’impatto con un albero si rimane appesi con la vela e i piedi non toccano terra?**
 È importante non avere fretta di sganciare, in quanto la caduta ulteriore da un’altezza non definita potrebbe portare ad ulteriori traumi. Con calma, è possibile «liberarsi» in autonomia ricercando un appoggio per i piedi e, non appena recuperata una posizione agganciata in equilibrio, procedere a sganciare la propria vela.
 
 Se non è possibile trovare un appoggio stabile, o in generale in caso di traumi che impediscano il movimento, è necessario aspettare i soccorsi e non agire d’impulso.
@@ -520,22 +520,22 @@ La frenata deve essere normale, come per un atterraggio sul terreno e possibilme
 
 I piedi devono essere uniti e le gambe flesse in preparazione all’atterraggio duro
 
-Una volta atterrato, è necessario procedere a sganciare la vela e liberarsi dell’imbrago, nuotando in direzione opposta alla vela.
+Una volta atterrato in acqua, è necessario procedere a sganciare la vela e liberarsi dell’imbrago, nuotando in direzione opposta alla vela.
 
 Se l’atterraggio è avvenuto lontano dalla riva, è consigliato rimanere vicini all’equipaggiamento, in quanto più facile da localizzare.
 
 **NB**: se la zona d’atterraggio è vicina a specchi d’acqua, è obbligatorio indossare il salvagente oltre alla propria attrezzatura da lancio.
 
 ### Linee elettrice
-In caso di atterraggio fuori zona, sono uno dei pericoli di maggiore interesse, in quanto le linee elettriche sono prettamente invisibili finché non a distanza già ravvicinata. Inoltre, rappresentano non solo un ostacolo «fisico» ma anche un pericolo per la corrente elettrica a contatto.
+In caso di atterraggio fuori zona, le linee elettriche sono uno dei pericoli di maggiore interesse, in quanto sono prettamente invisibili finché non a distanza già ravvicinata. Inoltre, rappresentano non solo un ostacolo «fisico» ma anche un pericolo per la corrente elettrica a contatto.
 
 Una volta individuate, possono essere evitate atterrando parallelamente ad esse, indipendentemente dalla direzione del vento.
 
-In caso non sia possibile evitarle:
+In caso non sia possibile evitare una linea elettrica:
 **Cosa fare?**
 
  - Mantenere i piedi uniti e le gambe flesse
- - Cercare di attraversare i fili senza toccarli direttamente
+ - Cercare di attraversare i fili elettrici senza toccarli direttamente
  - Prepararsi ad un atterraggio duro (capovolta)
  - Se rimasti appesi, evitare di sganciare la vela principale e aspettare assistenza dal personale qualificato (vigili del fuoco o ENEL).
 
