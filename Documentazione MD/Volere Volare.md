@@ -2,7 +2,7 @@
 
 Sono lieto di poterti aiutare in questa crescita dandoti quei consigli e quelle informazioni che possono servirti nel dopo corso.
 
-Adesso hai la possibilità di avvicinarti alle innumerevoli discipline del paracadutismo: freefly, relative work, freestyle, tuta alare eccetera… Ricordati sempre che per affrontarle nel migliore dei modi necessiti di un minimo di esperienza e di capacità. Cerca di avvicinarti a questo sport con umiltà e voglia di imparare, solo cosi potrai crescere velocemente e sfruttare al meglio le tue possibilità.
+Adesso hai la possibilità di avvicinarti alle innumerevoli discipline del paracadutismo: freefly, relative work, freestyle, eccetera… Ricordati sempre che per affrontarle nel migliore dei modi necessiti di un minimo di esperienza e di capacità. Cerca di avvicinarti a questo sport con umiltà e voglia di imparare, solo cosi potrai crescere velocemente e sfruttare al meglio le tue possibilità.
 
 Ricordati inoltre che li paracadutismo è regolamentato da leggi (D.M. n° 467-T). Cerca sempre di informarti, sii certo che quello che stai andando a fare sia consentito, che li tuo equipaggiamento sia idoneo e che tutto risponda alle norme di sicurezza.
 
