@@ -105,16 +105,15 @@ Se hai dei dubbi, parla con i tuoi istruttori o con il direttore della Scuola
 Se non li hai già superati quindi, valuta bene quello che serve fare e informati su come fare pratica durante un salto. Puoi fare dei salti per allenarti e prepararti al superamento dei test. I test pratici da superare per arrivare alla licenza di paracadutismo sono i seguenti:
 
 
-### TEST 1: Stabilità ed Autocoscienza
+### TEST 1: Stabilità ed Autocoscienza (completato con l'AFF)
 
+NB: se hai già completato il corso AFF, hai già superato questo test! non è quindi necessario lavorare per superarlo
 Mantenimento autonomo delle condizioni di stabilità nella fase di caduta libera per non meno di 10 secondi consecutivi e nella fase di apertura del paracadute, ed azionamento del dispositivo di apertura alla quota prestabilita ( ± 100 metri).
 
-NB: il superamento del Test 1 è propedeutico alla fine del corso AFF, nello specifico determina il passaggio al Livello 4. Quindi, avendo finito l’AFF, hai già superato questo test!
+### TEST 2: Giri (completato con l'AFF)
 
-### TEST 2: Giri
-
+NB: se hai già completato il corso AFF, hai già superato questo test! non è quindi necessario lavorare per superarlo
 Effettuazione nel tempo massimo di 8 secondi di 2 Giri in caduta libera (rotazioni volontarie di 360° sull'asse verticale alternate in sensi opposti) con stop intermedio e finale sull'asse di riferimento iniziale  
-NB: il superamento del Test 2 è propedeutico alla fine del corso AFF, nello specifico determina il passaggio al Livello 5. Quindi, avendo finito l’AFF, hai già superato questo test!
 
 ### TEST 3: Deriva
 

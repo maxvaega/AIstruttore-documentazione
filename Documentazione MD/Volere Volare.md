@@ -2,7 +2,7 @@
 
 Sono lieto di poterti aiutare in questa crescita dandoti quei consigli e quelle informazioni che possono servirti nel dopo corso.
 
-Adesso hai la possibilità di avvicinarti alle innumerevoli discipline del paracadutismo: freefly, relative work, freestyle, eccetera… Ricordati sempre che per affrontarle nel migliore dei modi necessiti di un minimo di esperienza e di capacità. Cerca di avvicinarti a questo sport con umiltà e voglia di imparare, solo cosi potrai crescere velocemente e sfruttare al meglio le tue possibilità.
+Adesso hai la possibilità di avvicinarti alle innumerevoli discipline del paracadutismo. Ricordati sempre che per affrontarle nel migliore dei modi necessiti di un minimo di esperienza e di capacità. Cerca di avvicinarti a questo sport con umiltà e voglia di imparare, solo cosi potrai crescere velocemente e sfruttare al meglio le tue possibilità.
 
 Ricordati inoltre che li paracadutismo è regolamentato da leggi (D.M. n° 467-T). Cerca sempre di informarti, sii certo che quello che stai andando a fare sia consentito, che li tuo equipaggiamento sia idoneo e che tutto risponda alle norme di sicurezza.
 
@@ -16,7 +16,7 @@ Uno dei momenti più belli ed emozionanti è sicuramente li primo salto da solo,
 
 Vivi profondamente questo momento, godi delle vibrazione del tuo corpo in caduta libera, ma ovviamente **non trascurare mai la sicurezza**, segui sempre gli insegnamenti che ti hanno trasmesso i tuoi istruttori e controlla costantemente la quota durante tutto il lancio.
 
-In questa fase del tuo training è meglio che l'uscita dall'aereo non sia cambiata rispetto all'ultima provata con l'istruttore. Fai un buon circuito a vela aperta, cerca di essere sempre vigile e attento. Fai un buon atterraggio in zona di sicurezza.
+In questa fase del tuo training è meglio che l'uscita dall'aereo non sia cambiata rispetto all'ultima provata con l'istruttore. Fai un buon circuito a vela aperta, cerca di essere sempre vigile e attento. Fai un buon atterraggio in sicurezza nella zona prevista.
 
 Superati i primi approcci, arriva il momento di imparare realmente ad usare le proprie nuove ali: rivolgiti ai tuoi istruttori per organizzare un programma di "training basico". La tua crescita non dipende dalla quantità di lanci effettuati, ma piuttosto dalla loro qualità: è sicuramente meglio effettuare qualche lancio in meno ma finalizzato ad un obiettivo.
 
