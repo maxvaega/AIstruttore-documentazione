@@ -17,7 +17,25 @@ In primis, finché non hai la licenza ricordiamo insieme le regole:
 
 Quanto sopra vale finché non avrai in mano la licenza, ovvero la prima qualifica che dichiara che sei un paracadutista autonomo.
 
-## Come ottenere la licenza di paracadutismo
+# la licenza di paracadutismo
+
+
+## Cosa fare per per ottenere la licenza di paracadutismo
+
+-   Arrivare a 50 salti
+    
+-   Allenarti per i test pratici di addestramento e saltare con un istruttore per convalidare le tue capacità
+
+-   Effettuare un corso vela basico
+    
+-   Studiare la teoria, per prepararti all’esame di Licenza
+    
+-   Iscriverti per l’esame di teoria e… superarlo!
+    
+
+Se hai dei dubbi, parla con i tuoi istruttori o con il direttore della Scuola
+
+## Come partecipare all'esame di licenza
 
 Per essere ammessi agli accertamenti di idoneità per il conseguimento della licenza occorre:
 
@@ -80,24 +98,6 @@ Le domande, 2 per ogni argomento, vertono su:
 
 10. Normativa aeronautica attinente il paracadutismo
 
-## Riassumendo: per ottenere la licenza, devi seguire i seguenti step
-
--   Arrivare a 50 salti
-    
-
--   Allenarti per i test pratici e saltare con un istruttore per convalidare le tue capacità
-    
-
--   Effettuare un corso vela basico
-    
-
--   Studiare la teoria, per prepararti all’esame di Licenza
-    
-
--   Iscriverti per l’esame e… superarlo!
-    
-
-Se hai dei dubbi, parla con i tuoi istruttori o con il direttore della Scuola
 
 ## Test pratici da effettuare per la Licenza di paracadutismo
 
@@ -347,3 +347,103 @@ Oltre alla sacca e all’abbigliamento, sono previsti diversi accessori indossab
 -   **Altimetro Acustico**: Indica sempre la distanza dal terreno ma a differenza dell’altimetro standard, dove se ne presuppone la visualizzazione e il costante controllo, l’altimetro acustico viene inserito all’interno del casco ed emette degli avvisi acustici al raggiungimento di determinate quote preimpostate.
     
 -   **Radio**: Pur non essendo un elemento su cui fare affidamento, può essere impiegata nei primi salti degli allievi per guidarli nella fase di atterraggio.
+
+# Cosa fare nei tuoi salti dopo aver concluso il corso AFF
+
+I salti in autonomia da fare dopo il corso AFF sono propedeutici sia ad acquisire memoria muscolare e maggiore tranquillità e stabilità durante la caduta libera e a vela aperta sia al conseguimento della licenza, quindi è consigliato pianificare il proprio percorso salti con un mix equilibrato tra divertimento e addestramento.
+
+Quando salti da solo puoi quindi allenarti su diversi aspetti:
+
+-   **Stabilità**: puoi provare a mantenere una posizione stabile in asse su un punto specifico all’orizzonte oppure esercitarti a tornare in posizione stabile dopo aver causato una perdita volontaria di stabilità (ad esempio facendo un looping, ovvero una capriola) o provando a chiuderti “a pallina” e poi ripristinare la posizione dell’arco
+    
+-   **Deriva**: puoi provare a effettuare uno spostamento orizzontale. In questo caso è importante mantenere una direzione perpendicolare all’asse di lancio e se non hai un altimetro acustico ricordati di mantenere la posizione di deriva per non più di 10 secondi consecutivi in modo da mantenere il controllo della la quota
+    
+-   **Giri**: si tratta di uno spostamento sull’asse verticale. Puoi quindi spostarti a destra o sinistra, mantenendo l’arco ma utilizzando una posizione diversa o delle braccia o delle gambe. In generale, esercitati a effettuare un giro completo e ritornare al punto di partenza (un punto fisso sull’orizzonte)
+    
+-   **Looping**: si tratta di uno spostamento sull’asse trasversale, ovvero una capriola in avanti o all’indietro. In questo caso dovrai rimuovere l’arco durante l’esercizio e recuperarlo non appena termini la capriola, ritornando quindi in posizione stabile. In generale, esercitati a effettuare i looping in asse, quindi concentrandoti per ritornare in linea con il punto di partenza (un punto fisso sull’orizzonte)
+    
+-   **Tonneau**: si tratta di uno spostamento sull’asse longitudinale ovvero effettuando una rotazione sul fianco. In questo caso dovrai rimuovere l’arco durante l’esercizio e recuperarlo non appena termini la rotazione, ritornando quindi in posizione stabile. In generale, esercitati a effettuare i tonneau in asse, quindi concentrandoti per ritornare in linea con il punto di partenza (un punto fisso sull’orizzonte)
+    
+-   **Figure Associate**: è l’esercizio per il test 4 della licenza, ovvero l’effettuazione nel tempo massimo di 16 secondi, di un esercizio in caduta libera composto da 2 Giri + 2 Loopings (entrambi gli esercizi, effettuati prima in un senso poi nell’altro) con stop intermedi e finale sull'asse di riferimento iniziale
+    
+-   **Volo di schiena**: può quasi essere considerato un arco al contrario, dove andiamo a porre la schiena verso il terreno e è la nostra schiena ad appoggiarsi sull’aria
+    
+
+## Quando salti da solo o con altri, pensa sempre alla sicurezza
+
+Una precisazione banale ma sempre necessaria: a prescindere dall’esercizio che andrai a effettuare in caduta libera, ricordati di mantenere sempre il controllo della quota e soprattutto le priorità (ordinate) del salto:
+
+1.  Aprire il paracadute
+    
+2.  Aprire il paracadute alla quota prestabilita
+    
+3.  Aprire il paracadute alla quota prestabilita possibilmente stabile
+    
+
+## Suggerimenti sui salti da fare per un allievo che ha finito il corso AFF
+
+Qui di seguito un percorso suggerito per un allievo che ha terminato con successo il corso AFF. Non è un obbligo seguire questo percorso addestrativo, ma può diventare una base di partenza per pianificare i propri salti (e soprattutto possono variare i numeri dei salti in base alla durata del proprio AFF oltre all’esito delle prove dei test effettuate con gli istruttori)
+
+-   Salti da 1 a 10: AFF
+    
+-   Salti 11 e 12: prove di looping in avanti
+    
+-   Salti 13 e 14: prove di looping indietro
+    
+-   Salto 15: prove di giri, a destra e sinistra
+    
+-   Salto 16: prova individuale del test 4, figure associate
+    
+-   Salto 17: test 4, figure associate, con un IP
+    
+-   Salti da 18 a 20: fun jump. Sperimenta e divertiti, però sempre in sicurezza!
+    
+-   Salto 21: prova deriva con un IP
+    
+-   Salti da 22 a 27: prove individuali di deriva
+    
+-   Salto 28: test 5, deriva, con un IP
+    
+-   Salti da 29 a 30: fun jump. Sperimenta e divertiti, però sempre in sicurezza!
+    
+-   Salti da 31 a 39: prove di lavoro relativo (se riesci, organizzati per saltare con qualcuno, quindi o un IP o una persona designata dagli IP)
+    
+-   Salto 40: test 5, Lavoro Relativo, con un IP
+    
+-   Salti da 41 a 45: prove di volo di schiena
+    
+-   Salti da 46 a 50: corso vela (salti hop&pop, ovvero da 5000 piedi)
+    
+
+## Come posso organizzarmi per saltare da solo?
+
+Una volta finito il corso AFF, puoi saltare in autonomia il che significa che non saranno più gli istruttori della scuola a organizzare i decolli in cui salirai o gli esercizi da fare, ma dovrai organizzarti autonomamente.
+
+Ricordati quindi di:
+
+-   Andare al manifest e farti inserire in decollo
+    
+-   Concordare con il manifest quale materiale a noleggio dovrai utilizzare, in questo modo avrai la certezza di trovarlo quando sarà il momento di imbragarsi
+    
+-   Controllare di avere a disposizione una tuta della propria misura e adatta (che sia tua o da prendere in prestito dalla scuola)
+    
+-   Controllare di avere a disposizione un casco della propria misura e adatta (che sia tuo o da prendere in prestito dalla scuola)
+    
+-   Controllare di avere a disposizione un altimetro analogico o digitale (che sia tuo o da prendere in prestito dalla scuola)
+    
+-   Controllare di avere a disposizione gli occhialini in caso di casco aperto (che siano tuoi o da prendere in prestito dalla scuola)
+    
+-   Controllare in anticipo rispetto alle tempistiche del proprio decollo che il proprio materiale sia piegato e pronto
+    
+-   Provare per tempo la sacca e farsi controllare da un IP, in modo da aggiustarne le misure dell’imbrago in caso si tratti di un materiale con imbrago adattabile
+    
+-   Effettuare i controlli di sicurezza sul materiale, prima in autonomia e poi insieme ad un IP
+    
+-   Pianificare il proprio salto, in modo da avere un piano A e un piano B in caso il piano A non sia attuabile
+    
+-   Recarsi all’imbarco qualche minuto in anticipo, in modo da comunicare al DL il proprio piano per il salto e valutarne la fattibilità oltre che l’ordine di uscita
+    
+
+Mi raccomando, sei ancora sotto la responsabilità degli istruttori ma ricordati che il primo responsabile sei tu! Quindi fai sempre attenzione su tutte le procedure di sicurezza e comunica sempre onestamente i tuoi piani per il salto oltre che attenerti a quanto concordato con il DL.
+
+PS: non dimenticarti a fine giornata di pagare i salti (che non sono più inclusi nel pacchetto prepagato dell’AFF) e di compilare il libretto e farti timbrare i lanci.
