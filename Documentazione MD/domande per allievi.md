@@ -118,7 +118,7 @@ Effettuazione nel tempo massimo di 8 secondi di 2 Giri in caduta libera (rotazio
 ### TEST 3: Deriva
 
 Esecuzione di uno spostamento orizzantale in deriva stabile ed efficace per almeno 10 secondi consecutivi. Il salto deve prevedere l'esecuzione e il mantenimento di uno spostamento orizzontale in deriva verso una direzione definita. è importante che la direzione venga mantenuta stabile durante l'esecuzione, quindi prendi sempre un riferimento a terra prima di eseguire lo spostamento. Cerca di eseguire una **deriva piatta ed efficace** e rimani in controllo della direzione dello spostamento.
-**Attenzione!** per motivi di sicurezza, la deriva non può essere eseguita verso una direzione a casa, ma deve essere dichiarata prima di salire in decollo e condivisa con il direttore di lancio. Se salti da solo, chiedi al responsabile del decollo verso che direzione spostarti in deriva.
+**Attenzione!** per motivi di sicurezza, la deriva non può essere eseguita verso una direzione a piacere, ma deve essere dichiarata prima di salire in decollo e condivisa con il direttore di lancio. Se salti da solo, chiedi al responsabile del decollo verso che direzione spostarti in deriva.
 
 La definizione tecnica della deriva inserita in normativa la descrive come:
 > Modifica in direzione imposta della traiettoria inerziale di caduta libera, efficace e stabile per non meno di 10 secondi consecutivi.
@@ -250,9 +250,9 @@ Per poter salire in aereo e di conseguenza poterti lanciare, avrai bisogno di di
 
 ## Rig (o, come chiamato comunemente, “materiale” o “sacca”)
 
-### Componenti principali
-
 Da indossare quasi come uno zaino con chiusure di sicurezza ad alta resistenza, è a tutti gli effetti il contenitore dei due paracadute, principale e di riserva. È composto da diverse parti principali:
+
+### Componenti principali
 
 -   **Imbragatura**: È costituita da un insieme di nastri ad alta resistenza e regolabili che permettono di assicurare il contenitore delle vele al corpo. È strutturata per sopportare uno sforzo pari a circa 15 g (g = forza di gravità) mentre lo shock d'apertura è di circa 3 g, consente un'adeguata distribuzione sul corpo dello shock d'apertura stesso; viene indossata sulle spalle, più o meno come uno zaino, e successivamente assicurata mediante i nastri cosciali ed il nastro pettorale.
     
@@ -267,7 +267,7 @@ Da indossare quasi come uno zaino con chiusure di sicurezza ad alta resistenza, 
     È importante sganciare il paracadute principale prima di aprire quello di riserva per evitare che le due vele si intreccino o interferiscano l'una con l'altra.  
     Il vantaggio di avere questo sistema è che demoltiplica la forza necessaria per trazionare la maniglia di sgancio del principale in qualunque condizione di carico.
     
--   **Vela di Riserva:** è molto simile alla Vela Principale e si utilizza allo stesso modo. Deve avere una speciale certificazione e deve essere ispezionata e certificata ogni 180 giorni da un tecnico qualificato.  
+-   **Vela di Riserva:** è molto simile alla Vela Principale e si utilizza allo stesso modo. Deve avere una speciale certificazione e deve essere ispezionata e certificata ogni 180 giorni da un tecnico qualificato (rigger).  
     Viene alloggiata nella parte alta del contenitore ed è saldamente collegata all'imbrago.  
     L’apertura è collegata ad un pilotino a molla
     
