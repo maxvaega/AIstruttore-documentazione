@@ -186,7 +186,7 @@ Inoltre, sono possibili delle **aperture inusuali** della propria vela, che potr
 
 3. La velatura gira da sola (autorotazione)
 
-**Cercare di risolvere il problema mantenendo consapevolezza della quota**
+Cercare di risolvere il problema **mantenendo consapevolezza della quota**
 
 **Se NON è risolvibile: Applicare la procedura di emergenza**
 
