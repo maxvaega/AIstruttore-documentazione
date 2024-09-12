@@ -275,7 +275,7 @@ Ci sono due tipi di ferro di cavallo:
  1. Provare a trazionare il pilotino (potrebbe essere in una posizione inusuale)
  2. Entro i 750 mt, applicare la normale **procedura di emergenza**, sganciando il paracadute principale ed aprendo quello di riserva.
 
-### Line-Over
+### Emergenza a bassa velocità: Line-Over / funi sopra la vela / funi sopra estradosso / funi incastrate nel tessuto della vela
 
 **Cos'è?**
 Durante la fase di spiegamento della vela in apertura, una o più funi passano al di sopra dell’estradosso, strozzandola. In alcuni casi potrebbe essere possibile che queste funi tornino al loro posto trazionando energicamente i comandi fino alla posizione di massima frenata.
