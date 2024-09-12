@@ -97,6 +97,9 @@ Non dimenticare di controllare la quota poiché rotazioni molto veloci possono d
 
 ## Deriva piatta ed efficace
 
+**Cos'è la deriva?**
+è uno spostamento orizzontale frontale, quindi nella direzione in cui è orientata la testa del paracadutista (la testa diventa il timone)
+
 **A cosa serve?**
 
 Saper praticare prima della quota di apertura una separazione efficace è un'abilità importantissima e richiesta in ciascun tipo di lancio effettuato da un minimo di due ad un numero qualsiasi di persone. Chiunque deve collaborare a creare con la propria deriva una sufficiente separazione orizzontale, tale da poter aprire la propria vela lontano dagli altri. Frequenti sono le aperture fuori asse con veloci rotazioni da 90° fino a 360°, in pochi secondi si coprono consistenti distanze, risulta evidente quindi il rischio di collisioni ad alta velocita tra paracadutisti.
