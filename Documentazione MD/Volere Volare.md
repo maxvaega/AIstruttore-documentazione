@@ -36,6 +36,10 @@ Non esitare mai sottoporre domande ai tuoi istruttori per chiarirti ogni dubbio 
 
 Di seguito vengono descritti una serie di esercizi che potrebbero essere didatticamente validi per la tua progressione
 
+## Traslazione Laterale
+
+Si definisce traslazione laterale un movimento orizzontale a destra o a sinistra, in box position, effettuato mantenendo l'asse. Pur essendo un movimento sul piano orizzontale, non si tratta di deriva. 
+
 ## Looping in Avanti
 
 Con questo termine identifichiamo le rotazioni che si possono compiere sull'asse trasversale, immaginando passi lateralmente attraverso li bacino del paracadutista. Questo esercizio altro non è che una capriola indietro o in avanti a seconda dei movimenti effettuati con le gambe o le braccia.
