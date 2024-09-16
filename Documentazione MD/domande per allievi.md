@@ -447,3 +447,7 @@ L'allentamento del pettorale dopo l'apertura della vela è una procedura importa
 **Nota di sicurezza:** È fondamentale familiarizzare con la nuova posizione delle maniglie di emergenza dopo l'allentamento del pettorale. Durante i salti successivi, prendi nota della posizione delle maniglie in caduta libera e sotto vela con il pettorale allentato. Questo aiuterà a sviluppare una maggiore consapevolezza dell'equipaggiamento in diverse configurazioni. Si consiglia di praticare le procedure di emergenza sia a terra che in caduta libera per essere preparati a ogni evenienza.
 
 **Ricorda:** Una volta completata questa procedura e verificato che tutto sia in ordine, afferra i comandi della vela. Da questo momento in poi, mantieni sempre il controllo dei comandi fino all'atterraggio
+
+### Conclusioni
+
+Allentare il pettorale potrebbe essere un po' spaventoso le prime volte, ma una volta che ci si abitua, ci si sente più a proprio agio e più connessi alla vela. Sarà inoltre più facile mantenere la direzione di volo e si avrà più mobilità del corpo dentro l'imbrago. Quando si arriva al flare si è più liberi di muoversi e correre grazie al differente baricentro, quindi con una semplice procedura avrai benefici in volo e in atterraggio
