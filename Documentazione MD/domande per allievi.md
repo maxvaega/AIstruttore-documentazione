@@ -19,15 +19,14 @@ Quanto sopra vale finché non avrai in mano la licenza, ovvero la prima qualific
 ### Cosa fare per per ottenere la licenza di paracadutismo
 
 - Arrivare a 50 salti
-    
+
 - Allenarti per i test pratici di addestramento e saltare con un istruttore per convalidare le tue capacità
 
 - Effettuare un corso vela basico
-    
+
 - Studiare la teoria, per prepararti all’esame di Licenza
-    
+
 - Iscriverti per l’esame di teoria e… superarlo!
-    
 
 Se hai dei dubbi, parla con i tuoi istruttori o con il direttore della Scuola
 
@@ -36,24 +35,22 @@ Se hai dei dubbi, parla con i tuoi istruttori o con il direttore della Scuola
 Per essere ammessi agli accertamenti di idoneità per il conseguimento della licenza occorre:
 
 1. aver effettuato la prevista attività addestrativa teorica
-    
-2. aver superato uno specifico corso di addestramento pratico
-    
-3. aver completato con esito positivo il previsto accertamento teorico pratico
-    
-4. essere in possesso di certificato di idoneità psico-fisica, secondo la normativa specifica in vigore per i paracadutisti, prima dell’inizio dell’attività di lancio
-    
 
-### Per poter conseguire la licenza, devi effettuare:
+2. aver superato uno specifico corso di addestramento pratico
+
+3. aver completato con esito positivo il previsto accertamento teorico pratico
+
+4. essere in possesso di certificato di idoneità psico-fisica, secondo la normativa specifica in vigore per i paracadutisti, prima dell’inizio dell’attività di lancio
+
+### Per poter conseguire la licenza, devi effettuare
 
 1. attività addestrativa di 50 lanci con paracadute planante, di cui 15 negli ultimi 12 mesi ed 1 negli ultimi 3 mesi, comprendente i test previsti dalla formazione integrativa all’AFF
-    
+
 2. 20 minuti complessivi di caduta libera di cui 10 negli ultimi 12 mesi
-    
+
 3. simulazione di sgancio all’imbracatura sospesa effettuata ogni 6 mesi nel corso dell’addestramento, con esito favorevole annotato sul libretto dei lanci dall’Istruttore
 
 4. addestramento integrativo sull’utilizzo in volo ed in atterraggio delle vele. Tale addestramento deve essere annotato sul libretto dei lanci
-
 
 Il completamento della sequenza di addestramento deve essere annotato sul libretto di istruzione nella sezione dell’addestramento integrativo; l’annotazione è indispensabile per l’attestazione finale di addestramento e per l’idoneità a sostenere l’esame per il conseguimento della licenza.
 
@@ -87,7 +84,7 @@ Le domande, 2 per ogni argomento, vertono su:
 
 ### Test pratici da effettuare per la Licenza di paracadutismo
 
-è utile informarsi su quali test pratici devi superare per ottenere la licenza. Dopo aver completato il corso AFF, puoi utilizzare i tuoi salti per fare pratica e prepararti al superamento dei test. 
+è utile informarsi su quali test pratici devi superare per ottenere la licenza. Dopo aver completato il corso AFF, puoi utilizzare i tuoi salti per fare pratica e prepararti al superamento dei test.
 Se non li hai già superati quindi, valuta bene quello che serve fare e informati su come fare pratica durante un salto. Puoi fare dei salti per allenarti e prepararti al superamento dei test. I test pratici da superare per arrivare alla licenza di paracadutismo sono i seguenti:
 
 #### TEST 1: Stabilità ed Autocoscienza (completato con l'AFF)
@@ -418,3 +415,35 @@ Ricordati quindi di:
 Mi raccomando, sei ancora sotto la responsabilità degli istruttori ma ricordati che il primo responsabile sei tu! Quindi fai sempre attenzione su tutte le procedure di sicurezza e comunica sempre onestamente i tuoi piani per il salto oltre che attenerti a quanto concordato con il DL.
 
 PS: non dimenticarti a fine giornata di pagare i salti (che non sono più inclusi nel pacchetto prepagato dell’AFF) e di compilare il libretto e farti timbrare i lanci.
+
+## Allentare il pettorale a vela aperta
+
+### Perchè allentare il pettorale a vela aperta
+
+L'allentamento del pettorale dopo l'apertura della vela è una procedura importante per ottimizzare le prestazioni del paracadute e migliorare il comfort del paracadutista. I principali vantaggi sono:
+
+1. **Migliore forma della vela:** Permette alla vela di assumere la sua forma ottimale, consentendole di volare al massimo del suo potenziale.
+2. **Maggiore libertà di movimento:** Facilita i movimenti del paracadutista, particolarmente utile durante la fase di atterraggio.
+
+### Come allentare il pettorale a vela aperta
+
+1. Verifica che la vela sia aperta correttamente, che sia stabile e controllabile
+2. controlla il traffico delle altre vele attorno a te, la tya altidudine e posizione per assicurarti che tutto sia sotto controllo prima di procedere e durante la procedura
+3. Guarda il pettorale e afferralo con le mani, cerca il meccanismo di blocco del pettorale
+4. Se il pettorale è stivato con degli elastici, scioglilo liberandolo dagli elastici presenti senza danneggiarli e senza aprire completamente il pettorale
+5. Afferra il dispositivo di bloccaggio del pettorale posto sul lato dello stesso, e lentamente fai scorrere parte della fettuccia del pettorale al suo interno per allargarlo, ma non rimuoverlo. Il pettorale deve essere solo allentato, non rimosso
+6. Ricontrolla la posizione delle maniglie di emergenza dopo l'allentamento
+7. Mantieni il controllo di traffico, altitudine e posizione durante e dopo la procedura
+
+### Cosa succede ad allentare il pettorale a vela aperta
+
+1. Cambio nella distribuzione del peso: L'allentamento del pettorale modifica la posizione dell'equipaggiamento sul corpo del paracadutista e ne sposta il peso
+2. Spostamento delle maniglie: Le maniglie della riserva e altre parti dell'equipaggiamento potrebbero cambiare leggermente posizione, verifica sempre la loro posizione una volta completata la procedura
+3. Miglioramento delle prestazioni della vela: La vela può assumere una forma più efficiente approfittando di maggiore spazio in larghezza, migliorando le sue caratteristiche di volo
+4. Aumento della libertà di movimento: Il paracadutista avrà maggiore mobilità, utile soprattutto in fase di atterraggio
+
+**Importante:** Ricorda di allentare solamente il pettorale e di non rimuoverlo completamente. Inoltre questa procedura deve essere eseguita solamente a vela aperta e dopo averne verificato la corretta apertura e stabilità. Il pettorale ha una funziona di sicurezza che deve essere mantenuta!
+
+**Nota di sicurezza:** È fondamentale familiarizzare con la nuova posizione delle maniglie di emergenza dopo l'allentamento del pettorale. Durante i salti successivi, prendi nota della posizione delle maniglie in caduta libera e sotto vela con il pettorale allentato. Questo aiuterà a sviluppare una maggiore consapevolezza dell'equipaggiamento in diverse configurazioni. Si consiglia di praticare le procedure di emergenza sia a terra che in caduta libera per essere preparati a ogni evenienza.
+
+**Ricorda:** Una volta completata questa procedura e verificato che tutto sia in ordine, afferra i comandi della vela. Da questo momento in poi, mantieni sempre il controllo dei comandi fino all'atterraggio
