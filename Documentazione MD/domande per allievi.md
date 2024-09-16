@@ -428,7 +428,7 @@ L'allentamento del pettorale dopo l'apertura della vela è una procedura importa
 ### Come allentare il pettorale a vela aperta
 
 1. Verifica che la vela sia aperta correttamente, che sia stabile e controllabile
-2. controlla il traffico delle altre vele attorno a te, la tya altidudine e posizione per assicurarti che tutto sia sotto controllo prima di procedere e durante la procedura
+2. controlla il traffico delle altre vele attorno a te, la tua altitudine e posizione per assicurarti che tutto sia sotto controllo prima di procedere e durante la procedura
 3. Guarda il pettorale e afferralo con le mani, cerca il meccanismo di blocco del pettorale
 4. Se il pettorale è stivato con degli elastici, scioglilo liberandolo dagli elastici presenti senza danneggiarli e senza aprire completamente il pettorale
 5. Afferra il dispositivo di bloccaggio del pettorale posto sul lato dello stesso, e lentamente fai scorrere parte della fettuccia del pettorale al suo interno per allargarlo, ma non rimuoverlo. Il pettorale deve essere solo allentato, non rimosso
