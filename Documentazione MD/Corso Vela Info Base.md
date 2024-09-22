@@ -204,7 +204,7 @@ Qui di seguito sono riportati i valori minimi consigliati per una separazione di
 - **Groundspeed**: 10 → **Secondi**: 60
 - **Groundspeed**: 5 → **Secondi**: 119
 
-**Nota Bene**: è profondamente scorretto dichiarare un numero di secondi di attesa tra le uscite senza sapere le condizioni di vento e la velocità dell'aereo e di conseguenza la groundspeed
+**Nota Bene**: è profondamente scorretto dichiarare un numero di secondi di attesa tra le uscite senza sapere le condizioni di vento e la velocità dell'aereo e di conseguenza la groundspeed. In generale comunque puoi chiedere al DL o RL quanto aspettare prima di saltare (è il DL / RL che chiederà al pilota la groundspeed)
 
 ## Verifica del Punto di Lancio dal Porta dell’Aereo
 
