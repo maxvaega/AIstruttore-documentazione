@@ -139,3 +139,87 @@ Inoltre, ricordati che una regola d’oro per la navigazione con la vela è “*
 - Attieniti al circuito concordato
 
 - Attieniti alla direzione d’atterraggio del primo paracadutista atterrato nel tuo decollo
+
+# Ordine di uscita
+
+## Ordine di uscita per caduta libera
+
+È importante organizzare coerentemente l’ordine di uscita per i gruppi in caduta libera in modo da mantenere una corretta separazione orizzontale tra i gruppi, in quanto può essere inficiata dall’esposizione dei gruppi stessi al vento. Ad ogni modo, qui di seguito un ordinamento standard applicabile alla maggior parte delle condizioni:
+
+1. Speed
+2. Derive, differenziando la direzione dello spostamento se presenti più gruppi di deriva
+3. Piatti (RW): prima formazioni grandi, a scendere quelle più piccole e poi i singoli
+4. Freeflyers: prima formazioni grandi, a scendere quelle più piccole e poi i singoli
+5. AFF, Tandem e ogni paracadutista che intenda aprire alto
+6. Tute Alari (wingsuit)
+
+**Nota Bene:** l’ordine di uscita può variare a seconda delle condizioni della giornata di attività oltre che dalla singola dropzone in cui ci si trova, se non addirittura per esigenze specifiche dei gruppi e paracadutisti in aereo, quindi è importante informarsi in anticipo. Una volta deciso l’ordine d’uscita è quindi possibile avere anche una previsione di dove si potrà essere in fase di apertura e, con tutti questi primi dati, si può già impostare una pianificazione di volo e atterraggio con la propria vela.
+
+## Ordine di uscita per salti Hop&Pop
+
+In caso di salti Hop&Pop, è necessario organizzare l’ordine di uscita in primis in base al carico alare dei paracadutisti, ma è importante valutare anche lo stile di pilotaggio degli stessi. A parità di carico alare o con differenze minime, uno stile di pilotaggio più aggressivo comporta una priorità maggiore in fase di atterraggio. Di conseguenza, è consigliato impostare un primo ordine di uscita in base al carico alare e poi rivalutare l’ordine delineato a seconda di come pilota il singolo paracadutista (ad esempio, se ci sono due paracadutisti con il medesimo o simile carico alare, se uno dei due effettua manovre high performance dovrà atterrare per primo tra i due).
+
+**Nota Bene:** si chiama Hop&Pop quando il paracadutista salta (Hop) e apre dopo circa 5 secondi (pop).
+
+## Come salire in aereo in base all’ordine di uscita
+
+Una volta definito l’ordine di uscita dei paracadutisti, è bene procedere a assegnare preventivamente i posti in aereo; in questo modo, si riesce sia a velocizzare il momento dell’imbarco sia a minimizzare i movimenti in aereo dei singoli paracadutisti nel momento in cui ci sarà la porta dell’aereo aperta. Una buona regola per gestire l’imbarco è “gli ultimi a uscire sono i primi a salire”, quindi se sei tra le ultime uscite ricordati che sarai tra i primi a salire sull’aereo; non tardare!
+
+## Uscita dall’aereo / Separazione tra le uscite
+
+Negli ultimi anni, la distanza tra le uscite (quanto tempo/distanza tra un'uscita e l'altra) e l'ordine delle uscite (quale gruppo/disciplina esce per primo) sono diventati molto più complicati rispetto a qualche anno fa. Ci sono diverse ragioni per questo:
+
+- Velocità di caduta libera diverse (freefly o formazioni piatte)
+- Discipline che coprono grandi distanze orizzontali (tracking/derive, flocking, atmonauti)
+- Più dropzone che utilizzano aerei a turbina più grandi (più altitudine, più uscite)
+- Vele più veloci (richiedono più distanza tra loro al momento dell'apertura)
+- Diverse altitudini di apertura (studenti, tandem, esercizi con la vela)
+
+### Qual è una separazione adeguata?
+
+- In termini di distanza, la separazione minima consigliata per i gruppi piccoli è di 1000 piedi (circa 300 mt) dal centro della formazione al centro della formazione successiva. Questo numero aumenta fino a 2000 piedi (circa 600 metri) o più per gruppi di 8 o più persone. Consideriamo due gruppi da 4 allineati perfettamente con la corsa di lancio, il che porterà un paracadutista di ciascun gruppo a effettuare la deriva di separazione direttamente uno verso l'altro. Una separazione in uscita di circa 1000 piedi tra il primo e il secondo gruppo permette a ciascun paracadutista di spostarsi per 250 piedi, con 500 piedi ancora di distanza tra di loro.
+
+- In termini di tempo, la separazione minima consigliata dipende dalla velocità dell'aereo e dal vento che l'aereo incontra. In altre parole, dipende dalla groundspeed dell’aereo, ovvero la velocità di avanzamento dell’aereo rispetto al suolo, durante il lancio dei paracadutisti.
+
+Qui di seguito sono riportati i valori minimi consigliati per una separazione di 1000 piedi, che dovrebbe essere raddoppiata per uscite successive a gruppi di 8 o più persone:
+
+| Groundspeed dell'aereo (nodi) | Secondi di attesa tra le uscite |
+|-------------------------------|-------------------------------|
+| 100                           | 6                             |
+| 95                            | 7                             |
+| 90                            | 7                             |
+| 85                            | 7                             |
+| 80                            | 8                             |
+| 75                            | 8                             |
+| 70                            | 9                             |
+| 65                            | 10                            |
+| 60                            | 10                            |
+| 55                            | 11                            |
+| 50                            | 12                            |
+| 45                            | 14                            |
+| 40                            | 15                            |
+| 35                            | 17                            |
+| 30                            | 20                            |
+| 25                            | 24                            |
+| 20                            | 30                            |
+| 15                            | 40                            |
+| 10                            | 60                            |
+| 5                             | 119                           |
+| 0                             | -                             |
+
+## Verifica del Punto di Lancio dal Porta dell’Aereo
+
+Quando ci si appresta a saltare da un aereo, è fondamentale valutare il punto di lancio. 
+
+**NB:** il punto di lancio desiderato dipende dalle caratteristiche della zona / dropzone e dalle condizioni di vento in quota e a terra. 
+
+Per la valutazione del punto nel momento in cui si guarda fuori dalla porta dell’aereo, è importante considerare che:
+
+- In un assetto picchiato, l’angolo di discesa dell’aereo riduce la visuale del terreno e potrebbe creare un’illusione di vicinanza, rendendo difficile stabilire se il punto di lancio sia corretto. In tal caso il rischio è quello di anticipare il punto di lancio corretto (e quindi dare l’ok all’exit troppo presto).
+  
+- Al contrario, in un assetto cabrato, l’aereo tende a mantenere una visione più chiara e ampia del terreno sottostante, ma la velocità orizzontale può aumentare, portando a un errore di valutazione nella scelta del momento di lancio. In tal caso il rischio è quello di oltrepassare il punto di lancio corretto (e quindi dare l’ok all’exit in ritardo).
+
+## Quota di apertura
+
+La quota di apertura del paracadute è un elemento cruciale per la sicurezza e il successo di un salto; questa quota varia significativamente in base all'esperienza del paracadutista. Durante il corso AFF, l’allievo deve generalmente aprire il paracadute a una quota più alta, di solito intorno ai 1700 metri, per garantire un margine di sicurezza adeguato. Con l’aumentare dell’esperienza e della competenza, i paracadutisti più esperti possono ridurre progressivamente la quota di apertura, fino ad una quota consigliata di 1200 metri, fino ad un minimo di 1000 metri. È fondamentale che la quota di apertura permetta un margine di quota per la gestione di eventuali emergenze ad alta o bassa velocità.
+
