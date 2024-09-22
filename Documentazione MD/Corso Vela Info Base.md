@@ -83,6 +83,13 @@ Ad ogni modo, nel 2010 è stata divulgata da AIP una tabella _consigliata_ per p
 
 Il **coefficiente di superficie minima** è un valore di riferimento che, moltiplicato per il peso applicato, dà come risultato una dimensione _MINIMA_ di superficie del paracadute principale.
 
+Per un paracadutista senza licenza (o con Licenza non in corso di esercizio) vale quanto disposto per il paracadutista con licenza integrato da quanto segue: 
+- il paracadute principale deve essere di modello non controindicato all'utilizzo da parte di paracadutisti principianti (in base alle indicazioni del costruttore od agli standard internazionali), atto a garantire l'atterraggio con velocità verticale non superiore a 5 m/s senza utilizzo dei comandi di manovra
+- il paracadute ausiliario deve essere atto a garantire l'atterraggio con velocità verticale non superiore a 6 m/s senza utilizzo dei comandi di manovra
+
+Per calcolare quindi la dimensione appropriata della vela da utilizzare, è importante considerarne il profilo alare oltre che considerare il carico che il paracadutista ha sulla stessa (e quindi il peso del paracadutista stesso).
+
+
 ## Pianificazione del volo e dell’atterraggio
 
 ### Pianificazione
