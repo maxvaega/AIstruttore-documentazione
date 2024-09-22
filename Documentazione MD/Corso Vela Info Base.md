@@ -181,33 +181,30 @@ Negli ultimi anni, la distanza tra le uscite (quanto tempo/distanza tra un'uscit
 
 - In termini di tempo, la separazione minima consigliata dipende dalla velocità dell'aereo e dal vento che l'aereo incontra. In altre parole, dipende dalla groundspeed dell’aereo, ovvero la velocità di avanzamento dell’aereo rispetto al suolo, durante il lancio dei paracadutisti.
 
-Qui di seguito sono riportati i valori minimi consigliati per una separazione di 1000 piedi, che dovrebbe essere raddoppiata per uscite successive a gruppi di 8 o più persone:
+Qui di seguito sono riportati i valori minimi consigliati per una separazione di 1000 piedi, che dovrebbe essere raddoppiata per uscite successive a gruppi di 8 o più persone. La seguente tabella mostra la **groundspeed dell'aereo** espressa in nodi e i **secondi di attesa tra le uscite**. 
 
-| Groundspeed dell'aereo (nodi) | Secondi di attesa tra le uscite |
-|-------------------------------|-------------------------------|
-| 100                           | 6                             |
-| 95                            | 7                             |
-| 90                            | 7                             |
-| 85                            | 7                             |
-| 80                            | 8                             |
-| 75                            | 8                             |
-| 70                            | 9                             |
-| 65                            | 10                            |
-| 60                            | 10                            |
-| 55                            | 11                            |
-| 50                            | 12                            |
-| 45                            | 14                            |
-| 40                            | 15                            |
-| 35                            | 17                            |
-| 30                            | 20                            |
-| 25                            | 24                            |
-| 20                            | 30                            |
-| 15                            | 40                            |
-| 10                            | 60                            |
-| 5                             | 119                           |
-| 0                             | -                             |
+- **Groundspeed**: 100 → **Secondi**: 6
+- **Groundspeed**: 95 → **Secondi**: 7
+- **Groundspeed**: 90 → **Secondi**: 7
+- **Groundspeed**: 85 → **Secondi**: 7
+- **Groundspeed**: 80 → **Secondi**: 8
+- **Groundspeed**: 75 → **Secondi**: 8
+- **Groundspeed**: 70 → **Secondi**: 9
+- **Groundspeed**: 65 → **Secondi**: 10
+- **Groundspeed**: 60 → **Secondi**: 10
+- **Groundspeed**: 55 → **Secondi**: 11
+- **Groundspeed**: 50 → **Secondi**: 12
+- **Groundspeed**: 45 → **Secondi**: 14
+- **Groundspeed**: 40 → **Secondi**: 15
+- **Groundspeed**: 35 → **Secondi**: 17
+- **Groundspeed**: 30 → **Secondi**: 20
+- **Groundspeed**: 25 → **Secondi**: 24
+- **Groundspeed**: 20 → **Secondi**: 30
+- **Groundspeed**: 15 → **Secondi**: 40
+- **Groundspeed**: 10 → **Secondi**: 60
+- **Groundspeed**: 5 → **Secondi**: 119
 
-Nota Bene: è profondamente scorretto dichiarare un numero di secondi di attesa tra le uscite senza sapere le condizioni di vento e la velocità dell'aereo e di conseguenza la groundspeed
+**Nota Bene**: è profondamente scorretto dichiarare un numero di secondi di attesa tra le uscite senza sapere le condizioni di vento e la velocità dell'aereo e di conseguenza la groundspeed
 
 ## Verifica del Punto di Lancio dal Porta dell’Aereo
 
