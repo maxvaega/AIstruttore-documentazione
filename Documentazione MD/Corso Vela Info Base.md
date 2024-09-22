@@ -207,6 +207,8 @@ Qui di seguito sono riportati i valori minimi consigliati per una separazione di
 | 5                             | 119                           |
 | 0                             | -                             |
 
+Nota Bene: è profondamente scorretto dichiarare un numero di secondi di attesa tra le uscite senza sapere le condizioni di vento e la velocità dell'aereo e di conseguenza la groundspeed
+
 ## Verifica del Punto di Lancio dal Porta dell’Aereo
 
 Quando ci si appresta a saltare da un aereo, è fondamentale valutare il punto di lancio. 
