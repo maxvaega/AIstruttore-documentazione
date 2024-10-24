@@ -5282,9 +5282,7 @@ o un'evacuazione d'emergenza. In questi casi si raccomanda, in base all'altitudi
 seguente.
 
 - < 300 m/suolo: assumere subito la posizione d'urto (crash position)
-- > 300-700 m/suolo: raggiungere rapidamente il portello dell'aereo, afferrare con entrambe
-    le mani la maniglia dell'emergenza ed attivare immediatamente dopo il lancio il paracadute
-    d'emergenza
+- > 300-700 m/suolo: Seguire le indicazioni del DL, quindi raggiungere rapidamente il portello dell'aereo. Afferrare conla mano sinistra la maniglia dell'emergenza, staccare dall’aereo ed effettuare il conteggio 1001, 1002, 1003 trazionando quindi la maniglia per aprire la vela di riserva. Il conteggio serve ad avere un’adeguata separazione dall’aereo.
 - > 700 m/suolo: lanciarsi quanto più rapidamente possibile dal velivolo ed aprire il paracadute
     principale.
 In tutti i casi, in una situazione di emergenza si devono ascoltare le istruzioni del pilota o di un
