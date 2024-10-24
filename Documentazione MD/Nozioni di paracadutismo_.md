@@ -5996,7 +5996,6 @@ si ha ancora avuto il tempo di afferrare i comandi.
 Ovviamente si dovrà continuare a monitorare lo spazio aereo nel corso dell'intero volo a para-
 cadute aperto. Per evitare collisioni, occorre rispettare le semplici regole di precedenza seguenti.
 
-- In caso di rotte che si incrociano, la vela proveniente da destra ha la precedenza.
 - Se due paracadute volano uno contro l'altro, alla medesima quota, dovranno entrambi virare
     alla propria destra.
 - Il paracadutista che si trova alla quota più bassa ha la precedenza, perché non è in grado di
