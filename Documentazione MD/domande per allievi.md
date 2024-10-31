@@ -1,7 +1,7 @@
 # Cosa fare una volta terminato il corso AFF
 
 Intanto bravo! Hai fatto il tuo primo passo nel paracadutismo, ora inizia un bellissimo percorso. Ci sono tante discipline nel paracadutismo tra cui ad un certo punto sceglierai quale intraprendere, ma come prima cosa ti devi dedicare ai passi che servono per ottenere la licenza.
-
+/n/n
 ## Cosa può fare un allievo prima di prendere la licenza
 
 In primis, finché non hai la licenza ricordiamo insieme le regole:
@@ -13,7 +13,7 @@ In primis, finché non hai la licenza ricordiamo insieme le regole:
 - in generale, sei sotto la responsabilità degli istruttori. Quindi qualunque dubbio tu abbia, rivolgiti a loro
 
 Quanto sopra vale finché non avrai in mano la licenza, ovvero la prima qualifica che dichiara che sei un paracadutista autonomo.
-
+/n/n
 ## la licenza di paracadutismo
 
 ### Cosa fare per per ottenere la licenza di paracadutismo
@@ -29,7 +29,7 @@ Quanto sopra vale finché non avrai in mano la licenza, ovvero la prima qualific
 - Iscriverti per l’esame di teoria e… superarlo!
 
 Se hai dei dubbi, parla con i tuoi istruttori o con il direttore della Scuola
-
+/n/n
 ### Come partecipare all'esame di licenza
 
 Per essere ammessi agli accertamenti di idoneità per il conseguimento della licenza occorre:
@@ -41,7 +41,7 @@ Per essere ammessi agli accertamenti di idoneità per il conseguimento della lic
 3. aver completato con esito positivo il previsto accertamento teorico pratico
 
 4. essere in possesso di certificato di idoneità psico-fisica, secondo la normativa specifica in vigore per i paracadutisti, prima dell’inizio dell’attività di lancio
-
+/n/n
 ### Per poter conseguire la licenza, devi effettuare
 
 1. attività addestrativa di 50 lanci con paracadute planante, di cui 15 negli ultimi 12 mesi ed 1 negli ultimi 3 mesi, comprendente i test previsti dalla formazione integrativa all’AFF
@@ -53,7 +53,7 @@ Per essere ammessi agli accertamenti di idoneità per il conseguimento della lic
 4. addestramento integrativo sull’utilizzo in volo ed in atterraggio delle vele. Tale addestramento deve essere annotato sul libretto dei lanci
 
 Il completamento della sequenza di addestramento deve essere annotato sul libretto di istruzione nella sezione dell’addestramento integrativo; l’annotazione è indispensabile per l’attestazione finale di addestramento e per l’idoneità a sostenere l’esame per il conseguimento della licenza.
-
+/n/n
 ### In cosa consiste l’esame teorico per la licenza
 
 L'accertamento per il conseguimento della licenza, da effettuarsi in presenza di un funzionario o di un delegato del Ministero dei Trasporti, consiste nel rispondere a 20 domande, per ognuna delle quali sono indicate 4 possibili risposte, contenute in una scheda estratta a sorte tra 10 schede preventivamente emanate dalla DGAC ed aggiornabili annualmente.
@@ -81,7 +81,7 @@ Le domande, 2 per ogni argomento, vertono su:
 9. Procedure in situazioni di emergenza
 
 10. Normativa aeronautica attinente il paracadutismo
-
+/n/n
 ### Test pratici da effettuare per la Licenza di paracadutismo
 
 è utile informarsi su quali test pratici devi superare per ottenere la licenza. Dopo aver completato il corso AFF, puoi utilizzare i tuoi salti per fare pratica e prepararti al superamento dei test.
@@ -128,7 +128,7 @@ _NB: questo test solitamente viene smarcato durante il corso vela basico_
 #### Addestramento Integrativo: Corso Vela
 
 Addestramento integrativo sull’utilizzo in volo ed in atterraggio delle vele, che prevede un minimo di 5 salti _hop&pop,_ ovvero lanci effettuati a 5000 piedi (circa 1500 metri) con apertura del paracadute principale dopo qualche secondo
-
+/n/n
 ## Ogni quanto devo saltare?
 
 Il paracadutismo è uno sport che, se praticato con costanza (e testa), non risulta pericoloso. Il consiglio è di praticare almeno un centinaio di salti all'anno, anche se la normativa prevede delle numeriche inferiori, e soprattutto finchè hai poca esperienza sarebbe meglio se riuscissi a praticare tutti i weekend, per riuscire a sviluppare una memoria muscolare in caduta libera e prendere una maggiore confidenza con la vela.
@@ -181,7 +181,7 @@ per un paracadutista allievo, il mantenimento dell’attività (e i requisiti pe
 - Allievi con Test 5 convalidato: oltre 3 mesi, un lancio individuale con esercizio a discrezione dell'IP
 
 In generale ricordati che la certificazione dell’attività svolta deve essere timbrata sul tuo libretto lanci da un istruttore (IP) o dal direttore della scuola. Quindi ogni giorno, quando finisci l’attività, compila il tuo libretto con i lanci svolti e cerca un referente che possa inserire i timbri necessari.
-
+/n/n
 ## Voglio prendere la Licenza, cosa devo fare?
 
 Per prendere la Licenza è necessario effettuare degli step specifici, sia pratici sia teorici:
@@ -197,7 +197,7 @@ Per prendere la Licenza è necessario effettuare degli step specifici, sia prati
 Una volta effettuata (e certificata sul libretto) l’attività di addestramento necessaria, puoi procedere a iscriverti per l’esame di accertamento dell’idoneità alla licenza. Informati quini con la tua scuola per capire i documenti necessari da inviare e per sapere le date dell’esame e i termini di pagamento dello stesso.
 
 E mi raccomando, studia per l’esame! Sono solo 20 domande, ce la puoi fare!
-
+/n/n
 ## Gopro, telecamere e action cam, è possibile indossarle per saltare
 
 L’abilitazione all’utilizzo della GoPro o in generale di qualunque marca di telecamera / fotocamera dipende dal possesso di una licenza in corso di validità. Quindi finchè non sei in possesso di licenza o se la tua licenza non è in corso di validità (ovvero non hai l’attività minima) a tutti gli effetti non puoi utilizzarla.
@@ -205,7 +205,7 @@ L’abilitazione all’utilizzo della GoPro o in generale di qualunque marca di 
 La motivazione di base dietro a questa scelta è che la telecamera è un elemento aggiuntivo che non ti serve per volare e che diventa a tutti gli effetti una distrazione rispetto alle priorità del lancio. Soprattutto nei primi lanci, è quindi importante evitare distrazioni non necessarie ed è per questo motivo che la normativa ne ha rimandato l’utilizzo una volta che il paracadutista ha ottenuto un determinato livello di esperienza.
 
 Ad ogni modo, anche quando avrai la licenza, ricordati sempre che la telecamera è l’ultima delle tue priorità. Rimani concentrato su ciò che è importante.
-
+/n/n
 ## tuta alare, quando è possibile utilizzarla per volare
 
 Per poter iniziare il corso di tuta alare sono necessari i seguenti requisiti:
@@ -219,7 +219,7 @@ Mentre il primo punto è netto (o si è in possesso di licenza o non lo si è), 
 Quindi una volta che sei in possesso di licenza in corso di validità e hai 200 salti, rivolgiti ad un istruttore abilitato all’insegnamento della tuta alare per valutare insieme se la tua esperienza è sufficiente per partecipare al corso.
 
 Un consiglio: il volo con la tuta alare può essere considerato un’evoluzione della deriva. Allenati quindi sulla deriva!
-
+/n/n
 ## Che attrezzatura usare per saltare
 
 Per poter salire in aereo e di conseguenza poterti lanciare, avrai bisogno di diversi elementi. Sono qui di seguito elencati in ordine di priorità.
@@ -287,7 +287,7 @@ Sono possibili poi dei componenti ausiliari, quindi non strettamente necessari:
     _Si può pensare al Collins Lanyard come una «seconda RSL» attaccata alla bretella. Una apre la riserva, l’altra rilascia la seconda bretella_
 
 Ricordati che non è necessario avere il proprio materiale, ma puoi sempre rivolgerti alla scuola per noleggiarlo. Ovviamente, ti verrà consegnato un materiale consono alla tua esperienza, in base alla valutazione effettuata dagli istruttori della scuola.
-
+/n/n
 ## Abbigliamento
 
 ### Abbigliamento Obbligatorio
@@ -319,7 +319,7 @@ Oltre alla sacca e all’abbigliamento, sono previsti diversi accessori indossab
 - **Altimetro Acustico**: Indica sempre la distanza dal terreno ma a differenza dell’altimetro standard, dove se ne presuppone la visualizzazione e il costante controllo, l’altimetro acustico viene inserito all’interno del casco ed emette degli avvisi acustici al raggiungimento di determinate quote preimpostate.
 
 - **Radio**: Pur non essendo un elemento su cui fare affidamento, può essere impiegata nei primi salti degli allievi per guidarli nella fase di atterraggio.
-
+/n/n
 ## Cosa fare nei tuoi salti dopo aver concluso il corso AFF
 
 I salti in autonomia da fare dopo il corso AFF sono propedeutici sia ad acquisire memoria muscolare e maggiore tranquillità e stabilità durante la caduta libera e a vela aperta sia al conseguimento della licenza, quindi è consigliato pianificare il proprio percorso salti con un mix equilibrato tra divertimento e addestramento.
@@ -349,7 +349,7 @@ Una precisazione banale ma sempre necessaria: a prescindere dall’esercizio che
 2. Aprire il paracadute alla quota prestabilita
 
 3. Aprire il paracadute alla quota prestabilita possibilmente stabile
-
+/n/n
 ## Suggerimenti sui salti da fare per un allievo che ha finito il corso AFF
 
 Qui di seguito un percorso suggerito per un allievo che ha terminato con successo il corso AFF. Non è un obbligo seguire questo percorso addestrativo, ma può diventare una base di partenza per pianificare i propri salti (e soprattutto possono variare i numeri dei salti in base alla durata del proprio AFF oltre all’esito delle prove dei test effettuate con gli istruttori)
@@ -383,7 +383,7 @@ Qui di seguito un percorso suggerito per un allievo che ha terminato con success
 - Salti da 41 a 45: prove di volo di schiena
 
 - Salti da 46 a 50: corso vela (salti hop&pop, ovvero da 5000 piedi)
-
+/n/n
 ## Come posso organizzarmi per saltare da solo?
 
 Una volta finito il corso AFF, puoi saltare in autonomia il che significa che non saranno più gli istruttori della scuola a organizzare i decolli in cui salirai o gli esercizi da fare, ma dovrai organizzarti autonomamente.
@@ -415,7 +415,7 @@ Ricordati quindi di:
 Mi raccomando, sei ancora sotto la responsabilità degli istruttori ma ricordati che il primo responsabile sei tu! Quindi fai sempre attenzione su tutte le procedure di sicurezza e comunica sempre onestamente i tuoi piani per il salto oltre che attenerti a quanto concordato con il DL.
 
 PS: non dimenticarti a fine giornata di pagare i salti (che non sono più inclusi nel pacchetto prepagato dell’AFF) e di compilare il libretto e farti timbrare i lanci.
-
+/n/n
 ## Allentare il pettorale a vela aperta
 
 ### Perchè allentare il pettorale a vela aperta
