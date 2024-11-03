@@ -1,5 +1,3 @@
-# GLOSSARIO
-/n/n
 ## AAD Automatic Activation Device
 
 Un dispositivo che rileva la velocità di discesa e l’altitudine e che tenterà di attivare meccanicamente il paracadute di emergenza se il paracadutista passa al di sotto di un’altitudine impostata con un tasso di discesa elevato.
