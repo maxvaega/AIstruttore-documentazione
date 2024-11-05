@@ -2,7 +2,7 @@
 
 Intanto bravo! Hai fatto il tuo primo passo nel paracadutismo, ora inizia un bellissimo percorso. Ci sono tante discipline nel paracadutismo tra cui ad un certo punto sceglierai quale intraprendere, ma come prima cosa ti devi dedicare ai passi che servono per ottenere la licenza.
 /n/n
-## Cosa può fare un allievo prima di prendere la licenza
+**Cosa può fare un allievo che ha terminato il corso AFF prima di prendere la licenza**
 
 In primis, finché non hai la licenza ricordiamo insieme le regole:
 
@@ -14,9 +14,7 @@ In primis, finché non hai la licenza ricordiamo insieme le regole:
 
 Quanto sopra vale finché non avrai in mano la licenza, ovvero la prima qualifica che dichiara che sei un paracadutista autonomo.
 /n/n
-## la licenza di paracadutismo
-
-### Cosa fare per per ottenere la licenza di paracadutismo
+## Cosa fare per per ottenere la licenza di paracadutismo
 
 - Arrivare a 50 salti
 
@@ -29,8 +27,8 @@ Quanto sopra vale finché non avrai in mano la licenza, ovvero la prima qualific
 - Iscriverti per l’esame di teoria e… superarlo!
 
 Se hai dei dubbi, parla con i tuoi istruttori o con il direttore della Scuola
-/n/n
-### Come partecipare all'esame di licenza
+
+**Come partecipare all'esame di licenza**
 
 Per essere ammessi agli accertamenti di idoneità per il conseguimento della licenza occorre:
 
@@ -42,7 +40,7 @@ Per essere ammessi agli accertamenti di idoneità per il conseguimento della lic
 
 4. essere in possesso di certificato di idoneità psico-fisica, secondo la normativa specifica in vigore per i paracadutisti, prima dell’inizio dell’attività di lancio
 /n/n
-### Per poter conseguire la licenza, devi effettuare
+**Per poter conseguire la licenza, devi effettuare:**
 
 1. attività addestrativa di 50 lanci con paracadute planante, di cui 15 negli ultimi 12 mesi ed 1 negli ultimi 3 mesi, comprendente i test previsti dalla formazione integrativa all’AFF
 
@@ -54,7 +52,7 @@ Per essere ammessi agli accertamenti di idoneità per il conseguimento della lic
 
 Il completamento della sequenza di addestramento deve essere annotato sul libretto di istruzione nella sezione dell’addestramento integrativo; l’annotazione è indispensabile per l’attestazione finale di addestramento e per l’idoneità a sostenere l’esame per il conseguimento della licenza.
 /n/n
-### In cosa consiste l’esame teorico per la licenza
+## In cosa consiste l’esame teorico per la licenza
 
 L'accertamento per il conseguimento della licenza, da effettuarsi in presenza di un funzionario o di un delegato del Ministero dei Trasporti, consiste nel rispondere a 20 domande, per ognuna delle quali sono indicate 4 possibili risposte, contenute in una scheda estratta a sorte tra 10 schede preventivamente emanate dalla DGAC ed aggiornabili annualmente.
 
@@ -82,17 +80,17 @@ Le domande, 2 per ogni argomento, vertono su:
 
 10. Normativa aeronautica attinente il paracadutismo
 /n/n
-### Test pratici da effettuare per la Licenza di paracadutismo
+## Test pratici da effettuare per la Licenza di paracadutismo
 
 è utile informarsi su quali test pratici devi superare per ottenere la licenza. Dopo aver completato il corso AFF, puoi utilizzare i tuoi salti per fare pratica e prepararti al superamento dei test.
 Se non li hai già superati quindi, valuta bene quello che serve fare e informati su come fare pratica durante un salto. Puoi fare dei salti per allenarti e prepararti al superamento dei test. I test pratici da superare per arrivare alla licenza di paracadutismo sono i seguenti:
 
-**TEST 1: Stabilità ed Autocoscienza** (completato con l'AFF)
+**TEST 1: Stabilità ed Autocoscienza (completato con l'AFF)**
 
 NB: se hai già completato il corso AFF, hai già superato questo test! non è quindi necessario lavorare per superarlo
 Mantenimento autonomo delle condizioni di stabilità nella fase di caduta libera per non meno di 10 secondi consecutivi e nella fase di apertura del paracadute, ed azionamento del dispositivo di apertura alla quota prestabilita ( ± 100 metri).
 
-**TEST 2: Giri** (completato con l'AFF)
+**EST 2: Giri (completato con l'AFF)**
 
 NB: se hai già completato il corso AFF, hai già superato questo test! non è quindi necessario lavorare per superarlo
 Effettuazione nel tempo massimo di 8 secondi di 2 Giri in caduta libera (rotazioni volontarie di 360° sull'asse verticale alternate in sensi opposti) con stop intermedio e finale sull'asse di riferimento iniziale  
@@ -106,7 +104,6 @@ La definizione tecnica della deriva inserita in normativa la descrive come:
 > Modifica in direzione imposta della traiettoria inerziale di caduta libera, efficace e stabile per non meno di 10 secondi consecutivi.
 
 **TEST 4: Figure Associate**
-
 Effettuazione nel tempo massimo di 16 secondi, di un esercizio in caduta libera composto da 2 Giri + 2 Loopings (rotazioni volontarie di 360° sull'asse di beccheggio alternate in sensi opposti) con stop intermedi e finale sull'asse di riferimento iniziale.
 
 **TEST 5: Lavoro Relativo**
@@ -135,7 +132,7 @@ Il paracadutismo è uno sport che, se praticato con costanza (e testa), non risu
 
 Ad ogni modo, a livello di normativa sono previsti diversi requisiti per il mantenimento dell’attività a seconda delle abilitazioni di cui disponi:
 
-### Paracadutista in possesso di Licenza
+## Paracadutista in possesso di Licenza
 
 un paracadutista può esercitare le attività consentite dalla licenza qualora abbia svolto la seguente attività minima periodica:
 
@@ -166,7 +163,7 @@ Per tutto il periodo di svolgimento poi dell’attività minima, il paracadutist
 
 - È vietato l’utilizzo di vele di superficie inferiore a 170 piedi quadri
 
-### Paracadutista non in possesso di Licenza
+## Paracadutista non in possesso di Licenza
 
 per un paracadutista allievo, il mantenimento dell’attività (e i requisiti per una eventuale ripresa da inattività) dipendono dai test di cui si è in possesso:
 
@@ -222,13 +219,19 @@ Un consiglio: il volo con la tuta alare può essere considerato un’evoluzione 
 /n/n
 ## Che attrezzatura usare per saltare
 
-Per poter salire in aereo e di conseguenza poterti lanciare, avrai bisogno di diversi elementi. Sono qui di seguito elencati in ordine di priorità.
+Per poter salire in aereo e di conseguenza poterti lanciare, avrai bisogno di diversi elementi. Sono qui di seguito elencati in ordine di priorità:
+
+- Rig (o, come chiamato comunemente, “materiale” o “sacca”): il contenitore del tuo paracadute
+- Abbigliamento: Casco, tuta...
+- Accessori: coe altimetro, altimetro acustico..
+
+Ricordati che per saltare in sicurezza alcuni di questi componenti sono obbligatori
 
 ## Rig (o, come chiamato comunemente, “materiale” o “sacca”)
 
 Da indossare quasi come uno zaino con chiusure di sicurezza ad alta resistenza, è a tutti gli effetti il contenitore dei due paracadute, principale e di riserva. È composto da diverse parti principali:
 
-### Componenti principali
+**Componenti principali**
 
 - **Imbragatura**: È costituita da un insieme di nastri ad alta resistenza e regolabili che permettono di assicurare il contenitore delle vele al corpo. È strutturata per sopportare uno sforzo pari a circa 15 g (g = forza di gravità) mentre lo shock d'apertura è di circa 3 g, consente un'adeguata distribuzione sul corpo dello shock d'apertura stesso; viene indossata sulle spalle, più o meno come uno zaino, e successivamente assicurata mediante i nastri cosciali ed il nastro pettorale.
 
@@ -251,7 +254,7 @@ Da indossare quasi come uno zaino con chiusure di sicurezza ad alta resistenza, 
     È di forma rettangolare e nei 4 angoli presenta i **grommets** nei quali, divisi per sezioni, scorrono le funi del fascio funicolare.  
     NB: _Lo slider del paracadute di emergenza presenta un’apertura al centro. Tale apertura ne permette una discesa più veloce lungo il fascio, rendendo quindi l’apertura della vela di riserva più immediata di quella di una vela principale_
 
-### Componenti accessori
+**Componenti accessori**
 
 Sono poi presenti degli elementi accessori, ovvero tutte quelle parti che possono essere smontate dal paracadute senza bisogno di scucire o tagliare e sono maniglie, dispositivi di sicurezza, pilotini estrattori, pod e free-bag. Nel dettaglio:
 
@@ -273,7 +276,7 @@ Sono poi presenti degli elementi accessori, ovvero tutte quelle parti che posson
 
 Tutti gli elementi di cui sopra, sia parti cucite al contenitore sia come elementi “accessori” sono comunque parti necessarie della sacca/materiale.
 
-### Componenti ausiliari
+**Componenti ausiliari**
 
 Sono possibili poi dei componenti ausiliari, quindi non strettamente necessari:
 
@@ -290,7 +293,7 @@ Ricordati che non è necessario avere il proprio materiale, ma puoi sempre rivol
 /n/n
 ## Abbigliamento
 
-### Abbigliamento Obbligatorio
+**Abbigliamento Obbligatorio**
 
 A livello di abbigliamento devono essere considerati diversi elementi obbligatori:
 
@@ -302,7 +305,7 @@ A livello di abbigliamento devono essere considerati diversi elementi obbligator
 
 - **Scarpe**: non obbligatorie, ma consigliate per avere un migliore approccio al terreno in fase di atterraggio. Sono consigliate scarpe basse a suola piatta, o comunque scarpe comode e che possano essere sfilate facilmente (quindi sconsigliati ad esempio stivaletti militari che coprano la caviglia).
 
-## Abbigliamento Facoltativo
+**Abbigliamento Facoltativo**
 
 A livello di abbigliamento possono essere considerati diversi elementi accessori, non obbligatori:
 
@@ -418,15 +421,13 @@ PS: non dimenticarti a fine giornata di pagare i salti (che non sono più inclus
 /n/n
 ## Allentare il pettorale a vela aperta
 
-### Perchè allentare il pettorale a vela aperta
-
+**Perchè allentare il pettorale a vela aperta**
 L'allentamento del pettorale dopo l'apertura della vela è una procedura importante per ottimizzare le prestazioni del paracadute e migliorare il comfort del paracadutista. I principali vantaggi sono:
 
 1. **Migliore forma della vela:** Permette alla vela di assumere la sua forma ottimale, consentendole di volare al massimo del suo potenziale.
 2. **Maggiore libertà di movimento:** Facilita i movimenti del paracadutista, particolarmente utile durante la fase di atterraggio.
 
-### Come allentare il pettorale a vela aperta
-
+**Come allentare il pettorale a vela aperta**
 1. Verifica che la vela sia aperta correttamente, che sia stabile e controllabile
 2. controlla il traffico delle altre vele attorno a te, la tua altitudine e posizione per assicurarti che tutto sia sotto controllo prima di procedere e durante la procedura
 3. Guarda il pettorale e afferralo con le mani, cerca il meccanismo di blocco del pettorale
@@ -435,8 +436,7 @@ L'allentamento del pettorale dopo l'apertura della vela è una procedura importa
 6. Ricontrolla la posizione delle maniglie di emergenza dopo l'allentamento
 7. Mantieni il controllo di traffico, altitudine e posizione durante e dopo la procedura
 
-### Cosa succede ad allentare il pettorale a vela aperta
-
+**Cosa succede ad allentare il pettorale a vela aperta**
 1. Cambio nella distribuzione del peso: L'allentamento del pettorale modifica la posizione dell'equipaggiamento sul corpo del paracadutista e ne sposta il peso
 2. Spostamento delle maniglie: Le maniglie della riserva e altre parti dell'equipaggiamento potrebbero cambiare leggermente posizione, verifica sempre la loro posizione una volta completata la procedura
 3. Miglioramento delle prestazioni della vela: La vela può assumere una forma più efficiente approfittando di maggiore spazio in larghezza, migliorando le sue caratteristiche di volo
@@ -448,4 +448,5 @@ L'allentamento del pettorale dopo l'apertura della vela è una procedura importa
 
 **Ricorda:** Una volta completata questa procedura e verificato che tutto sia in ordine, afferra i comandi della vela. Da questo momento in poi, mantieni sempre il controllo dei comandi fino all'atterraggio
 
-**Conclusioni:** Allentare il pettorale potrebbe essere un po' spaventoso le prime volte, ma una volta che ci si abitua, ci si sente più a proprio agio e più connessi alla vela. Sarà inoltre più facile mantenere la direzione di volo e si avrà più mobilità del corpo dentro l'imbrago. Quando si arriva al flare si è più liberi di muoversi e correre grazie al differente baricentro, quindi con una semplice procedura avrai benefici in volo e in atterraggio
+**Conclusioni**
+Allentare il pettorale potrebbe essere un po' spaventoso le prime volte, ma una volta che ci si abitua, ci si sente più a proprio agio e più connessi alla vela. Sarà inoltre più facile mantenere la direzione di volo e si avrà più mobilità del corpo dentro l'imbrago. Quando si arriva al flare si è più liberi di muoversi e correre grazie al differente baricentro, quindi con una semplice procedura avrai benefici in volo e in atterraggio
