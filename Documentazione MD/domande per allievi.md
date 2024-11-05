@@ -87,17 +87,17 @@ Le domande, 2 per ogni argomento, vertono su:
 è utile informarsi su quali test pratici devi superare per ottenere la licenza. Dopo aver completato il corso AFF, puoi utilizzare i tuoi salti per fare pratica e prepararti al superamento dei test.
 Se non li hai già superati quindi, valuta bene quello che serve fare e informati su come fare pratica durante un salto. Puoi fare dei salti per allenarti e prepararti al superamento dei test. I test pratici da superare per arrivare alla licenza di paracadutismo sono i seguenti:
 
-#### TEST 1: Stabilità ed Autocoscienza (completato con l'AFF)
+**TEST 1: Stabilità ed Autocoscienza** (completato con l'AFF)
 
 NB: se hai già completato il corso AFF, hai già superato questo test! non è quindi necessario lavorare per superarlo
 Mantenimento autonomo delle condizioni di stabilità nella fase di caduta libera per non meno di 10 secondi consecutivi e nella fase di apertura del paracadute, ed azionamento del dispositivo di apertura alla quota prestabilita ( ± 100 metri).
 
-#### TEST 2: Giri (completato con l'AFF)
+**TEST 2: Giri** (completato con l'AFF)
 
 NB: se hai già completato il corso AFF, hai già superato questo test! non è quindi necessario lavorare per superarlo
 Effettuazione nel tempo massimo di 8 secondi di 2 Giri in caduta libera (rotazioni volontarie di 360° sull'asse verticale alternate in sensi opposti) con stop intermedio e finale sull'asse di riferimento iniziale  
 
-#### TEST 3: Deriva
+**TEST 3: Deriva**
 
 Esecuzione di uno spostamento orizzantale in deriva stabile ed efficace per almeno 10 secondi consecutivi. Il salto deve prevedere l'esecuzione e il mantenimento di uno spostamento orizzontale in deriva verso una direzione definita. è importante che la direzione venga mantenuta stabile durante l'esecuzione, quindi prendi sempre un riferimento a terra prima di eseguire lo spostamento. Cerca di eseguire una **deriva piatta ed efficace** e rimani in controllo della direzione dello spostamento.
 **Attenzione!** per motivi di sicurezza, la deriva non può essere eseguita verso una direzione a piacere, ma deve essere dichiarata prima di salire in decollo e condivisa con il direttore di lancio. Se salti da solo, chiedi al responsabile del decollo verso che direzione spostarti in deriva.
@@ -105,27 +105,27 @@ Esecuzione di uno spostamento orizzantale in deriva stabile ed efficace per alme
 La definizione tecnica della deriva inserita in normativa la descrive come:
 > Modifica in direzione imposta della traiettoria inerziale di caduta libera, efficace e stabile per non meno di 10 secondi consecutivi.
 
-#### TEST 4: Figure Associate
+**TEST 4: Figure Associate**
 
 Effettuazione nel tempo massimo di 16 secondi, di un esercizio in caduta libera composto da 2 Giri + 2 Loopings (rotazioni volontarie di 360° sull'asse di beccheggio alternate in sensi opposti) con stop intermedi e finale sull'asse di riferimento iniziale.
 
-#### TEST 5: Lavoro Relativo
+**TEST 5: Lavoro Relativo**
 
 Lancio in coppia con un Istruttore di Paracadutismo (IP) o con un paracadutista con licenza in esercizio designato dall'IP, il quale si lancia per primo e nella fase di caduta libera rimane in assetto stabile mantenendo l'asse dell'aeromobile.
 
 Il candidato si lancia separatamente dall'interno dell'aeromobile con distacco osservabile, lo raggiunge entro 30 secondi contati dalla propria uscita ed effettua presa efficace su suo fianco senza pregiudicare la stabilità di entrambi, poi si separa, si allontana con deriva efficace e segnala l'apertura con metodo convenzionale.
 
-#### TEST 6: Precisione d’Atterraggio
+**TEST 6: Precisione d’Atterraggio**
 
 Due atterraggi consecutivi entro 10 metri da un bersaglio prefissato con paracadute principale planante.  
 NB: questo test solitamente viene smarcato durante il corso vela basico
 
-#### TEST 7: Auto-Lancio
+**TEST 7: Auto-Lancio**
 
 _Capacità di determinazione autonoma e corretta del punto di lancio ai fini dell'atterraggio in area prestabilita, ed azioni relative per il raggiungimento dello stesso, dimostrata in almeno 2 lanci_  
 _NB: questo test solitamente viene smarcato durante il corso vela basico_
 
-#### Addestramento Integrativo: Corso Vela
+**Addestramento Integrativo: Corso Vela**
 
 Addestramento integrativo sull’utilizzo in volo ed in atterraggio delle vele, che prevede un minimo di 5 salti _hop&pop,_ ovvero lanci effettuati a 5000 piedi (circa 1500 metri) con apertura del paracadute principale dopo qualche secondo
 /n/n
@@ -448,6 +448,4 @@ L'allentamento del pettorale dopo l'apertura della vela è una procedura importa
 
 **Ricorda:** Una volta completata questa procedura e verificato che tutto sia in ordine, afferra i comandi della vela. Da questo momento in poi, mantieni sempre il controllo dei comandi fino all'atterraggio
 
-### Conclusioni
-
-Allentare il pettorale potrebbe essere un po' spaventoso le prime volte, ma una volta che ci si abitua, ci si sente più a proprio agio e più connessi alla vela. Sarà inoltre più facile mantenere la direzione di volo e si avrà più mobilità del corpo dentro l'imbrago. Quando si arriva al flare si è più liberi di muoversi e correre grazie al differente baricentro, quindi con una semplice procedura avrai benefici in volo e in atterraggio
+**Conclusioni:** Allentare il pettorale potrebbe essere un po' spaventoso le prime volte, ma una volta che ci si abitua, ci si sente più a proprio agio e più connessi alla vela. Sarà inoltre più facile mantenere la direzione di volo e si avrà più mobilità del corpo dentro l'imbrago. Quando si arriva al flare si è più liberi di muoversi e correre grazie al differente baricentro, quindi con una semplice procedura avrai benefici in volo e in atterraggio
