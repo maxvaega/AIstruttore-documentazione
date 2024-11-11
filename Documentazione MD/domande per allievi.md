@@ -1,6 +1,6 @@
 # Cosa fare una volta terminato il corso AFF
 
-Intanto bravo! Hai fatto il tuo primo passo nel paracadutismo, ora inizia un bellissimo percorso. Ci sono tante discipline nel paracadutismo tra cui ad un certo punto sceglierai quale intraprendere, ma come prima cosa ti devi dedicare ai passi che servono per ottenere la licenza.
+Bravo! Hai fatto il tuo primo passo nel paracadutismo, ora inizia un bellissimo percorso. Ci sono tante discipline nel paracadutismo tra cui ad un certo punto sceglierai quale intraprendere, ma come prima cosa ti devi dedicare ai passi che servono per ottenere la licenza.
 /n/n
 **Cosa può fare un allievo che ha terminato il corso AFF prima di prendere la licenza**
 

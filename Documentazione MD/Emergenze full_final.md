@@ -322,18 +322,18 @@ Se durante il controllo della vela si evidenziano delle funi rotte, non è detto
 ## Comando Sbloccato o rotto
 
 **Cos'è?**
-Se dopo l’apertura la vela comincia a girare ininterrottamente, è possibile che ci sia un comando sbloccato o rotto.
+Se dopo l’apertura la vela comincia a girare ininterrottamente, è possibile che ci sia un comando sbloccato/sganciato o rotto.
 Per fermare questa rotazione, afferrare entrambi i comandi per sbloccare anche il secondo rimasto frenato.
 
-Se dopo averlo fatto, la rotazione si interrompe ma un comando rimane in mano, la vela dovrà essere manovrata trazionando verso il basso le bretelle posteriori al posto dei comandi, effettuando degli esercizi in quota sulla frenata. Bisogna comunque prepararsi a fare una buona capovolta.
-Si tratta di un' emergenza a bassa velocità 
+Se dopo averlo fatto, la rotazione si interrompe ma un comando rimane in mano, allora significa che uno dei due comandi era rotto e la vela dovrà essere manovrata trazionando verso il basso le bretelle posteriori al posto dei comandi, effettuando degli esercizi in quota sulla frenata. Bisogna comunque prepararsi a fare una buona capovolta.
+Si tratta di un'emergenza a bassa velocità 
 
 **Cosa fare?**
 
  1. Controllare la Vela
  2. Afferrare entrambi i comandi ed effettuare un tentativo energico di frenata
  3. Effettuare prova di manovrabilità
- 4.Se la prova fallisce, entro i 750 mt, applicare la normale procedura di emergenza, sganciando il paracadute principale ed aprendo quello di riserva.
+ 4. Se la prova fallisce, entro i 750 mt, applicare la normale procedura di emergenza, sganciando il paracadute principale ed aprendo quello di riserva.
 /n/n
 ## Tessuto della vela danneggiato
 
