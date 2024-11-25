@@ -80,6 +80,7 @@ Le domande, 2 per ogni argomento, vertono su:
 
 10. Normativa aeronautica attinente il paracadutismo
 /n/n
+
 ## Test pratici da effettuare per la Licenza di paracadutismo
 
 è utile informarsi su quali test pratici devi superare per ottenere la licenza. Dopo aver completato il corso AFF, puoi utilizzare i tuoi salti per fare pratica e prepararti al superamento dei test.
@@ -323,6 +324,7 @@ Oltre alla sacca e all’abbigliamento, sono previsti diversi accessori indossab
 
 - **Radio**: Pur non essendo un elemento su cui fare affidamento, può essere impiegata nei primi salti degli allievi per guidarli nella fase di atterraggio.
 /n/n
+
 ## Cosa fare nei tuoi salti dopo aver concluso il corso AFF
 
 I salti in autonomia da fare dopo il corso AFF sono propedeutici sia ad acquisire memoria muscolare e maggiore tranquillità e stabilità durante la caduta libera e a vela aperta sia al conseguimento della licenza, quindi è consigliato pianificare il proprio percorso salti con un mix equilibrato tra divertimento e addestramento.
@@ -353,6 +355,7 @@ Una precisazione banale ma sempre necessaria: a prescindere dall’esercizio che
 
 3. Aprire il paracadute alla quota prestabilita possibilmente stabile
 /n/n
+
 ## Suggerimenti sui salti da fare per un allievo che ha finito il corso AFF
 
 Qui di seguito un percorso suggerito per un allievo che ha terminato con successo il corso AFF. Non è un obbligo seguire questo percorso addestrativo, ma può diventare una base di partenza per pianificare i propri salti (e soprattutto possono variare i numeri dei salti in base alla durata del proprio AFF oltre all’esito delle prove dei test effettuate con gli istruttori)
@@ -387,6 +390,7 @@ Qui di seguito un percorso suggerito per un allievo che ha terminato con success
 
 - Salti da 46 a 50: corso vela (salti hop&pop, ovvero da 5000 piedi)
 /n/n
+
 ## Come posso organizzarmi per saltare da solo?
 
 Una volta finito il corso AFF, puoi saltare in autonomia il che significa che non saranno più gli istruttori della scuola a organizzare i decolli in cui salirai o gli esercizi da fare, ma dovrai organizzarti autonomamente.
@@ -428,6 +432,7 @@ L'allentamento del pettorale dopo l'apertura della vela è una procedura importa
 2. **Maggiore libertà di movimento:** Facilita i movimenti del paracadutista, particolarmente utile durante la fase di atterraggio.
 
 **Come allentare il pettorale a vela aperta**
+
 1. Verifica che la vela sia aperta correttamente, che sia stabile e controllabile
 2. controlla il traffico delle altre vele attorno a te, la tua altitudine e posizione per assicurarti che tutto sia sotto controllo prima di procedere e durante la procedura
 3. Guarda il pettorale e afferralo con le mani, cerca il meccanismo di blocco del pettorale
@@ -437,6 +442,7 @@ L'allentamento del pettorale dopo l'apertura della vela è una procedura importa
 7. Mantieni il controllo di traffico, altitudine e posizione durante e dopo la procedura
 
 **Cosa succede ad allentare il pettorale a vela aperta**
+
 1. Cambio nella distribuzione del peso: L'allentamento del pettorale modifica la posizione dell'equipaggiamento sul corpo del paracadutista e ne sposta il peso
 2. Spostamento delle maniglie: Le maniglie della riserva e altre parti dell'equipaggiamento potrebbero cambiare leggermente posizione, verifica sempre la loro posizione una volta completata la procedura
 3. Miglioramento delle prestazioni della vela: La vela può assumere una forma più efficiente approfittando di maggiore spazio in larghezza, migliorando le sue caratteristiche di volo
