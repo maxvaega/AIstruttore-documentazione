@@ -12,7 +12,6 @@ riescono a rilevare con sufficiente anticipo i possibili rischi e pericoli e le 
 adottate solo troppo tardi. Tutto ciò può essere quindi causa di incidenti, nel peggiore dei casi molto
 gravi o persino mortali.
 
-
 **Stato di salute**
 | paracadutisti con sintomi di malessere o malattia non devono in nessun caso lanciarsi, Un
 semplice raffreddore può limitare la nostra capacità di compensazione automatica della pressione
@@ -34,8 +33,8 @@ nausea
 
 Quando si pratica il paracadutismo è necessario un abbigliamento adeguato. Pur essendo possibile lanciarsi indossando normali capi casual o sportivi, si raccomanda l'utilizzo di speciali tute per paracadutismo. Sono disponibili vari modelli, ad uno o due pezzi, con caratteristiche aerodinamiche a volte specificatamente studiate per le singole discipline. 
 Indossando un'apposita tuta, inoltre, si evita che gli indumenti (soprattutto le t-shirt) si mettano a svolazzare in caduta libera e possano incidentalmente finire sopra le maniglie dell'imbracatura. In caso di problemi d'apertura, infatti, la copertura della maniglia può complicare o addirittura impedire la corretta esecuzione della procedura d'emergenza, con possibili gravi conseguenze.
-Per quanto riguarda l'abbigliamento, occorre inoltre cercare di trovare il giusto compromesso tra la temperatura normalmente più elevata al suolo e quella più bassa alla quota di lancio. Soprattutto in estate, si raccomanda di non sottovalutare l'escursione termica (1 °C ogni 100 m). 
-Vestendosi troppo al suolo, un'eventuale traspirazione eccessiva può determinare una ipotermia durante l'ascesa alla quota di lancio (soprattutto in caso di velivoli senza porte) o successivamente in caduta libera. 
+Per quanto riguarda l'abbigliamento, occorre inoltre cercare di trovare il giusto compromesso tra la temperatura normalmente più elevata al suolo e quella più bassa alla quota di lancio. Soprattutto in estate, si raccomanda di non sottovalutare l'escursione termica (1 °C ogni 100 m).
+Vestendosi troppo al suolo, un'eventuale traspirazione eccessiva può determinare una ipotermia durante l'ascesa alla quota di lancio (soprattutto in caso di velivoli senza porte) o successivamente in caduta libera.
 In inverno la tenuta dovrà essere adattata alle temperature più basse. In questa stagione si consiglia di combinare tessuti caldi ed antivento, oppure di indossare tute termiche. In caso di basse temperature è assolutamente necessario indossare dei guanti, per non compromettere la sensibilità e le capacità tattili delle mani.
 In linea di principio non è prudente lanciarsi senza un casco appropriato. Mentre durante i lanci di addestramento è obbligatorio indossare un casco rigido, i paracadutisti con licenza possono anche utilizzare caschetti di cuoio o equivalenti. Un casco o un analogo sistema di protezione del capo è utile nelle situazioni seguenti:
 
@@ -46,6 +45,7 @@ In linea di principio non è prudente lanciarsi senza un casco appropriato. Ment
 Si raccomanda di indossare il casco anche sull'aereo, durante il decollo e l'atterraggio o in caso di turbolenze, per proteggersi da eventuali possibili sobbalzi in volo.
 
 ## Livello di addestramento
+
 Sebbene negli anni la pratica del paracadutismo sia divenuta sempre più sicura, continuano purtroppo a verificarsi degli incidenti, solo di rado imputabili a difetti dei materiali. La causa più frequente rimane infatti, malauguratamente, l'errore umano. Per contrastare in modo ottimale questo fattore è indispensabile che ogni paracadutista mantenga un adeguato livello di addestramento. Un'esperienza pluriennale può essere di aiuto, ma non deve indurre alla routine ed alla superficialità, con il rischio di commettere azioni sconsiderate in momenti pericolosi.
 È quindi molto importante compiere il numero minimo di lanci richiesto dalla Federazione. Se possibile, conviene inoltre evitare che intercorrano lunghi periodi senza lanciarsi ed è bene ripetere regolarmente le misure da attuare in caso di pericolo, ad esempio:
 
@@ -58,6 +58,7 @@ Sebbene negli anni la pratica del paracadutismo sia divenuta sempre più sicura,
 Istruttori, paracadutisti esperti o anche i piloti potranno aiutarvi a fugare qualsiasi incertezza o dubbio.
 
 ## Zona di lancio e dintorni
+
 È essenziale familiarizzare con la zona di lancio ed i suoi dintorni. Questo comprende i punti seguenti:
 
 - quota della zona di lancio sul livello del mare; ad altitudini elevate cambiano le caratteristiche di volo e soprattutto di atterraggio del paracadute, a causa della minore densità dell'aria
@@ -68,6 +69,7 @@ Istruttori, paracadutisti esperti o anche i piloti potranno aiutarvi a fugare qu
 - possibilità di atterraggi esterni involontari/zone di atterraggio d'emergenza
 
 ## Meteo
+
 La pratica del paracadutismo dipende fortemente dalle condizioni atmosferiche ed anche quando splende il sole è bene studiare attentamente la situazione meteorologica:
 
 - direzione e forza del vento alla quota di lancio, che influenzano la sequenza e le pause tra i singoli gruppi al momento del lancio
@@ -77,6 +79,7 @@ La pratica del paracadutismo dipende fortemente dalle condizioni atmosferiche ed
 - altezza, consistenza e natura delle nubi.
 
 ## Aereo
+
 Nel paracadutismo i tipi di velivoli più comuni sono il Pilatus Porter o Cessna Caravan, tuttavia in alcune zone di lancio vengono impiegati anche altri modelli. È consigliabile quindi familiarizzare con le caratteristiche dell'aereo e con le regole specifiche di ciascun centro di lancio:
 
 - dove e come si sale sull'aereo
@@ -86,6 +89,7 @@ Nel paracadutismo i tipi di velivoli più comuni sono il Pilatus Porter o Cessna
 - modalità di apertura del portello dell'aereo ed eventuali punti da osservare in particolare durante il lancio.
 
 ## Altri paracadutisti
+
 Per prepararsi con serietà al lancio è necessario anche appurare chi siederà assieme a noi sull'aereo. In tal modo si potranno evitare collisioni in caduta libera, durante l'apertura del paracadute ed all'atterraggio.
 Sulla base delle dimensioni dei vari gruppi si determinano le distanze tra le uscite e la separazione (quota e direzione).
 Esempi di programmi speciali:
@@ -96,6 +100,7 @@ Esempi di programmi speciali:
 - Atterraggi ad alte prestazioni (Swoop): i paracadutisti con velature più piccole e rapide a volte effettuano manovre di avvicinamento ed atterraggio diverse.
 
 ## Il briefing pre-lancio e il debriefing post-lancio
+
 Di norma, per prepararsi al prossimo lancio, i paracadutisti partecipano ad una breve riunione informativa, il cosiddetto briefing. Soprattutto nei lanci di gruppo è necessario concordare un programma comune ed i diversi parametri del lancio.
 Tuttavia, anche in caso di lancio individuale, è bene che il paracadutista si prepari al meglio con un briefing. Sia che si tratti di un lancio in formazione o di un lancio di addestramento, il briefing dovrà essere in ogni caso coerente, chiaro, e comprensibile.
 Dopo ogni lancio si tiene il debriefing, una riunione per la disamina a posteriori delle prestazioni, l'occasione ideale per una critica costruttiva all'interno del gruppo o con il singolo allievo.
@@ -127,8 +132,8 @@ Per eseguire correttamente un lancio in gruppo è indispensabile condurre un buo
 - pilotaggio del paracadute (scaglionamento)
 - atterraggio (circuito di atterraggio)
 
-
 ## Briefing della procedura d'emergenza
+
 Si raccomanda di effettuare anche un briefing sulle situazioni che possono richiedere l'apertura del paracadute d'emergenza, prendendo in esame almeno i seguenti punti:
 
 - tipo di lancio
@@ -157,6 +162,7 @@ Un lancio con atterraggio al di fuori di un centro o una zona di lancio pone par
 - in caso di atterraggio entro un raggio di 5 km da un aeroporto, necessità di autorizzazione del dirigente dell'aerodromo.
 
 ## Controllo dell'equipaggiamento
+
 In linea di principio l'imbracatura deve essere priva di oggetti (sono bandite anche eventuali mascotte), perché potrebbero comprometterne in qualche modo la funzionalità. Applicazioni di stoffa ed adesivi conferiscono all'imbracatura un tocco personale, ma prima di procedere si raccomanda assolutamente di estrarre le vele, altrimenti potrebbero rimanere cucite all'imbracatura (purtroppo è successo...)! Si raccomanda inoltre di non tagliare a cuor leggero eventuali bretelle troppo lunghe.
 Senza le estremità cucite le bretelle possono infatti fuoriuscire dalla fibbia!
 
@@ -207,7 +213,6 @@ Accessori:
 - Eventuale altimetro acustico impostato
 - In caso di dispositivi digitali, verificare regolarmente la capacità residua delle batterie e sostituire queste ultime con tempestività.
 
-
 ## Controlli al materiale - Prima di salire sull'aereo
 
 Imbracatura:
@@ -228,6 +233,7 @@ Patelle di chiusura/protezione:
 - Chiuse
 
 ## Controlli al materiale - Prima del lancio
+
 L'equipaggiamento può subire delle modifiche causate da movimenti incauti e dal contatto con altri paracadutisti o con il velivolo. Per rilevare tali variazioni è importante eseguire un ulteriore controllo prima del lancio:
 
 - Cuscinetto di sgancio e maniglia dell'emergenza: presenti e fissati (tasca o velcro)
@@ -237,8 +243,8 @@ L'equipaggiamento può subire delle modifiche causate da movimenti incauti e dal
 - Patella di protezione spinotto «pin» su vela principale: chiusa
 - Pettorale (ed eventuale addominale): infilato ed indossato correttamente
 
-
 ## Lancio
+
 è  consigliabile familiarizzare con la procedura di lancio e mantenere la comunicazione con il DL (Direttore di lancio). Quando si pianificherà un salto con atterraggio esterno ci si renderà conto di quanto sia importante avere esperienza in questo ambito. Anche in questo caso l'esercizio fa il maestro. Si consiglia quindi di sfruttare sempre ogni opportunità di coordinare il lancio di altri paracadutisti. Quando il direttore di lancio è il pilota, è comunque possibile seguire e giudicare con occhio critico il suo operato come esercizio.
 
 **Briefing del pilota**
@@ -249,11 +255,11 @@ In funzione della zona di lancio, prima del decollo è necessario fornire al pil
 - numero di paracadutisti per ciascun passaggio
 - casi speciali (ad es. Wingsuit, Tracking Dive, aperture più alte ecc.)
 
-
 **Sequenza di lancio**
 Il volo di avvicinamento del velivolo alla zona di lancio avviene preferibilmente controvento (in quota). In tal modo si riduce la velocità dell'aereo rispetto al suolo ed è possibile determinare con maggiore precisione il punto di lancio. A seconda dello spazio aereo e delle convenzioni tra i centri di lancio e l'organo di controllo della circolazione aerea ciò potrebbe non essere sempre possibile e pertanto i passaggi di avvicinamento possono a volte avvenire anche con vento da dietro. La sequenza è decisa in base alle condizioni del vento, alla quota di lancio ed ai rispettivi valori di deriva dei singoli paracadutisti o gruppi.
 
 ## Ordine di uscita - Lancio controvento
+
 è il caso più comune. Per evitare collisioni, i gruppi/paracadutisti con la deriva in caduta libera maggiore devono saltare prima di quelli con una deriva minore. Pur esistendo a volte regole diverse, in casi eccezionali o a seconda della località, la sequenza di lancio è fondamentalmente la seguente:
 
 - gruppi con velocità di discesa più bassa (FCL/RW); gruppi più numerosi prima dei gruppi più piccoli e dei paracadutisti in solitaria
@@ -261,10 +267,8 @@ Il volo di avvicinamento del velivolo alla zona di lancio avviene preferibilment
 - lanci di addestramento e lanci in tandem (quote di apertura più alte)
 - lanci con wingsuit
 
-
-
-
 ## Lancio con vento in coda
+
 Nei lanci effettuati nella direzione del vento, quindi con vento in coda all'aereo, si adotta generalmente una sequenza inversa, tuttavia anche in questo caso i paracadutisti con apertura più alta dovranno lanciarsi per ultimi. La sequenza consigliabile è la seguente:
 
 - gruppi con velocità di discesa più elevata (Freefly); gruppi più numerosi prima dei gruppi più piccoli e dei paracadutisti in solitaria
@@ -273,8 +277,8 @@ Nei lanci effettuati nella direzione del vento, quindi con vento in coda all'aer
 - lanci in tandem
 - lanci con wingsuit
 
-
 ## Determinazione del punto di lancio e traslazione dovuta al vento
+
 Per determinare il punto di lancio ideale e la corretta sequenza è necessario considerare la direzione e la velocità del vento alla quota di lancio, nonché le velocità di caduta libera approssimative dei singoli gruppi.
 Per calcolare lo spostamento in caduta libera di un paracadutista sulla base del vento in quota è possibile utilizzare la seguente formula:
 
@@ -291,7 +295,6 @@ Traslazione [m] = (distanza verticale [m] - velocità del vento [m/s]) / velocit
 >
 > **Traslazione [Freefly]** = (3000 m * 10 m/s) / 70 m/s = 428,5 m 
 
-
 La stessa formula si applica anche per la deriva con paracadute aperto (tenendo conto della velocità di avanzamento della vela), per il calcolo del possibile tratto in planata.
 
 **Esempio:**
@@ -307,12 +310,12 @@ La stessa formula si applica anche per la deriva con paracadute aperto (tenendo 
 Dopo avere lasciato il velivolo, un paracadutista non inizia immediatamente a cadere in verticale.
 A causa della velocità di avanzamento dell'aereo, la sua caduta descrive una parabola passando dall'orizzontale alla verticale. Il percorso orizzontale compiuto da un paracadutista nella direzione di volo dopo il lancio può essere calcolato secondo la seguente formula di approssimazione:
 
-
 > **Tratto percorso [m]** = (5 * velocità dell'aereo rispetto al suolo [m/s] * tempo di caduta libera [s]) / (tempo di caduta libera [s] + 5)
 
 Questa formula vale per tempi di caduta libera di massimo 15 secondi.
 
 ## Tecnica di direzione di lancio: L'avvicinamento dell'aereo al punto di lancio
+
 L'asse di avvicinamento assunto dal velivolo prima del lancio dovrà condurre direttamente sopra la zona di atterraggio ed essere possibilmente controvento. In situazioni di vento particolari o in determinate condizioni dello spazio aereo sono naturalmente sempre possibili delle eccezioni. Per correggere il pilota in caso di avvicinamento errato e garantire un lancio sicuro, ogni paracadutista deve essere in grado di rilevare tempestivamente la posizione del velivolo di lancio ed i possibili influssi del vento.
 
 **Nota bene:**
@@ -321,9 +324,9 @@ L'asse di avvicinamento assunto dal velivolo prima del lancio dovrà condurre di
 - Ogni paracadutista provvisto di licenza è responsabile del proprio lancio (e quindi anche del rispettivo punto di lancio), anche se molti piloti effettuano di routine la manovra di avvicinamento autonomamente (e si spera correttamente).
 - I paracadutisti sprovvisti di licenza, devono sempre seguire le indicazioni del Direttore di Lancio (DL) quando sono a bordo dell'aereo e prima di lasciarlo per saltare
 
-
 **Determinazione della posizione del velivolo**
 Per determinare correttamente la posizione dell'aereo il paracadutista Direttore di Lancio può utilizzare il metodo sotto descritto:
+
 - Testa e spalle devono essere completamente fuori dalla cabina, in modo che il campo di visione perpendicolare non sia intralciato dall'aereo. Guardare terra attraverso la parete laterale del velivolo non è saggio, perché solo raramente si vola parallelamente al suolo (angolo d'incidenza).
 - Scegliere all'orizzonte un punto a 90° rispetto alla direzione di volo (prolungamento dell'ala) e tracciare una linea immaginaria da tale punto all'aereo.
 - Scegliere all'orizzonte un punto nella direzione di volo (prolungamento del naso dell'aereo) e tracciare una linea immaginaria da tale punto all'aereo.
@@ -337,9 +340,8 @@ la zona di atterraggio.
 **Correzione dell'asse di avvicinamento**
 Se l'asse non dovesse corrispondere a quello desiderato, è possibile effettuare una correzione dando le dovute istruzioni al pilota a voce o con segnali. In quest'ultimo caso, ad ogni segnale il pilota correggerà l'asse di 5° nella direzione desiderata (senza cambiare l'inclinazione laterale dell'aereo). Impartire ulteriori segnali di correzione solo dopo avere valutato attentamente il nuovo asse di avvicinamento. Un buon direttore di lancio evita di richiedere correzioni confuse e contraddittorie.
 
-
-
 ## Tecnica di direzione di lancio: determinazione del punto di lancio
+
 Sia In caduta libera, sia con paracadute aperto, il paracadutista è soggetto all'influenza del vento. È pertanto molto importante stabilire con esattezza il punto di lancio, affinché il paracadutista possa atterrare nell'area prestabilita, anche in caso di apertura del paracadute d'emergenza.
 Nella fase di determinazione del punto di lancio, si raccomanda di osservare i seguenti aspetti:
 
@@ -348,7 +350,8 @@ Nella fase di determinazione del punto di lancio, si raccomanda di osservare i s
 - Nella maggior parte dei casi il punto di apertura non si trova in corrispondenza del punto di lancio (traslazione in caduta libera a causa dell'influenza del vento)
 - Numero di gruppi/singoli paracadutisti, che si lanciano durante lo stesso passaggio. Per evitare collisioni è necessario rispettare determinati intervalli tra i gruppi. II punto di lancio deve essere scelto in modo che tutti i gruppi/paracadutisti possano raggiungere la zona di atterraggio nonostante tali intervalli. In caso di dubbio, si consiglia di effettuare un secondo passaggio.
 
-Il punto di lancio può essere determinato in tre modi.
+Il punto di lancio può essere determinato in tre modi:
+
 - Calcolo: questo metodo è puramente teorico e viene utilizzato prevalentemente in ambito militare, tuttavia è bene che anche i paracadutisti civili conoscano questo principio.
 - Impiego di un derivometro «drifter, wind drift indicator»: un derivometro è una striscia di carta arrotolata che presenta la stessa velocità di discesa del paracadute utilizzato. Lanciando un drifter alla normale quota di apertura sopra il bersaglio e continuando ad osservare è possibile stimare la direzione e la forza del vento. È così possibile rilevare la distanza percorsa dal derivometro dal punto in cui è stato lanciato al rispettivo punto di atterraggio, a partire dal bersaglio controvento (direzione di avvicinamento). In questo modo si ottiene il punto di apertura del paracadute. Questo metodo viene ora utilizzato solo in ambito militare, per lanci con paracadute a calotta rotonda e nelle competizioni di precisone in atterraggio.
 - Osservazione di altri paracadutisti ed esperienza: la deriva in caduta libera può essere determinata attraverso le proprie conoscenze delle condizioni locali o mediante osservazione del punto di lancio ed apertura di altri paracadutisti. Prestando attenzione ai loro successivi atterraggi si potrà valutare la qualità del punto di lancio.
@@ -357,12 +360,13 @@ Per ciascuna procedura di lancio vale la seguente regola generale: meglio essere
 
 **Riduzione della velocità di avvicinamento**
 Prima di raggiungere il punto di lancio, il pilota diminuisce la velocità (eventualmente su comando del direttore di lancio, se presente). Al riguardo occorre prestare attenzione ai seguenti fattori:
+
 - Velocità dell'aereo al lancio: un'elevata velocità del velivolo al momento del lancio può determinare un marcato superamento del punto di lancio.
 - Controvento: un forte vento contrario può provocare uno spostamento all'indietro dell'aereo che potrebbe non raggiungere mai il punto di lancio
 - Intervallo tra riduzione della velocità e lancio: se si vuole effettuare un lancio di gruppo, è necessario considerare il tempo di preparazione di tutti i paracadutisti.
 
-
 ## Situazioni di emergenza in aereo
+
 Può succedere che a causa di un guasto il velivolo di lancio debba compiere un atterraggio forzato o un'evacuazione d'emergenza. In questi casi si raccomanda, in base all'altitudine, la procedura seguente.
 
 - < 300 m/suolo: assumere subito la posizione d'urto (crash position)
@@ -372,20 +376,21 @@ In tutti i casi, in una situazione di emergenza si devono ascoltare le istruzion
 Un comportamento sconsiderato spesso porta all'apertura del paracadute all'interno dell'a-
 ereo. In questa evenienza occorre assolutamente evitare che la vela finisca in mezzo alla corrente d'aria. Il malcapitato paracadutista dovrà ovviamente atterrare a bordo dell'aereo. Mai tentare di richiudere l'equipaggiamento e lanciarsi comunque! In questo caso occorre disattivare, se possibile, eventuali dispositivi di apertura automatica o altrimenti informare tempestivamente il pilota al riguardo, in modo che possa effettuare la sua discesa più lentamente.
 
-in linea di principio vale quanto segue.
+in linea di principio vale quanto segue:
+
 - Per decolli e/o atterraggi: protezione del capo (fino a/da 300 m/suolo o conformemente ad altre istruzioni specifiche vigenti in loco)
 - Ad ogni apertura del portellone dell'aereo: mettersi il casco!
 - All'interno dell'aereo, proteggere sempre l'equipaggiamento di lancio da manipolazioni involontarie.
 
-## L'uscita dall'aereo
+## L'uscita dall'aereo
 
 **Sicurezza**
 Non è consentito uscire dall'aereo prima che il pilota o il direttore di lancio abbia dato l'ok al lancio.
 In caso contrario si corre il rischio di trovarsi altri velivoli sotto di sé, con pericolo di collisioni in caduta libera o durante l'apertura del paracadute. Prima di lanciarsi è assolutamente necessario effettuare un ultimo breve controllo dell'equipaggiamento, per assicurarsi che il paracadute non possa aprirsi intempestivamente e rimanere appeso al velivolo.
 Al momento del lancio si dovrà inoltre prestare attenzione a non sbattere contro l'aereo, con il rischio, da un lato, di subire lesioni e, dall'altro, di danneggiare il velivolo. In particolare si raccomanda la massima cautela in caso di telecamere posizionate sul casco, eventualmente sporgenti, badando ad evitare di colpire inavvertitamente Il velivolo.
 
-
 ## Uscita dall'aereo: tipi di uscite
+
 Fondamentalmente è possibile lanciarsi dall'aereo in qualsiasi posizione immaginabile. Nell'addestramento, tuttavia, si sono affermate le tipologie di uscite seguenti, essendo quelle che permettono al paracadutista di raggiungere il più rapidamente possibile una posizione prona stabile.
 
 **Demi-flèche (mezza deriva)**
@@ -401,13 +406,11 @@ In questo caso il lancio viene effettuato all'indietro con la testa in avanti, c
 In caso contrario si viene spinti in avanti dal vento relativo (che proviene dalla direzione di volo), rischiando di fare una giravolta in avanti.
 
 ## Situazioni di emergenza: paracadutista appeso al velivolo
+
 Se il paracadute si apre inavvertitamente già in uscita si può rimanere impigliati al velivolo (impennaggio o altri elementi sporgenti) con il paracadute. Questa evenienza non solo rappresenta un pericolo per il paracadutista, ma può compromettere fortemente la funzionalità dell'aereo o farlo precipitare. Se si dovesse rimanere appesi con il paracadute principale al velivolo, è possibile sganciarlo ed azionare quello di emergenza. Prima di compiere questa operazione, tuttavia, è necessario comunicare con un segnale (mano sul casco) al pilota o agli altri paracadutisti che va tutto bene ed attendere assolutamente una conferma di risposta prima di eseguire la procedura d'emergenza.
 
-## La caduta libera:Aspetti fondamentali
-Sebbene la caduta libera debba essere un momento di distensione e svago, possibilmente senza eccessive limitazioni, non bisogna mai dimenticare la sicurezza. Eventuali collisioni in caduta libera o low-pull, ossia le aperture a bassa quota, possono infatti trasformare in un attimo il divertimento in pericolo. È quindi importante prepararsi scrupolosamente per ciascun lancio, secondo i criteri precedentemente descritti.
-
-
 ### Posizioni in caduta libera
+
 esistono molte posizioni in caduta libera. Tra le principali troviamo:
 
 **Box position (posizione piatta o posizione «box»)**
@@ -464,6 +467,7 @@ Affinché non si verifichino collisioni con altri gruppi o paracadutisti in soli
 Le wingsuit, o tute alari, sono speciali tute dove negli spazi tra le gambe e tra ciascun braccio ed il tronco sono state inserite delle alette di tessuto. Con le wingsuit è possibile raggiungere un angolo di planata di ben 2,5: 1 o più e percorrere così grandi distanze in orizzontale (diversi chilometri). Per non rischiare di allontanarsi troppo dalla zona di atterraggio, con le tute alari normalmente non si vola lungo un asse fisso, ma si compie una sorta di circuito, che dovrà essere deciso in precedenza con gli altri paracadutisti ed i piloti di lancio per evitare, da un lato, di provocare collisioni con altri paracadutisti/velivoli e, dall'altro, di entrare inavvertitamente in uno spazio aereo controllato.
 
 ## Separazione
+
 Nei lanci in gruppo è essenziale effettuare una buona separazione prima dell'apertura del paracadute. Non esiste una quota di separazione standard. Nel determinare l'altitudine più adeguata per Ciascun caso occorre prendere in considerazione diversi fattori: dimensione della formazione, tipo di terreno, paracadutisti con poca esperienza ecc.
 Quando si raggiunge la quota di separazione cessa il lavoro in caduta libera. Un segnale con le braccia indica agli altri paracadutisti che si è giunti alla quota di separazione. Dopodiché tutti i paracadutisti iniziano ad allontanarsi dal centro del gruppo verso l'esterno, mediante deriva - una procedura che può durare diversi secondi, in base alla dimensione del gruppo. È assolutamente necessario prestare attenzione a non volare troppo vicino al compagno che si è lanciato prima o dopo di sé. In altre parole non ci si deve mai separare nella direzione di avvicinamento/lancio dell'aereo, per non rischiare collisioni con altri paracadutisti. 
 Prima dell'apertura del principale si frena la deriva, assumendo la posizione standard (box position), e si fa un altro segnale con le braccia.
@@ -473,6 +477,7 @@ Un errore frequente è quello di «volare sotto», cioè invece di allontanarsi 
 Anche una separazione troppo corta può essere molto pericolosa. Eventuali virate del principale durante la fase di apertura possono determinare collisioni con altri paracadutisti. È bene quindi tenere sempre d'occhio i propri compagni di lancio durante la fase di apertura ed afferrare con le mani le bretelle posteriori per essere pronti ad effettuare una manovra di evitamento in caso di necessità.
 
 ## Apertura del paracadute
+
 La fase di apertura del paracadute è una delle più delicate del lancio. A differenza della caduta libera o del volo a paracadute aperto, il paracadutista non ha alcun controllo diretto della fase di apertura. È pertanto fondamentale seguire con attenzione il processo di estrazione ed apertura della vela.
 
 **Controllo della vela**
