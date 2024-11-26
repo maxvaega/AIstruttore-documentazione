@@ -8,11 +8,11 @@
 LA CONDIZIONE PSICO-FISICA OTTIMALE È UN REQUISITO ESSENZIALE PER OGNI PARACADUTISTA.
 Di seguito i casi in cui bisogna assolutamente evitare di effettuare attività lancistica:
 
-**- sotto l’effetto di alcol, droghe, farmaci o altre sostanze che possano alterare le normali capacità di percezione;
+- sotto l’effetto di alcol, droghe, farmaci o altre sostanze che possano alterare le normali capacità di percezione;
 
 - prima che siano passate almeno 24 ore da un’immersione subacquea con autorespiratore;
 - se si è affetti da otiti, forti raffreddori o altre infiammazioni acute dell’apparato respiratorio;
-- ogni qualvolta ci si senta fisicamente o psicologicamente indisposti.**
+- ogni qualvolta ci si senta fisicamente o psicologicamente indisposti.
 /n/n
 ## PRIORITÀ DEL LANCIO IN CADUTA LIBERA
 
@@ -251,7 +251,7 @@ Il malfunzionamento è un qualsiasi tipo di anomalia del paracadute principale c
 
 #### 9.1 | MALFUNZIONAMENTI RISOLVIBILI
 
-Questi inconvenienti possono verificarsi durante la sequenza di apertura del paracadute principale e devono essere risolti entro la quota di sicurezza di 800 metri. Se entro tale quota la vela principale non è correttamente aperta (non ha quindi le tre caratteristiche fondamentali di forma, volo e manovrabilità) possiamo considerarli a tutti gli effetti dei malfunzionamenti e si effettua la procedura di emergenza.
+Questi inconvenienti possono verificarsi durante la sequenza di apertura del paracadute principale e devono essere risolti entro la quota decisionale di sicurezza di 750 metri. Se entro tale quota la vela principale non è correttamente aperta (non ha quindi le tre caratteristiche fondamentali di forma, volo e manovrabilità) possiamo considerarli a tutti gli effetti dei malfunzionamenti e si effettua la procedura di emergenza.
 
 I malfunzionamenti risolvibili sono:
 - GIRI DI AVVITAMENTO
@@ -264,34 +264,34 @@ I malfunzionamenti risolvibili sono:
 ##### GIRI DI AVVITAMENTO
 
 È un avvitamento del fascio funicolare. Può essere basso (che parte dalle bretelle) o alto e interessare solo la parte delle funi. I giri di avvitamento si verificano in fase di apertura della vela principale, a causa di una rotazione della
-POD o della vela per un’apertura asimmetrica. I giri di avvitamento si possono risolvere impugnando le due coppie di bretelle e quindi, allargandole, si cerca con il proprio corpo di girare nella direzione opposta a quella dell’avvitamento. Mentre si risolvono i giri di avvitamente si continua a controllare la quota. Nel caso in cui il fascio risulti ancora avvitato, entro la quota limite di 800 metri, si effettua la procedura di emergenza.
+POD o della vela per un’apertura asimmetrica. I giri di avvitamento si possono risolvere impugnando le due coppie di bretelle e quindi, allargandole, si cerca con il proprio corpo di girare nella direzione opposta a quella dell’avvitamento. Mentre si risolvono i giri di avvitamente si continua a controllare la quota. Nel caso in cui il fascio risulti ancora avvitato, entro la quota decisionale di 750 metri, si effettua la procedura di emergenza.
 /n/n
 ##### SLIDER ALTO
 /n/n
 Lo Slider è un rettangolo di tessuto che rallenta l’apertura della vela, scendendo progressivamente su tutto il fascio funicolare, fino all’attaccatura con le bretelle. Può accadere che lo Slider non scenda del tutto e rimanga a metà corsa, a causa di un’apertura molto lenta o perchè la vela non si è del tutto gonfiata.
 Questo inconveniente si può risolvere impugnando entrambe le maniglie dei comandi e trazionandole contemporaneamente verso il basso, progressivamente fino in fondo, per poi ritornare, sempre in modo progressivo e controllato verso l’alto.
 Se lo Slider non scende subito si possono fare altri due tentativi. Mentre si effettua tale procedura si continua a controllare la quota.
-Nel caso in cui lo Slider rimanga bloccato in alto, entro la quota limite di 800 metri, si effettua la procedura di emergenza.
+Nel caso in cui lo Slider rimanga bloccato in alto, entro la quota decisionale di 750 metri, si effettua la procedura di emergenza.
 /n/n
 ##### CASSONI SGONFI
 
 a causa di un’apertura molto lenta la vela non si gonfia completamente e i cassoni laterali rimangono chiusi, flosci.
 Anche questo inconveniente si può risolvere impugnando entrambe le maniglie dei comandi e trazionandole contemporaneamente verso il basso, progressivamente fino in fondo, per poi ritornare, sempre in modo progressivo e controllato verso l’alto.
 Se i cassoni laterali non si gonfiano subito si possono fare altri due tentativi. Mentre si effettua tale procedura si continua a controllare la quota.
-Nel caso in cui la vela non si gonfi completamente, entro la quota limite di 800 metri, si effettua la procedura di emergenza.
+Nel caso in cui la vela non si gonfi completamente, entro la quota decisionale di 750 metri, si effettua la procedura di emergenza.
 /n/n
 ##### UN COMANDO SBLOCCATO
 
 Può accadere che in fase di apertura si sblocchi uno dei due comandi. In questo caso la vela inizierà a girare dalla parte in cui è rimasto bloccato l’altro comando (vi è ancora il mezzo freno).
 Questo inconveniente si può risolvere fermando la rotazione, impugnando entrambe le maniglie dei comandi e trazionandole contemporaneamente verso il basso in modo da sbloccare anche l’altro freno per poi ritornare, sempre in modo progressivo e controllato, in alto.
 Se la vela non torna a volare diritta, ma continua a girare si possono fare altri due tentativi. Mentre si effettua tale procedura si continua a controllare la quota.
-Se la vela non torna a volare diritta e non è manovrabile, entro la quota limite di 800 metri, si effettua la procedura di emergenza.
+Se la vela non torna a volare diritta e non è manovrabile, entro la quota decisionale di 750 metri, si effettua la procedura di emergenza.
 /n/n
 ##### PILOTINO ESTRATTORE SOTTO/DAVANTI AL PARACADUTE PRINCIPALE
 
 Può accadere che in fase di apertura il pilotino estrattore passi sotto/davanti la vela principale e/o si impigli nelle funi. In questo caso non è possibile risolvere l’inconveniente.
 Si controlla che la vela si sia aperta correttamente, abbia le tre caratteristiche di Forma, Volo e Manovrabilità. Mentre si effettuano tali controlli si continua a controllare la quota.
-Nel caso in cui la vela non sia manovrabile, non sia direzionabile e non ci dia la sensazione che ci possa far atterrare in sicurezza, entro la quota limite di 800 metri, si effettua la procedura di emergenza.
+Nel caso in cui la vela non sia manovrabile, non sia direzionabile e non ci dia la sensazione che ci possa far atterrare in sicurezza, entro la quota decisionale di 750 metri, si effettua la procedura di emergenza.
 /n/n
 ### 10.0 | MALFUNZIONAMENTI DEL PARACADUTE PRINCIPALE
 
@@ -380,7 +380,7 @@ Per evitare questo inconveniente bisogna:
 
 1) avere una corretta cura ed attenzione dell’equipaggiamento che si utilizza
 2) ripassare e simulare spesso, prima del lancio, la procedura di emergenza
-3) iniziare la procedura di emergenza entro la quota minima decisionale di 800 metri, controllando spesso l’altimetro per averne coscienza.
+3) iniziare la procedura di emergenza entro la quota minima decisionale di 750, controllando spesso l’altimetro per averne coscienza.
 /n/n
 ##### NEL CASO IN CUI CI SI TROVI CON DUE VELE APERTE
 
