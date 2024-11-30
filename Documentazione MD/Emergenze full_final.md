@@ -11,7 +11,7 @@ Le emergenze possono essere distinte in base alla quota/al momento di svolgiment
 3. **Emergenze all’Equipaggiamento**: situazioni che si presentano all’apertura;
 4. **Emergenze in Atterraggio**: ostacoli da evitare.
 
-/n/n
+
 ## Comportamento all’imbarco e in Aereo**
 
 Al raggiungimento della zona di imbarco, il paracadute e il resto dell’equipaggiamento devono essere già indossati e il tutto deve essere già stato controllato, da se stesso in caso di paracadutista licenziato o da un istruttore in caso di paracadutista allievo.
@@ -29,7 +29,7 @@ Le normali procedure da seguire sono le seguenti:
 
 - **Cosa è importante "proteggere" in aereo?**
   - Le maniglie del proprio paracadute devono sempre essere protette quando seduti in aereo o in generale dentro l’aereo per prevenire aperture accidentali.
-/n/n
+
 ### Apertura Accidentale del Paracadute
 
 **Porta Chiusa**
@@ -43,7 +43,7 @@ Se una delle vele (principale o emergenza) è uscita dal contenitore, deve esser
 Se una delle proprie vele, o quella di qualcun altro, si è aperta all'interno dell'aereo, deve essere afferrata per evitare che esca all'esterno: la porta dell'aereo andrà tempestivamente chiusa! Nel caso in cui la vela abbia già iniziato ad aprirsi all'esterno dell'aereo sarà impossibile fermarla, quindi in tal caso è importante seguirla immediatamente se è la propria, altrimenti agevolare l’uscita del paracadutista stesso. È ovviamente possibile che si presenti un malfunzionamento.
 
 In caso si dovesse restare appesi all'aereo, deve essere disconnessa l'RSL, sganciata la vela principale e aperta la riserva.
-/n/n
+
 ### Avarie dell’Aereo
 
 L'aereo è un mezzo di trasporto e come tale, sebbene sia mantenuto in perfetta efficienza seguendo gli standard più ristretti, è soggetto a possibili guasti o inconvenienti.
@@ -70,7 +70,7 @@ Nel caso in cui dovesse verificarsi questa eventualità:
 - **Sotto i 300 mt:** Si atterra con l'aereo, mantenendo il casco e le cinture allacciati e rimanendo seduti in posizione di sicurezza.
 
 *NB:* in aereo il livello di rumore è alto perciò durante un'emergenza aerea è importante stare in silenzio totale per facilitare le comunicazioni tra pilota e responsabili
-/n/n
+
 ### Emergenze in caduta libera: Perdita di stabilità
 
 In caso di perdita di stabilità durante la caduta libera è importante mantenere il controllo della quota, ricordando le priorità:
@@ -81,7 +81,7 @@ In caso di perdita di stabilità durante la caduta libera è importante mantener
 
 Di conseguenza, in caso di perdita di stabilità, fare arco evitando movimenti a scatti e mantenere la posizione finché il flusso d’aria stesso non riporta a volare stabile sulla pancia.
 Se in quota di apertura la posizione non è ancora stabile, procedere comunque con l’apertura del principale.
-/n/n
+
 ### Emergenze in caduta libera: Ingresso in Nube o Perdita di Visibilità
 
 Può succedere che durante un lancio si attraversi uno strato di nubi / si perda visibilità del terreno sotto di sé.
@@ -91,7 +91,7 @@ In entrambi i casi è importante evitare spostamenti «incontrollati» lungo l�
 
 **Cosa fare se l’apertura avviene sopra le nubi o in nube?**
 Mantenere la vela frenata a circa il 40% e rilasciare poi leggermente il comando sinistro in modo da innescare una rotazione piatta a destra.
-/n/n
+
 ### Emergenze in caduta libera: Apertura accidentale
 
 **Come può succedere un’apertura accidentale?**
@@ -105,7 +105,7 @@ Nel caso di un’apertura accidentale in caduta libera, è molto probabile che l
 Se invece la vela è correttamente manovrabile, è necessario spostarsi subito dall’asse di lancio e a questo punto il «lancio» stesso cambia: non è più un lancio di caduta libera ma diventa un lancio di navigazione.
 
 **NB:** in caso di apertura in quota elevata durante il periodo invernale o comunque in caso di basse temperature, i comandi devono essere tenuti ponendo il dorso della mano all’aria, in modo da mantenere più calde le dita.
-/n/n
+
 ### Emergenze in caduta libera: Collisione in caduta Libera
 
 Ricordando che i salti di gruppo (con due o più paracadutisti) devono sempre essere svolti in sicurezza, può comunque succedere che due paracadutisti finiscano per collidere durante la caduta libera.
@@ -115,7 +115,7 @@ In questo caso, la reazione alla collisione dipende dall’entità della stessa:
 - **Collisione senza conseguenze a quota di apertura** separazione controllata (controllo della quota) e apertura
 - **Collisione con conseguenze gravi** Aprire il paracadute
 Una volta terminato il lancio (ovvero dopo aver appoggiato la propria vela / sacca in zona ripiegamento) è poi necessario effettuare un debriefing per capire come sia successo e come evitare la stessa situazione in futuro.
-/n/n
+
 ### Emergenze in caduta libera: Pettorale Aperto in caduta libera
 
 Il controllo del pettorale fa parte dei controlli di sicurezza del proprio materiale una volta indossato oltre che in aereo prima della quota di lancio (è importante non controllare solo il proprio, ma controllare visivamente anche quelli dei paracadutisti a bordo con noi).
@@ -126,7 +126,7 @@ Nel caso in cui durante la caduta libera ci si dovesse accorgere di avere il pet
 - Afferrare saldamente lo spallaccio del lato di apertura con la mano opposta
 - Procedere con l’apertura del paracadute
 - Con la mano dell’apertura afferrare immediatamente lo spallaccio del lato opposto
-/n/n
+
 ### Emergenze in caduta libera: Rottura o perdita dell’Altimetro
 
 In caso di mancanza dell’altimetro durante la caduta libera (per perdita o rottura dello stesso), è importante differenziare la reazione secondo la disponibilità del ditter (altimetro acustico).
@@ -138,7 +138,7 @@ In caso di mancanza dell’altimetro durante la caduta libera (per perdita o rot
 Inoltre, per il punto di atterraggio è consigliato mantenersi fuori dalla zona ad alto traffico.
 
 **NB:** Se ti accorgi in aereo di un malfunzionamento del tuo altimetro, comunicalo al DL / tuo istruttore: solitamente in aereo è presente un altimetro in più per queste emergenze!
-/n/n
+
 ## Emergenze in apertura
 
 Si definisce emergenza una situazione diversa da ciò che è stato pianificato.
@@ -152,7 +152,7 @@ Per malfunzionamento si intende ogni tipo di anomalia nella vela o nell'equipagg
 - **Malfunzionamenti totali** alta velocità di discesa
 - **Malfunzionamenti parziali** bassa velocità di discesa
 Inoltre, sono possibili delle **aperture inusuali** della propria vela, che potrebbero comportare l’attuazione della procedura di emergenza.
-/n/n
+
 **Apertura corretta del paracadute**
 
 1. Avvertimento dello shock di apertura
@@ -170,7 +170,7 @@ Inoltre, sono possibili delle **aperture inusuali** della propria vela, che potr
 7. I comandi sono accessibili
 
 8. Lo slider è sceso fino alle bretelle
-/n/n
+
 **Emergenza a bassa velocità**
 
 1. Avvertimento dello shock di apertura
@@ -182,7 +182,7 @@ Inoltre, sono possibili delle **aperture inusuali** della propria vela, che potr
 Cercare di risolvere il problema **mantenendo consapevolezza della quota**
 
 **Se NON è risolvibile: Applicare la procedura di emergenza**
-/n/n
+
 **Emergenza ad alta velocità**
 
 Si tratta di una parziale o assente apertura.
@@ -196,7 +196,7 @@ La velatura non è aperta
 **Se contando 5 secondi la vela non è ancora aperta**
 
 **Applicare la Procedura di Emergenza**
-/n/n
+
 ## Procedura di emergenza
 
 1. Guarda e impugna con la mano destra la maniglia di sgancio
@@ -205,7 +205,7 @@ La velatura non è aperta
 4. Assicurati della totale trazione della maniglia di sgancio portando in alto il braccio destro
 5. Dopo aver sganciato il paracadute principale raddoppia la presa sulla maniglia della riserva
 6. Traziona verso il basso la maniglia della riserva
-/n/n
+
 ## Malfunzionamenti totali
 
 - pacco chiuso
@@ -225,7 +225,7 @@ Il Pacco chiuso può essere causato da diversi fattori. Tra i più frequenti abb
 Il pilotino è a tutti gli effetti gonfio ed aperto qualche metro sopra la propria sacca, ma non riesce ad aprire il contenitore del principale.
 
 **Cosa fare?** Applicare la normale procedura di emergenza, sganciando il paracadute principale ed aprendo quello di riserva.
-/n/n
+
 ## Malfunzionamenti parziali
 
 Sono malfunzionamenti parziali:
@@ -240,7 +240,7 @@ La velocità di discesa può essere rallentata (ma non sempre) e si potrebbe ave
 - È importante ricordare che durante un'autorotazione la velocità di discesa è comunque elevata.
 
 **Qual è la quota decisionale per effettuare la procedura di emergenza?** NON deve MAI essere inferiore a 750 mt
-/n/n
+
 ## POD al Traino
 
 **Cos'è?**
@@ -251,7 +251,7 @@ Tipo di malfunzionamneto parziale in cui il pilotino, una volta estratto, ha cor
  1. Controllare la vela
  2. Provare a risolvere il problema mantenendo il controllo della quota
  3. Entro i 750 mt, applicare la normale **procedura di emergenza**, sganciando il paracadute principale ed aprendo quello di riserva.
-/n/n
+
 ## Fiamma
 
 **Cos'è?**
@@ -262,7 +262,7 @@ Tipo di malfunzionamneto parziale in cui le funi sono completamente estese e la 
  1. Controllare la vela
  2. Provare a risolvere il problema mantenendo il controllo della quota
  3. Entro i 750 mt, applicare la normale **procedura di emergenza**, sganciando il paracadute principale ed aprendo quello di riserva.
-/n/n
+
 ## Ferro di Cavallo / Pilotino Incastrato
 
 **Cos'è?**
@@ -275,7 +275,7 @@ malfunzionamneto parziale. Ci sono due tipi di ferro di cavallo:
 
  1. Provare a trazionare il pilotino (potrebbe essere in una posizione inusuale)
  2. Entro i 750 mt, applicare la normale **procedura di emergenza**, sganciando il paracadute principale ed aprendo quello di riserva.
-/n/n
+
 ## Emergenza a bassa velocità: 
 
 - **line-over**: Durante la fase di spiegamento della vela in apertura, una o più funi passano al di sopra dell’estradosso, strozzandola.
@@ -285,7 +285,7 @@ malfunzionamneto parziale. Ci sono due tipi di ferro di cavallo:
 - **tessuto della vela danneggiato**: una parte del tessuto della vela è danneggiato
 - **Giri di avvitamento (Line twist)**: Può succedere che in fase di apertura, vela e corpo del paracadutista non si muovano in sincrono e di conseguenza si vengono a creare dei giri di avvitamento sul fascio funicolare.
 
-/n/n
+
 ## Line-Over / funi sopra la vela / funi sopra estradosso / funi incastrate nel tessuto della vela / reggiseno
 
 **Cos'è?**
@@ -296,7 +296,7 @@ Durante questa emergenza a bassa velocità la fase di spiegamento della vela in 
  1. Controllare la vela
  2. Effettuare al massimo 2 tentativi energici di frenata
  3. Entro i 750 mt, applicare la normale **procedura di emergenza**, sganciando il paracadute principale ed aprendo quello di riserva.
-/n/n
+
 ## Falso nodo / Falsi nodi
 
 **Cos'è?**
@@ -307,7 +307,7 @@ In questa emergenza a bassa velocità in apertura, durante la fase di spiegament
  1. Controllare la vela
  2. Effettuare al massimo 2 tentativi energici di frenata
  3. Entro i 750 mt, applicare la normale **procedura di emergenza**, sganciando il paracadute principale ed aprendo quello di riserva.
-/n/n
+
 ## Fune rotta / Funi rotte
 
 **Cos'è?**
@@ -318,7 +318,7 @@ Se durante il controllo della vela si evidenziano delle funi rotte, non è detto
  1. Controllare la vela
  2. Effettuare prova di manovrabilità
  3. Se la prova fallisce, entro i 750 mt, applicare la normale **procedura di emergenza**, sganciando il paracadute principale ed aprendo quello di riserva.
-/n/n
+
 ## Comando Sbloccato o rotto
 
 **Cos'è?**
@@ -334,7 +334,7 @@ Si tratta di un'emergenza a bassa velocità
  2. Afferrare entrambi i comandi ed effettuare un tentativo energico di frenata
  3. Effettuare prova di manovrabilità
  4. Se la prova fallisce, entro i 750 mt, applicare la normale procedura di emergenza, sganciando il paracadute principale ed aprendo quello di riserva.
-/n/n
+
 ## Tessuto della vela danneggiato
 
 **Cos'è?**
@@ -349,7 +349,7 @@ Poichè la vela è aperta, si tratta di un'emergenza a bassa velocità.
  1. Controllare la vela
  2. Effettuare prova di manovrabilità
  3. Se la prova fallisce, entro i 750 mt, applicare la normale **procedura di emergenza**, sganciando il paracadute principale ed aprendo quello di riserva.
-/n/n
+
 ### Giri di avvitamento (Line twist)
 
 **Cos'è?**
@@ -359,7 +359,7 @@ Può succedere che in fase di apertura, vela e corpo del paracadutista non si mu
 Devono essere impugnate le bretelle, allargandole, e nello stesso tempo girare con il corpo in direzione opposta all’avvitamento.
 
 In caso i giri non fossero rimossi entro i 750 metri, applicare la procedura di emergenza.
-/n/n
+
 ## Aperture inusuali
 Le casistiche di aperture inusuali che possono verificarsi sono:
 - Pilotino in Depressione: Può capitare che il pilotino, per via della depressione che si crea dietro la schiena, esiti per qualche secondo ritardando l’apertura della vela.
@@ -374,7 +374,7 @@ Può capitare che il pilotino, per via della depressione che si crea dietro la s
 
 **Cosa fare?**
 Normalmente girando la testa verso il fianco per controllare il pilotino, il leggero cambio di posizione potrebbe far prendere aria al pilotino facendolo uscire dalla depressione.
-/n/n
+
 ### Slider alto
 
 **Cos'è?**
@@ -384,7 +384,7 @@ Ciò potrebbe provocare una strozzatura delle funi ed impedire il completo dispi
 
 **Cosa fare?**
 È possibile far scendere lo slider fino alla sua posizione corretta trazionando energicamente i comandi fino alla posizione di massima frenata almeno un paio di volte.
-/n/n
+
 ### Cassoni laterali chiusi
 
 **Cos'è?**
@@ -392,7 +392,7 @@ Ciò potrebbe provocare una strozzatura delle funi ed impedire il completo dispi
 
 **Cosa fare?**
 È possibile farli gonfiare trazionando energicamente i comandi fino alla posizione di massima frenata almeno un paio di volte.
-/n/n
+
 ### Pilotino davanti alle Bocche o Impigliato tra le Funi
 
 **Cos'è?**
@@ -403,7 +403,7 @@ Può capitare che durante la fase di apertura il pilotino si impigli nelle funi 
 In questo caso deve essere utilizzata normalmente evitando manovre brusche.
 
 In caso la vela non fosse governabile, deve essere applicata la procedura di emergenza.
-/n/n
+
 ## Due Vele aperte
 
 **Cause**
@@ -424,18 +424,14 @@ Le possibili configurazioni che si possono verificare con due vele aperte sono:
 - side by side
 - principale e riserva intrecciati
 
-/n/n
-### Seconda vela parziale al traino
-Rientra tra le casistiche delle due vele aperte, si possono verificare le seguenti casistiche:
 **UNA VELA APERTA E IL PILOTINO DELL’ALTRA AL TRAINO**
 In questo caso è importante mantenere la vela frenata al 50% ed eseguire il minor numero di manovre possibile per evitare che l’aumento di velocità permetta al pilotino al traino di estrarre la seconda velatura.
 
 **UNA VELA APERTA E LA POD DELL’ALTRA AL TRAINO**
 In questo caso, i comandi devono essere lasciati stivati, e bisogna cercare di recuperare la pod chiusa e trattenerla tra le gambe, per poi proseguire fino all’atterraggio con la vela frenata al 50% ed eseguendo il minor numero di manovre possibile.
-/n/n
-### Biplano
 
-**Cos'è?**
+**Biplano**
+
 Si definisce biplano quando le due vele aperte si posizionano una davanti all’altra in maniera stabile.
 
 **Cosa fare?**
@@ -444,37 +440,32 @@ Procedere fino all’atterraggio sbloccando ed utilizzando solamente i comandi d
 Frenare in atterraggio potrebbe togliere stabilità a questa configurazione per questo è bene evitare di farlo, considerando comunque che avendo il doppio della superficie alare aperta sopra di sé, l’atterraggio sarà ugualmente morbido.
 
 È importante comunque prepararsi a fare una buona capovolta in atterraggio.
-/n/n
-### Downplane
 
-**Cos'è?**
+**Downplane**
+
 Si definisce downplane quando le due vele aperte prendono direzioni opposte facendo aumentare radicalmente la velocità di discesa.
 
-**Cosa fare?**
 Non essendo possibile atterrare in questa configurazione, bisogna subito disconnettere l’RSL, se c’è tempo, e sganciare la vela principale.
-/n/n
-### Side by side
 
-**Cos'è?**
+**Side by side**
+
 Le due vele aperte si posizionano una di fianco all’altra.
 
-**Cosa fare?**
 Questa è una configurazione particolarmente delicata perciò necessita di molta accortezza nelle manovre.
 È importante lasciare assolutamente i comandi bloccati su entrambe le vele, e procedere a manovrare solo il minimo indispensabile per evitare ostacoli utilizzando le bretelle posteriori esterne.
 
 Solo se la quota lo permette ed in caso di assoluta certezza che le bretelle delle due vele siano completamente libere tra di loro, disconnettere l'RSL e sganciare.
-/n/n
-### Principale e Riserva Intrecciati
+
+**Principale e Riserva Intrecciati**
 
 Rientra tra le casistiche delle due vele aperte
-**Cos'è?**
+
 Nell’aprirsi le due vele si sono impigliate l’una con l’altra.
 
-**Cosa fare?**
 In questo caso, bisogna cercare di recuperare quella meno gonfia per permettere all’altra di sostenere il peso il più possibile.
 
 Sarà comunque necessaria una capovolta in atterraggio.
-/n/n
+
 ## Collisioni a vela aperta
 
 **Considerazioni sotto la vela**
@@ -494,7 +485,7 @@ In caso di intreccio con un altro paracadutista e alla sua vela, è necessario s
 **NB**: se l'intenzione è quella di sganciare, lo dovrà fare per primo quello più in basso cercando di ottenere dopo lo sgancio una buona separazione verticale (disconnettere l’RSL prima di sganciare).
 
 **NB**: nell'eventualità di una collisione a vela aperta, cercare di non attraversare le funi dell'altra vela. Frenare al 100% e gambe e braccia spalancate al momento dell’impatto.
-/n/n
+
 ## Atterraggio
 
 Nell’arco degli anni, l’equipaggiamento è stato man mano migliorato, aumentando la sicurezza e minimizzando i malfunzionamenti dovuti all’equipaggiamento stesso.
@@ -502,7 +493,7 @@ Analizzando gli incidenti avvenuti nell’ultimo decennio, quelli causati da mal
 
 Secondo i dati forniti da USPA per il 2021, il 50% degli incidenti dell’anno stesso sono riconducibili alla fase di atterraggio.
 La fase di atterraggio ricopre quindi oggi il momento più ad alto rischio del nostro sport, ed è quindi bene sapere sempre come comportarsi per minimizzare il rischio.
-/n/n
+
 **Circuito Standard: Pianificazione dell'atterraggio**
 
 Tra i 750 e i 300 metri è importante concentrarsi sulla pianificazione dell’atterraggio (senza perdere di vista il «traffico» delle altre vele).
@@ -516,7 +507,7 @@ Considerando che normalmente si atterra controvento, è possibile preparare ment
  1. Atterrare con la vela Livellata (vela parallela al terreno in fase di approccio)
  2. Atterrare in zona libera da ostacoli
  3. Possibilmente controvento
-/n/n
+
 ### Circuito di atterraggio
 
 Il circuito di atterraggio è una procedura di approccio al terreno ed è identico a quello effettuato da un pilota di aereo.
@@ -536,13 +527,13 @@ Date le prestazioni di avanzamento e discesa della vela, è altamente raccomanda
 La velocità di avanzamento di una vela dipende ovviamente dalla conformazione e dimensione della stessa oltre che dall’intensità del vento.
 
 A parità però di specifiche della vela, è importante tenere a mente che all’aumentare dell’intensità del vento varia in modo considerevole la traiettoria di discesa della vela stessa.
-/n/n
+
 ### Direzione di atterraggio
 
 **Cosa fare se il primo ad atterrare è atterrato a favore?** La cosa più pericolosa sono gli incroci in atterraggio. È quindi bene mantenere la stessa direzione del primo in atterraggio se si pianifica di atterrare in una zona ad alto traffico.
 
 Altrimenti è possibile atterrare controvento andando ad atterrare in una zona a bassissimo traffico
-/n/n
+
 ## Procedure per atterraggi pericolosi
 
 Non è sempre possibile atterrare in una zona priva di ostacoli oppure in condizioni di vento favorevoli o in generale può sempre capitare un atterraggio duro ad ogni paracadutista.
@@ -574,7 +565,7 @@ Questa tecnica permette di dissipare la forza dell'atterraggio, distribuendola o
 Oltre alla capriola, ci sono accorgimenti aggiuntivi da adottare nelle diverse casistiche.
 
 **NB**: è importante evitare di arrestare la caduta portando il peso in avanti e puntando le mani contro il terreno.
-/n/n
+
 ### Alberi nella zona di atterraggio
 
 **Cosa fare?**
@@ -586,7 +577,7 @@ Le gambe devono essere unite e raccolte per ammortizzare l’urto, mentre le bra
 
 Se non è possibile trovare un appoggio stabile, o in generale in caso di traumi che impediscano il movimento, è necessario aspettare i soccorsi e non agire d’impulso.
 **NB**: in questo caso è necessario disconnettere l’RSL prima di procedere allo sgancio del paracadute principale
-/n/n
+
 ### Atterraggio in acqua
 
 **Cosa fare?**
@@ -603,7 +594,7 @@ Una volta atterrato in acqua, è necessario procedere a sganciare la vela e libe
 Se l’atterraggio è avvenuto lontano dalla riva, è consigliato rimanere vicini all’equipaggiamento, in quanto più facile da localizzare.
 
 **NB**: se la zona d’atterraggio è vicina a specchi d’acqua, è obbligatorio indossare il salvagente oltre alla propria attrezzatura da lancio.
-/n/n
+
 ### Linee elettriche
 
 In caso di atterraggio fuori zona, le linee elettriche sono uno dei pericoli di maggiore interesse, in quanto sono prettamente invisibili finché non a distanza già ravvicinata. Inoltre, rappresentano non solo un ostacolo «fisico» ma anche un pericolo per la corrente elettrica a contatto.
@@ -619,7 +610,7 @@ In caso non sia possibile evitare una linea elettrica:
 - Se rimasti appesi, evitare di sganciare la vela principale e aspettare assistenza dal personale qualificato (vigili del fuoco o ENEL).
 
 **NB**: eventuali linee elettriche possono essere facilmente individuate dall'alto ed evitate seguendo la posizione dei tralicci di sostegno.
-/n/n
+
 ### Altri ostacoli
 
 **Cosa fare?**
@@ -631,7 +622,7 @@ In caso di ostacolo verticale, la frenata deve essere effettuata con piedi uniti
 
 **Cos'altro fare per un atterraggio su un tetto?**
 Per un atterraggio su un tetto, è suggerito sganciare la vela principale non appena possibile (dopo aver disconnesso l’RSL) in modo da evitare un eventuale trascinamento dal vento.
-/n/n
+
 ### Atterraggi fuori zona
 
 **Cosa fare in caso non sia possibile atterrare in campo?**
@@ -640,7 +631,7 @@ In caso non sia possibile atterrare dove pianificato in origine, entro i 600 mt 
 È decisamente meglio atterrare fuori zona in un campo «sicuro» piuttosto che sacrificare la quota e dover poi vertere su un atterraggio forzato in zone poco sicure o con virate basse.
 
 **NB**: atterrare «lontano e in sicurezza» è preferibile di «più vicino ma ad alto rischio»
-/n/n
+
 ### Atterraggi con vento forte
 
 **Cosa fare in caso di vento molto forte?**
@@ -649,7 +640,7 @@ In caso non sia possibile atterrare dove pianificato in origine, entro i 600 mt 
 Una volta effettuato l’atterraggio, la vela potrebbe rimanere gonfia. Rilasciando un comando e trazionando a fondo l’altro correndo verso la vela permette di sgonfiarla e non esserne trascinati.
 
 In caso di trascinamento, è necessario disconnettere l’RSL e sganciare il paracadute principale.
-/n/n
+
 ### Atterraggi in caso di Turbolenze
 
 Scorrendo sul terreno, l’aria può assumere dei moti turbolenti.

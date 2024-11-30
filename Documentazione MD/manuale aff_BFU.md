@@ -1,6 +1,6 @@
 
 # AFF Accelerated Free Fall - Manuale didattico
-/n/n
+
 ## 1.0 | INTRODUZIONE AL CORSO ACCELERATO IN CADUTA LIBERA – AFF
 
 ### 1.1 | NORME GENERALI
@@ -13,7 +13,7 @@ Di seguito i casi in cui bisogna assolutamente evitare di effettuare attività l
 - prima che siano passate almeno 24 ore da un’immersione subacquea con autorespiratore;
 - se si è affetti da otiti, forti raffreddori o altre infiammazioni acute dell’apparato respiratorio;
 - ogni qualvolta ci si senta fisicamente o psicologicamente indisposti.
-/n/n
+
 ## PRIORITÀ DEL LANCIO IN CADUTA LIBERA
 
 1) APRIRE IL PARACADUTE
@@ -21,7 +21,7 @@ Di seguito i casi in cui bisogna assolutamente evitare di effettuare attività l
 2) APRIRE IL PARACADUTE ALLA QUOTA PRESTABILITA (1700 METRI)
 
 3) APRIRE IL PARACADUTE ALLA QUOTA PRESTABILITA (1700 METRI) POSSIBILMENTE STABILE
-/n/n
+
 ## 2.0 | EQUIPAGGIAMENTO - PARACADUTE
 
 Il paracadute è composto dalle seguenti parti principali:
@@ -39,7 +39,7 @@ I dispositivi ausiliari sono i componenti del paracadute indipendenti, che posso
 
 Nota: il paracadute prima di essere messo in commercio ed utilizzato deve superare alcuni importanti test di funzionalità e resistenza, quali trazione dei nastri dell’imbragatura, resistenza agli elementi atmosferici, funzionalità della
 vela di riserva nei diversi utilizzi e con differenti pesi sospesi. Al completamento positivo di tali test viene rilasciato un Certificato di Utilizzo chiamato TSO (Technical Standard Order)
-/n/n
+
 ### 2.1 | ACCESSORI
 
 L’allievo, oltre al paracadute, indossa un casco rigido protettivo, un altimetro da polso, una tuta da lancio intera e degli
@@ -65,7 +65,7 @@ Ne esistono di diverse tipologie e misure, eventualmente anche contenitivi (OTG)
 #### CASCHETTO RIGIDO
 
 Da non confondersi con simili caschi di uso generico, poichè creati per rispondere alle esigenze dei paracadutisti in materia di sicurezza
-/n/n
+
 ## 3.0 | APERTURA DEL PARACADUTE PRINCIPALE
 
 L’apertura della vela principale si trova all’estremità inferiore destra del contenitore. È costituita da un nottolino in plastica, solitamente arancione, fissato al pilotino estrattore della vela principale. Il pilotino estrattore è ripiegato in una tasca elastica posta sotto il contenitore principale. Al momento dell’apertura della vela principale (alla quota di 1700 metri) trazionando il nottolino si estrae il pilotino e lo si lancia nel flusso d’aria, innescando l’apertura del contenitore con l’estrazione e il dispiegamento della vela principale.
@@ -73,12 +73,12 @@ L’apertura della vela principale si trova all’estremità inferiore destra de
 ### 3.1 | FASI DI APERTURA
 
 Trazionando il nottolino del pilotino estrattore della vela principale nel flusso d’aria, questo si gonfierà comportandosi come un freno aerodinamico e dando inizio alla sequenza di apertura: aprendo il contenitore principale, estraendo la POD (una borsa in cui è ripiegata la vela) e mettendo in trazione il fascio funicolare. Quando le funicelle saranno del tutto distese il tessuto della vela uscirà dalla POD, cominciando a gonfiarsi. Questa è la fase di dispiegamento della vela che viene rallentata dallo Slider (un rettangolo di tessuto posto tra le funi che scende fin sopra alla nostra testa durante l’apertura del paracadute). La vela principale deve gonfiarsi entro e non oltre il tempo di 5 secondi, quindi al momento dell’estrazione del pilotino si dovrà eseguire il conteggio: 1001, 1002, 1003, 1004, 1005 e controllare girando la testa verso l’alto. Questo controllo permette al pilotino, nel caso in cui non sia partito perchè rimasto nella zona di depressione dietro al paracadutista, di gonfiarsi ed innescare la sequenza di apertura del paracadute principale.
-/n/n
+
 ### 3.2 | SLIDER E COMANDI
 
 Durante il dispiegamento della vela lo Slider, rettangolo in tessuto, scende sulle funi rallentando l’apertura, fino ad arrivare poco sopra la vostra testa, dove termina il fascio funicolare e cominciano le bretelle.
 Sulle bretelle posteriori si trovano i comandi, costituiti da due asole in tessuto normalmente giallo. Tramite i comandi si può direzionare la vela, trazionandoli verso il basso. Se si traziona il comando di destra la vela virerà verso destra, se si traziona il comando di sinistra la vela virerà verso sinistra. Trazionando contemporaneamente entrambi i comandi la vela frenerà il suo avanzamento.
-/n/n
+
 ## 4.0 | SGANCIO, RISERVA, SISTEMA 3-Anelli
 
 **Il cuscinetto dello sgancio della vela principale** È posizionato nella parte anteriore destra dell’imbragatura ed assicurato con un velcro. Quando viene trazionato disconnette, tramite il Sistema 3-Anelli, la vela principale dall’imbragatura.
@@ -86,7 +86,7 @@ Sulle bretelle posteriori si trovano i comandi, costituiti da due asole in tessu
 **La maniglia di apertura della riserva** Normalmente è costituita da una maniglia in metallo, posizionata nella parte anteriore sinistra dell’imbragatura ed assicurata con un doppio velcro. Quando viene trazionata apre la vela di riserva.
 
 **Il Sistema 3-Anelli** La vela principale è collegata tramite una serie di funi di sospensione a due coppie di bretelle che a loro volta sono connesse all’imbragatura. Il dispositivo che connette le bretelle all’imbragatura è il Sistema 3-Anelli, che prevede una serie di anelli di misura decrescente, disposti l’uno dentro l’altro. La loro funzione è quella di agire come un sistema di leve, che demoltiplica la forza necessaria per trazionare la maniglia dello sgancio, disconnettendo le bretelle dall’imbragatura e liberandosi in tal modo della vela principale.
-/n/n
+
 ### 4.1 | DISPOSITIVI AUSILIARI DI SICUREZZA
 
 Sul paracadute sono installati 2 dispositivi ausiliari che aumentano la sicurezza dei lanci, per questo sono obbligatori sulle vele che vengono utilizzate dagli allievi:
@@ -99,7 +99,7 @@ Sul paracadute sono installati 2 dispositivi ausiliari che aumentano la sicurezz
 
 **Nota:** apprendere al meglio i termini tecnici è di fondamentale importanza, perché permette di acquisire, in maniera approfondita e reale, familiarità con il proprio equipaggiamento e con il controllo dello stesso
 
-/n/n
+
 #### RSL - Reserve Static Line
 
 È un dispositivo che apre automaticamente la vela di riserva quando la vela principale viene sganciata. È costituito da un nastro connesso tramite un moschettone a una delle bretelle e che, trazionando lo spinotto (PIN) di chiusura del contenitore della riserva, ne innesca l’apertura.
@@ -108,7 +108,7 @@ Sul paracadute sono installati 2 dispositivi ausiliari che aumentano la sicurezz
 
 I dispositivi automatici di apertura (AAD) sono dispositivi elettronici che vanno accesi prima di iniziare l’attività ed impostati per aprire automaticamente il contenitore della vela di riserva a una quota preimpostata (225 metri), quando la velocità di discesa del paracadutista rilevata dal dispositivo a tale quota, sia pari o superiore a 36 m/s.
 
-/n/n
+
 ### 5.0 | CONTROLLO DELL’EQUIPAGGIAMENTO
 
 #### PRIMA DI INDOSSARE IL PARACADUTE SI DEVONO EFFETTUARE I SEGUENTI CONTROLLI
@@ -128,7 +128,7 @@ I dispositivi automatici di apertura (AAD) sono dispositivi elettronici che vann
 - RSL connesso
 - Cuscinetto dello sgancio e maniglia della riserva ben inseriti e invelcrati
 - Controllo visivo dei nastri pettorale, cosciali e delle maglie autobloccanti
-/n/n
+
 ### 5.1 | NORME GENERALI DI SICUREZZA
 
 - Raggiungere la zona d’imbarco all’aereo con il paracadute e l’equipaggiamento già indossati e controllati da un istruttore
@@ -147,7 +147,7 @@ I dispositivi automatici di apertura (AAD) sono dispositivi elettronici che vann
 **ATTENZIONE!!!**
 
 **NON ANDARE MAI ALL’IMBARCO SENZA CHE TUTTO L’EQUIPAGGIAMENTO SIA STATO CONTROLLATO DA UN ISTRUTTORE!**
-/n/n
+
 ## 6.0 | IL PRIMO LIVELLO AFF
 
 **USCITA DALL’AEREO.** Nella preparazione del lancio a terra gli istruttori mostreranno come raggiungere la porta dell’aereo e come posizionarsi in porta. Gli istruttori saranno sui due fianchi dell’allievo che sarà al centro della porta.
@@ -163,7 +163,7 @@ Per avere e mantenere una posizione stabile durante la caduta libera si deve far
 - BRACCIA A 90 GRADI RISPETTO ALLE SPALLE E GOMITI ALTI
 - GAMBE ALLUNGATE CON LE PUNTE DEI PIEDI IN SPINTA
 - IL CORPO DEVE ESSERE TONICO MA SENZA TENSIONE MUSCOLARE
-/n/n
+
 ### 6.1 | L’EQUILIBRIO DEL CORPO NELL’ARIA
 
 Il lancio non consiste nel cadere passivamente da un aereo in modo incontrollato, ma nel mantenere sempre sotto controllo l’assetto e la direzione del corpo. A terra il nostro corpo rimane in equilibrio in posizione eretta grazie all’appoggio dei piedi sul suolo. In aria invece, questo appoggio non cè.
@@ -171,7 +171,7 @@ Il lancio non consiste nel cadere passivamente da un aereo in modo incontrollato
 Quando un corpo solido si muove in un fluido, il fluido dal quale viene investito crea una pressione che si oppone al movimento; nel caso dell’aria questa pressione è detta «Resistenza Aerodinamica» (R). L’azione della forza di Resistenza Aerodinamica puó essere idealmente concentrata in un punto chiamato «Centro di Pressione» (CP). Nel corpo umano la posizione di questo punto dipende principalmente dalla posizione degli arti che, a causa della loro estensione, hanno un effetto aerodinamico superiore a quello del tronco.
 Affinchè il corpo, durante la caduta, rimanga in equilibrio (cioè mantenga una direzione e un assetto prestabilito) è necessario che la posizione degli arti sia simmetrica (cioè la parte destra del corpo sia uguale a quella sinistra) ed è
 necessario che i centri di pressione e di gravità si trovino allineati lungo la direzione del movimento (cioè devono giacere entrambi lungo la traiettoria di caduta). Se il centro di pressione (CP) si trova sopra il centro di gravità (CG) si ha la condizione di equilibrio stabile; in questo caso, se il corpo viene spostato dalla posizione di equilibrio tende spontaneamente a ritornare nella posizione originale.
-/n/n
+
 ### 6.2 | ESERCIZI DURANTE IL 1° LIVELLO AFF
 
 **- CONTROLLO E COMUNICAZIONE DELLA QUOTA** Acquisita la posizione di stabilità subito dopo l’uscita, si legge la quota sull’altimetro senza scomporsi e la si comunica verbalmente, prima all’istruttore di sinistra e quindi
@@ -180,7 +180,7 @@ all’istruttore di destra.
 Simultaneamente si deve portare la mano sinistra in avanti per mantenere l’equilibrio della posizione. I movimenti devono essere effettuati in modo controllato e senza fretta.
 **- CONTROLLO E COMUNICAZIONE DELLA QUOTA** Dopo le tre false maniglie si controlla la quota e la si comunica nuovamente a entrambi gli istruttori. Dopo questi esercizi si deve mantenere la posizione stabile e controllare con frequenza la quota. A 2000 metri si interrompe qualsiasi esercizio e si guarda costantemente l’altimetro preparandosi all’apertura del paracadute.
 **- APERTURA DEL PARACADUTE** Alla quota di 1700 metri si deve segnalare l’apertura, accentuare l’arco e trazionare il nottolino del principale, lanciando il pilotino estrattore nel flusso d’aria, lateralmente e in avanti.
-/n/n
+
 ## 8.1 | EMERGENZE IN AEREO
 
 In caso di un’emergenza in aereo il pilota è il più alto in carica nella gerarchia decisionale , gli istruttori e il direttore di lancio sono i referenti per le procedure da seguire nelle diverse situazioni. È importante conoscere tali procedure per eseguirle più rapidamente possibile:
@@ -192,25 +192,25 @@ In caso di un’emergenza in aereo il pilota è il più alto in carica nella ger
 **- SOPRA 2700 METRI ›** Si esegue il livello AFF mantenendo l’apertura alla quota di 1700 metri.
 
 Nota: in questi casi l’atterraggio potrebbe avvenire fuori campo. Appena aperto il paracadute scegliere una zona in cui atterrare che sia ampia e priva/lontana da ostacoli.
-/n/n
+
 ### APERTURA ACCIDENTALE DEL PARACADUTE IN AEREO
 
 Sono da evitare aperture accidentali del paracadute all’interno dell’aereo, quindi ci si sposta sempre con attenzione, evitando movimenti bruschi e proteggendo sempre i dispositivi di apertura.
 SE LA PORTA È CHIUSA afferrare la POD o la vela fuoriuscita e comunicare con l’istruttore.
 SE LA PORTA È APERTA e la vela propria o di altri si è aperta all’interno dell’aereo, afferrarla e raccoglierla per evitare che prenda aria ed esca all’esterno. La porta deve essere chiusa immediatamente. Nel caso in cui la propria vela si apra in prossimità della porta, o all’esterno dell’aereo ed abbia iniziato a gonfiarsi, si deve immediatamente seguirla lanciandosi.
 Se si rimane appesi all’aereo con la vela principale si deve disconnettere l’RSL, trazionare la maniglia dello sgancio, eseguire il conteggio 1001, 1002, 1003 e quindi aprire la vela di riserva.
-/n/n
+
 ### 8.2 | EMERGENZE IN CADUTA LIBERA
 
 Dal momento dello stacco dall’aereo si cerca subito la stabilità, assumendo la posizione ad arco e mantenendola per tutto il tempo della caduta libera. Se si perde il controllo della posizione e la stabilità, in qualsiasi momento del lancio, la soluzione è fare arco, respirando e rilassando tutto il corpo.
-/n/n
+
 #### ROTTURA DELL’ALTIMETRO
 
 Se durante la caduta libera si perde l’altimetro o si ritiene che sia rotto perchè si legge sempre la stessa quota o la stessa non è leggibile, si segnala immediatamente e si apre il paracadute principale.
 
 Nota: se durante il lancio vedete uno degli istruttori aprire il paracadute, segnalate immediatamente ed aprite il
 paracadute principale.
-/n/n
+
 ### 8.3 | VELA CORRETTAMENTE APERTA
 
 **Una vela aperta bene deve avere le seguenti caratteristiche:**
@@ -221,7 +221,7 @@ paracadute principale.
 
 Subito dopo il conteggio e l’apertura si effettua il **controllo visivo della vela:** il pilotino è sopra/dietro la vela e quest’ultima ha forma rettangolare e integra, fascio funicolare ben disteso e integro, Slider a fine corsa in basso sulle bretelle.
 A questo punto si effettua il **controllo funzionale della vela:** trazionando i comandi simultanemante per sbloccarli dal mezzofreno e in seguito facendo una virata prima a destra e poi a sinistra, quindi effettuando una prova di frenata.
-/n/n
+
 ### 8.4 | EMERGENZE ALL’EQUIPAGGIAMENTO
 
 Gli equipaggiamenti in uso presso le scuole di paracadutismo devono rispettare tutti gli standard di sicurezza ed affidabilità necessari al corretto funzionamento. Sono inoltre equipaggiamenti di ultima generazione, dotati dei più moderni dispositivi di sicurezza.
@@ -233,7 +233,7 @@ DI ATTERRARE IN SICUREZZA.**
 **ATTENZIONE!!!**
 
 SE LA VELA PRINCIPALE NON È CORRETTAMENTE APERTA, NON AVENDO LE  TRE CARATTERISTICHE FONDAMENTALI DI FORMA, VOLO E MANOVRABILITÀ, SI DEVE IMMEDIATAMENTE EFFETTUARE LA PROCEDURA D’EMERGENZA.
-/n/n
+
 ### PROCEDURA DI EMERGENZA
 
 Se si riscontra un malfunzionamento non risolvibile, si deve sempre effettuare la seguente procedura di emergenza:
@@ -244,7 +244,7 @@ glia di metallo della riserva, inserendo il pollice al suo interno
 3) SVELCRO E TRAZIONO LO SGANCIO - Svelcro il cuscinetto dello sgancio e lo traziono verso il basso, continuando fino in fondo, per tutta la lunghezza del braccio. Rilascio il cuscinetto dello sgancio
 4) RADDOPPIO - Raddoppio anche con la mano destra la presa sulla maniglia della riserva in metallo
 5) APRO - Traziono con entrambe le mani la maniglia della riserva fino in fondo, per tutta la lunghezza delle braccia, verso il basso in diagonale.
-/n/n
+
 ### 9.0 | MALFUNZIONAMENTI
 
 Il malfunzionamento è un qualsiasi tipo di anomalia del paracadute principale che non ci permetta di atterrare alla velocità di discesa giusta e in sicurezza. Prima di affrontare i vari tipi di malfunzionamento dobbiamo considerare gli inconvenienti risolvibili.
@@ -260,39 +260,39 @@ I malfunzionamenti risolvibili sono:
 - UN COMANDO SBLOCCATO
 - PILOTINO ESTRATTORE SOTTO/DAVANTI AL PARACADUTE PRINCIPALE
 
-/n/n
+
 ##### GIRI DI AVVITAMENTO
 
 È un avvitamento del fascio funicolare. Può essere basso (che parte dalle bretelle) o alto e interessare solo la parte delle funi. I giri di avvitamento si verificano in fase di apertura della vela principale, a causa di una rotazione della
 POD o della vela per un’apertura asimmetrica. I giri di avvitamento si possono risolvere impugnando le due coppie di bretelle e quindi, allargandole, si cerca con il proprio corpo di girare nella direzione opposta a quella dell’avvitamento. Mentre si risolvono i giri di avvitamente si continua a controllare la quota. Nel caso in cui il fascio risulti ancora avvitato, entro la quota decisionale di 750 metri, si effettua la procedura di emergenza.
-/n/n
+
 ##### SLIDER ALTO
-/n/n
+
 Lo Slider è un rettangolo di tessuto che rallenta l’apertura della vela, scendendo progressivamente su tutto il fascio funicolare, fino all’attaccatura con le bretelle. Può accadere che lo Slider non scenda del tutto e rimanga a metà corsa, a causa di un’apertura molto lenta o perchè la vela non si è del tutto gonfiata.
 Questo inconveniente si può risolvere impugnando entrambe le maniglie dei comandi e trazionandole contemporaneamente verso il basso, progressivamente fino in fondo, per poi ritornare, sempre in modo progressivo e controllato verso l’alto.
 Se lo Slider non scende subito si possono fare altri due tentativi. Mentre si effettua tale procedura si continua a controllare la quota.
 Nel caso in cui lo Slider rimanga bloccato in alto, entro la quota decisionale di 750 metri, si effettua la procedura di emergenza.
-/n/n
+
 ##### CASSONI SGONFI
 
 a causa di un’apertura molto lenta la vela non si gonfia completamente e i cassoni laterali rimangono chiusi, flosci.
 Anche questo inconveniente si può risolvere impugnando entrambe le maniglie dei comandi e trazionandole contemporaneamente verso il basso, progressivamente fino in fondo, per poi ritornare, sempre in modo progressivo e controllato verso l’alto.
 Se i cassoni laterali non si gonfiano subito si possono fare altri due tentativi. Mentre si effettua tale procedura si continua a controllare la quota.
 Nel caso in cui la vela non si gonfi completamente, entro la quota decisionale di 750 metri, si effettua la procedura di emergenza.
-/n/n
+
 ##### UN COMANDO SBLOCCATO
 
 Può accadere che in fase di apertura si sblocchi uno dei due comandi. In questo caso la vela inizierà a girare dalla parte in cui è rimasto bloccato l’altro comando (vi è ancora il mezzo freno).
 Questo inconveniente si può risolvere fermando la rotazione, impugnando entrambe le maniglie dei comandi e trazionandole contemporaneamente verso il basso in modo da sbloccare anche l’altro freno per poi ritornare, sempre in modo progressivo e controllato, in alto.
 Se la vela non torna a volare diritta, ma continua a girare si possono fare altri due tentativi. Mentre si effettua tale procedura si continua a controllare la quota.
 Se la vela non torna a volare diritta e non è manovrabile, entro la quota decisionale di 750 metri, si effettua la procedura di emergenza.
-/n/n
+
 ##### PILOTINO ESTRATTORE SOTTO/DAVANTI AL PARACADUTE PRINCIPALE
 
 Può accadere che in fase di apertura il pilotino estrattore passi sotto/davanti la vela principale e/o si impigli nelle funi. In questo caso non è possibile risolvere l’inconveniente.
 Si controlla che la vela si sia aperta correttamente, abbia le tre caratteristiche di Forma, Volo e Manovrabilità. Mentre si effettuano tali controlli si continua a controllare la quota.
 Nel caso in cui la vela non sia manovrabile, non sia direzionabile e non ci dia la sensazione che ci possa far atterrare in sicurezza, entro la quota decisionale di 750 metri, si effettua la procedura di emergenza.
-/n/n
+
 ### 10.0 | MALFUNZIONAMENTI DEL PARACADUTE PRINCIPALE
 
 I MALFUNZIONAMENTI DEL PARACADUTE PRINCIPALE SI DIVIDONO IN 2 CATEGORIE A SECONDA DEL RATEO DI DISCESA:
@@ -302,7 +302,7 @@ I MALFUNZIONAMENTI DEL PARACADUTE PRINCIPALE SI DIVIDONO IN 2 CATEGORIE A SECOND
 2) MALFUNZIONAMENTI A BASSA VELOCITÀ DI DISCESA (velocità inferiore a quella della caduta libera ma maggiore a quella di un paracadute correttamente aperto) in cui il paracadute principale si è aperto ma presenta anomalie e/o malfunzionamenti (SHOCK DI APERTURA).
 
 Possiamo definire, come linea di separazione tra malfunzionamenti ad alta velocità e malfunzionamenti a bassa velocità, lo SHOCK DI APERTURA. Se dopo l’apertura e il conteggio da 1001 a 1005, non si è avvertito lo SHOCK DI APERTURA, significa che siamo ancora ad alta velocità.
-/n/n
+
 #### 10.1 | MALFUNZIONAMENTI AD ALTA VELOCITÀ
 i malfunzionamenti ad alta velocità sono:
 - NOTTOLINO/MANIGLIA DEL PRINCIPALE DURO/BLOCCATO O FUORI SEDE
@@ -311,58 +311,58 @@ i malfunzionamenti ad alta velocità sono:
 - FIAMMA
 - FERRO DI CAVALLO
 
-/n/n
+
 ##### NOTTOLINO/MANIGLIA DEL PRINCIPALE DURO/BLOCCATO O FUORI SEDE
 
 Nel caso in cui si trazioni il nottolino/maniglia per aprire il paracadute principale e risulti impossibile estrarre il pilotino oppure, cercando il nottolino/maniglia d’apertura non si riesca a trovarlo, non bisogna perdere tempo e di conseguenza quota.
 Si effettuano al massimo 2 tentativi per trovare il nottolino e trazionarlo, dopodichè si effettua la procedura di emergenza.
-/n/n
+
 ##### PILOTINO AL TRAINO
 
 È il caso in cui si estrae correttamente il pilotino, ma esso non riesce ad aprire il contenitore del paracadute principale e ad estrarre la POD, non innescandosi quindi, la sequenza di apertura del paracadute principale.
 Si deve immediatamente effettuare la procedura di emergenza.
-/n/n
+
 ##### POD AL TRAINO
 
 Si è estratto il pilotino che ha aperto il contenitore del paracadute principale, si è disteso tutto o parte del fascio funicolare, le bretelle sono in trazione ma la vela principale non riesce a uscire dalla POD (potrebbe essere rimasta incastrata o il fascio funicolare potrebbe essere bloccato/annodato).
 Si deve immediatamente effettuare la procedura di emergenza.
-/n/n
+
 ##### FIAMMA
 
 La sequenza di apertura del paracadute è completa. Il pilotino ha aperto il contenitore del principale estraendo la POD, le funi e le bretelle si sono distese completamente, la vela principale è uscita, ma non riesce a gonfiarsi, rimanendo chiusa con una forma allungata.
 Si deve immediatamente effettuare la procedura di emergenza.
-/n/n
+
 ##### FERRO DI CAVALLO
 
 A causa di un’apertura involontaria del contenitore principale è fuoriuscita la POD, il fascio funicolare, le bretelle e il bridle, ma il pilotino estrattore è rimasto nella sua tasca elastica o si è incastrato/impigliato.
 Nel caso in cui in caduta libera, o dopo l’apertura del paracadute principale, ci si renda conto di avere questo malfunzionamento si deve immediatamente effettuare la procedura di emergenza.
-/n/n
+
 #### 10.2 | MALFUNZIONAMENTI A BASSA VELOCITÀ
 
 - line over/reggiseno
 - rottura della vela
 - rottura di una o più funi
 - falsi nodi
-/n/n
+
 ##### LINE OVER/REGGISENO
 
 Caso in cui, durante la sequenza di apertura, una o più funi passano al di sopra della vela ed essa presenta una strozzatura al centro o su un lato. Questo potrebbe generare una trazione sul fascio funicolare ed innescare delle rotazioni rendendo la vela non gestibile. Inoltre, lo sfregamento delle funi sul tessuto della vela, potrebbe lacerarla.
 In questo caso, oltre ad essere ingovernabile, la velocità di discesa è maggiore rispetto a quella di un paracadute correttamente aperto e si deve effettuare la procedura di emergenza.
-/n/n
+
 ##### ROTTURA DELLA VELA
 
 Strappi o cedimenti delle cuciture della vela, sia nella parte inferiore che in quella superiore, possono essere causati da diversi fattori come l’eccessiva usura del tessuto, l’essere entrato a contatto con agenti esterni dannosi/corrosivi.
 Le rotture del tessuto deformano la vela, facendole perdere la pressione interna ed impedendole di volare correttamente. Inoltre potrebbero ampliarsi durante il volo, strappando totalmente il tessuto.
 Per questi motivi si deve effettuare la procedura di emergenza.
-/n/n
+
 **ROTTURA DI UNA O PIÙ FUNI**
 La rotture di una o più funi può essere causata dall’usura o dall’essere entrate a contatto con agenti esterni (come prodotti chimici) che le hanno corrose. La rottura delle funi comporta una deformazione della vela e un volo non controllabile, spesso con rotazioni.
 Per questi motivi si deve effettuare la procedura di emergenza.
-/n/n
+
 **FALSI NODI**
 Una o più funi rimangono annodate tra di loro, non riuscendo a far dispiegare completamente e correttamente la vela, bloccando lo Slider in alto e bloccando uno o entrambi i comandi. In questa configurazione si innescano delle rotazioni e degli spostamenti non gestibili della vela.
 Per questi motivi si deve effettuare la procedura di emergenza.
-/n/n
+
 #### 10.3 | DUE VELE APERTE
 
 ##### Due vele aperte, come evitare
@@ -381,23 +381,21 @@ Per evitare questo inconveniente bisogna:
 1) avere una corretta cura ed attenzione dell’equipaggiamento che si utilizza
 2) ripassare e simulare spesso, prima del lancio, la procedura di emergenza
 3) iniziare la procedura di emergenza entro la quota minima decisionale di 750, controllando spesso l’altimetro per averne coscienza.
-/n/n
-##### NEL CASO IN CUI CI SI TROVI CON DUE VELE APERTE
 
-QUESTE SONO LE POSSIBILI CONFIGURAZIONI:
+NEL CASO IN CUI CI SI TROVI CON DUE VELE APERTE queste sono le possibili configurazioni
 
-###### BIPLANO (VELE UNA DAVANTI ALL’ALTRA)
+**BIPLANO (VELE UNA DAVANTI ALL’ALTRA)**
 
 Questa è la situazione più stabile. Le due vele sono una davanti all’altra (solitamente la vela principale è quella davanti).
 Cercare di mantenere le vele in questa configurazione, sbloccare i comandi della vela anteriore e direzionarla verso una zona libera da ostacoli con delle piccole correzioni di direzione, trazionando leggermente i comandi. Atterrare con le due vele aperte senza frenare, prepararsi ad effettuare la capovolta.
 
-###### SIDE BY SIDE (VELE UNA DI FIANCO ALL’ALTRA)
+**SIDE BY SIDE (VELE UNA DI FIANCO ALL’ALTRA)**
 
 Le due vele sono una di fianco all’altra e volano diritte. Solo se si è sicuri che non vi sia nessun aggrovigliamento tra le bretelle, o con qualsiasi altra parte delle vele (ad esempio pilotino estrattore o bridle incastrato tra le funi di una delle vele) e se la quota lo consente, disconnettere l’RSL e sganciare la vela principale. Nel caso in cui le vele siano aggrovigliate e non sia possibile sganciare il principale, non sbloccare i comandi ma cercare di direzionare la vela trazionando leggermente le bretelle posteriori. Non frenare in atterraggio ma prepararsi ad effettuare la capovolta.
 Cercare di mantenere insieme le bretelle (bretelle a sinistra della vela destra e bretelle a destra della vela sinistra) con una mano o con entrambe se esse cercano di separarsi tra loro, fino al momento in cui, se possibile, si decide di
 sganciare il paracadute principale in sicurezza.
 
-###### DOWN PLANE (VELE RIVOLTE VERSO IL TERRENO)
+**DOWN PLANE (VELE RIVOLTE VERSO IL TERRENO)**
 
 In questa configurazione le vele sono una opposta all’altra in posizione verticale, rivolte verso il terreno. Perdono quota velocemente, girando. In questo caso non bisogna perdere tempo/quota. Effettuare subito la procedura di emergenza:
 **DISCONNETTERE L’RSL, SGANCIARE LA VELA PRINCIPALE E APRIRE LA RISERVA**
@@ -408,7 +406,7 @@ Perché ha perso la sua funzione e potrebbe essersi incastrato o aggrovigliato e
 ###### PILOTINO AL TRAINO/PARACADUTE O CONTENITORE A TRAINO
 
 Potrebbe capitare di trovarsi nella situazione in cui, con la riserva aperta, sia fuoriuscito il paracadute principale o parte di esso. In questo caso bisogna agire per raccogliere quanto fuoriuscito, stivandolo progressivamente tra le gambe e tenendolo saldamente fermo, fino all’atterraggio. Raccogliere con calma e senza strattoni quanto fuoriuscito per evitare che la situazione possa degenerare.
-/n/n
+
 ## 11.0 | EMERGENZE IN ATTERRAGGIO
 
 La priorità di atterrare in modo corretto e lontano da ostacoli deve essere tenuta presente sempre, a maggior ragione nel caso in cui si sia costretti ad atterrare fuori campo, in una zona alternativa a quella dell’aeroporto. È molto importante agire per tempo nella scelta della zona di atterraggio, valutando se è sufficientemente grande e libera da ostacoli.
@@ -423,7 +421,7 @@ normale atterraggio, possiamo giocare d’anticipo preparando una buona capovolt
 - quando i piedi toccano contemporaneamente il suolo, ruotare il busto porgendo il fianco della gamba al terreno, seguito dal gluteo, ed infine ruotare sulla schiena sino alla spalla opposta.
 
 Questa tecnica permette di dissipare la forza dell’atterraggio distribuendola omogeneamente su tutto il corpo, necessita di un po’ di tonicità muscolare, ma è facilmente praticabile e in alcuni casi utile. Inoltre, è veramente importante non cercare mai di arrestarsi cadendo in avanti e con le mani puntate.
-/n/n
+
 ### Ostacoli in atterraggio
 
 Se vi sono degli ostacoli la regola è quella di cercare di evitarli.
@@ -437,7 +435,7 @@ Nel caso in cui sia inevitabile atterrare su ostacoli questi sono i comportament
 - preparati ad un atterraggio duro
 - se rimani appeso ad un albero non sganciare, potresti farti male cadendo!
 - Piuttosto cerca un solido appiglio per metterti in sicurezza mentre aspetti assistenza o, eventualmente, per riuscire a scendere.
-/n/n
+
 #### ACQUA
 
 - possibilmente atterra in prossimità della riva o vicino ad imbarcazioni, se ce ne sono
@@ -446,7 +444,7 @@ Nel caso in cui sia inevitabile atterrare su ostacoli questi sono i comportament
 - piedi uniti e gambe flesse per prepararti ad un atterraggio duro
 - una volta atterrato sgancia la vela e cerca di liberarti dall’imbragatura il prima possibile allontanandoti dalla vela
 - se sei lontano dalla riva rimani vicino all’equipaggiamento, sarà più facile essere localizzato.
-/n/n
+
 #### LINEE ELETTRICHE
 
 Sono sicuramente uno dei maggiori pericoli quando sei obbligato ad atterrare fuori zona, perché le linee elettriche non sono facilmente riconoscibili dall’alto e spesso si notano soltanto quando sono già troppo vicine.
@@ -458,7 +456,7 @@ Cerca di evitarle atterrando parallelamente ad esse, indipendentemente dalla dir
 - cerca di attraversare i fili senza toccarli
 - preparati ad un atterraggio duro (capovolta)
 - se rimani appeso non sganciare e attendi assistenza dal personale qualificato (Vigili del Fuoco o addetti ENEL).
-/n/n
+
 #### ALTRI OSTACOLI COME COSTRUZIONI, TETTI, VEICOLI, PERSONE
 
 Per evitarli puoi atterrare in qualsiasi direzione, ma è importante che tu lo faccia sempre con la vela livellata.
@@ -467,13 +465,13 @@ Per evitarli puoi atterrare in qualsiasi direzione, ma è importante che tu lo f
 - frena con piedi uniti e gambe flesse in avanti se si tratta di un ostacolo verticale per ammortizzare l’urto e ricorda di
 utilizzare il massimo della frenata
 - se atterri su di un tetto (disconnetti l’RSL) e liberati della vela principale appena puoi sganciandola. Ciò eviterà che il vento ti trascini facendoti cadere dal tetto.
-/n/n
+
 ### ATTERRAGGI FUORI ZONA
 
 Se non ti è possibile atterrare dove pianificato, prima dei 600 metri scegli una zona alternativa, grande e libera da ostacoli e riporta su di essa il circuito pianificato.
 Non preoccuparti di atterrare distante, verrai subito recuperato! Meglio scegliere una zona sicura ma lontana, piuttosto che perdere molta quota obbligandoti ad un atterraggio forzato, in zone poco sicure o dovendo effettuare virate basse.
 Se sei fuori zona e non riesci a capire la direzione del vento per l’atterraggio cerca dei segnali alternativi, come ad esempio un fuoco acceso a terra o una ciminiera di qualche zona industriale.
-/n/n
+
 ### VENTO FORTE
 
 Se stai volando controvento e la tua vela indietreggia dovrai pianificare il tuo atterraggio guardando indietro e cercando di non farti portare verso ostacoli. Una volta raggiunto il suolo la tua vela potrebbe rimanere gonfia; per sgonfiarla lascia un comando e traziona a fondo l’altro, correndo verso la vela. **Se dovessi essere trascinato disconnetti l’RSL** (perchè altrimenti sganciando la vela principale verrebbe aperta l’emergenza) **e sgancia.**
@@ -483,7 +481,7 @@ Il vento e la direzione di atterraggio sono solo una parte delle considerazioni 
 
 **PER EVITARE GLI OSTACOLI SI PUÒ ATTERRARE IN QUALSIASI DIREZIONE, NON È IMPORTANTE ATTERRARE
 CONTROVENTO, È PIÙ IMPORTANTE ATTERRARE IN SICUREZZA!**
-/n/n
+
 ## Comportamento a vela aperta
 
 Alla quota stabilita si dovrà aprire il paracadute principale, trazionando il pilotino estrattore ed allontanandolo. Si esegue il conteggio 1001, 1002, 1003, 1004, 1005 e si effettua il controllo della corretta apertura della vela.
@@ -500,7 +498,7 @@ Dopo che la vela si è aperta devi procedere così:
 
 Si effettua quindi un giro d’orizzonte con lo sguardo, individuando l’aeroporto e la zona di atterraggio, ma anche gli altri paracadutisti.
 Si deve fare sempre attenzione al traffico in aria: prima di effettuare qualsiasi manovra guardare nella direzione in cui si vuole girare per essere sicuri che non ci siano altri paracadutisti, anche nello spazio aereo sottostante.
-/n/n
+
 ### 12.1 | MANOVRARE LA VELA
 
 **- MASSIMA VELOCITÀ** La vela, a comandi rilasciati (mani alte), procede diritta e stabile a una velocità di circa 30-40 Km/h e ad una rateo di discesa verticale di 4-5 m/s. Questi sono i parametri di volo in condizioni normali.
@@ -509,12 +507,12 @@ Si deve fare sempre attenzione al traffico in aria: prima di effettuare qualsias
 Raggiunta la massima frenata, la velocità di avanzamento sarà quasi nulla, perciò la direzione di volo della vela sarà quasi verticale.
 Mantenendo i comandi frenati a circa il 70-80 % riusciremo a mantenere una direzione stabile, ma oltrepassando questa soglia potremmo raggiungere il punto di stallo della vela.
 **- STALLO** È indotto quando entrambi i comandi vengono trattenuti oltre il punto di massima frenata. In questa situazione la vela ha una perdita di efficienza e di portanza, perciò la velocità di avanzamento sarà ridotta a zero e perderà la sua capacità di sostenerti.
-/n/n
+
 ### 12.2 - PIANIFICAZIONE DELL’ATTERRAGGIO (DA 750 A 300 METRI)
 
 In questa fase la manica a vento sarà già visibile e ti permetterà di confermare la direzione del vento e quindi, in quale direzione atterrare. Ricordati che normalmente si atterra controvento.
 Prepara mentalmente il circuito del tuo atterraggio e individua la zona di attesa in base all’intensità del vento, in modo da poter fare il tuo ingresso nel circuito a circa 300 metri.
-/n/n
+
 ### 12.3 | CIRCUITO DI ATTERRAGGIO
 
 #### Preparazione del circuito di atterraggio
@@ -531,7 +529,7 @@ La regola è quella di sfruttare la deriva del vento a vantaggio dei paracadutis
 
 **- VIRATE** Non effettuare manovre superiori a 360° (spiralate)
 **- PRECEDENZE** La vela più in basso ha sempre la precedenza
-/n/n
+
 #### Buone norme e precauzioni per l'atterraggio
 
 - NON ATTERRARE SULLA PISTA Non sorvolare o attraversare la pista in volo, con il paracadute aperto sotto i 300 metri.
@@ -540,12 +538,12 @@ La regola è quella di sfruttare la deriva del vento a vantaggio dei paracadutis
 - CONTROLLA IL TRAFFICO In caso si sia in rotta di collisione con un’altra vela si effettua immediatamente una virata a destra, tenendo sotto controllo l’altra vela e verificando, prima di virare, che non ci sia nessuno alla propria destra.
 - IN CASO DI COLLISIONE Se non siete riusciti in nessuna maniera ad evitare una collisione, aprite le braccia e le gambe a X per cercare di rimbalzare sul fascio funicolare dell’altro paracadute.
 - IN CASO DI SCARSA VISIBILITÀ Se si entra in nube, frenate la vela al 50% (mezzo freno) e innescate una lenta rotazione verso destra, facendo dei lenti 360°, finché non torna la visibilità. Rispettando questa regola, verranno ridotte le probabilità di collisione con altri paracadutisti, poiché ognuno girerà nel proprio slot e tutti nella stessa direzione.
-/n/n
+
 ### PRIORITÀ IN ATTERRAGGIO
 
 **Una volta effettuata la virata finale a 100 metri circa, si deve tenere quella direzione fino all’ atterraggio!** Facendo solo eventuali piccoli e delicati aggiustamenti di direzione. In prossimità del terreno non si devono più effettuare virate, la vela deve volare diritta, perché ogni virata determina una perdita considerevole di quota.
 Atterrare controvento è l’ultima priorità in atterraggio, più importante è atterrare lontano dagli ostacoli e, il terreno sotto di noi, può diventare un grande ostacolo se atterriamo virando! Maggiore sarà l’intensità del vento, minore sarà lo spazio che percorreremo controvento nel finale e viceversa.
-/n/n
+
 
 **PRIORITA' IN ATTERRAGGIO :**
 
@@ -556,7 +554,7 @@ Atterrare controvento è l’ultima priorità in atterraggio, più importante è
 ## TRAIETTORIA E ATTERRAGGIO
 
 Al variare dell’intensità del vento diminuirà o aumenterà l’efficienza della nostra vela. Questo effetto in fase d’atterraggio va sempre tenuto in considerazione, non andando sottovento ad ostacoli e mantenendo sempre un ampio margine di sicurezza. Ricorda che quando farai il sottovento del circuito, la vela sarà più veloce con vento sostenuto.
-/n/n
+
 ## 13.2 | FRENATA IN ATTERRAGGIO
 
 Dopo aver effettuato la virata finale, alla quota di 100 metri circa, si deve lasciar volare la vela alla sua velocità naturale, tenendo le braccia e le mani in alto, rilasciando i comandi alla massima lunghezza. A 3 metri circa dal terreno, si
@@ -566,7 +564,7 @@ deve iniziare la frenata. Evitare di guardare il terreno in questa fase, piuttos
 
 Nota: se avete iniziato la frenata troppo presto (metà freno), mantenete inalterata la trazione sui comandi per poi completare la frenata alla giusta distanza dal suolo (3 metri circa).
 Se invece avete frenato troppo presto (massima frenata) mantenete trazionati i comandi alla massima estensione fino a che non sarete a terra. Braccia lungo il corpo, preparandosi ad una capovolta. Probabilmente farete un atterraggio un po’ brusco, ma in sicurezza.
-/n/n
+
 ## 13.3 | INCONVENIENTI IN ATTERRAGGIO
 
 ### TURBOLENZE E ROTORI DI SOTTOVENTO
@@ -574,7 +572,7 @@ Se invece avete frenato troppo presto (massima frenata) mantenete trazionati i c
 L’aria, scorrendo sul terreno, per diversi motivi può assumere moti turbolenti. Durante il volo a vela aperta si possono attraversare delle zone di turbolenza causate dal vento o dall’aria calda che sale verso l’alto. Lasciare volare la vela alla sua velocità naturale senza trazionare i comandi.
 Normalmente si generano turbolenze per effetto della diversa irradiazione solare sul terreno, per effetto della conformazione terrestre o per la presenza di ostacoli, che modificano il moto dell’aria. Atterrare nel lato sottovento di un ostacolo di notevoli dimensioni può essere molto pericoloso, in quanto l’aria turbolenta può provocare rotori in grado di andare lontano dall’ostacolo fino a 10/20 volte l’altezza (X) dell’ostacolo, a seconda dell’intensità del vento. Queste zone di sottovento potrebbero provocare improvvise perdite
 di portanza della vela, ad un’altezza critica.
-/n/n
+
 ## 13.4 | RECUPERO DELLA VELA DOPO L’ATTERRAGGIO
 
 Una volta atterrati la vela cadrà davanti o dietro di noi. Ci si alza subito per mostrare agli istruttori che si sta bene e che non si ha bisogno di aiuto. Poi si allargano i nastri cosciali ed il pettorale, si abbassano gli occhialini sul collo ed eventualmente si apre la zip della tuta.
@@ -583,7 +581,7 @@ Si prendono in mano le bretelle e, spingendo lo Slider verso la vela, si raccogl
 Una volta all’interno dell’hangar si chiede agli istruttori, o al ripiegatore, dove lasciare la vela. Quindi, dopo averla appoggiata dove ci è stato detto, ci si muove all’indietro mettendo in tensione il fascio funicolare mentre ci si allontana da essa, fino a che il fascio funicolare sarà terminato.
  A questo punto si allentano ulteriormente le maglie autobloccanti del pettorale e dei cosciali e ci si sfila di dosso il paracadute, appoggiandolo delicatamente a terra (sempre su tappeti/moquettes) con l’imbragatura rivolta verso il basso, pronto per essere ripiegato.
 In questo momento il lancio è terminato.
-/n/n
+
 # DOCUMENTI NECESSARI
 
 **VISITA MEDICA**
@@ -594,13 +592,13 @@ L’assicurazione base obbligatoria per legge è RCT (Responsabilità Civile ver
 
 **DOCUMENTO**
 È indispensabile avere un documento di identità in corso di validità e il Codice Fiscale.
-/n/n
+
 ## DOPO IL CORSO AFF
 
 Una volta terminato il tuo Corso AFF potrai lanciarti in autonomia, iniziando ad esplorare questo meraviglioso sport, sempre con la possibilità di essere affiancato da un istruttore/coach per affinare la tua tecnica, completare i test pratici necessari all’esame di Licenza di Paracadutista e, soprattutto, progredire più rapidamente.
 Raggiunti i primi 50 lanci, effettuato un corso vela e smarcati tutti i test pratici necessari, potrai accedere all’esame di Licenza ENAC, che ti permetterà di confermare la tua preparazione pratico-teorica e diventare quindi ufficialmente
 un paracadutista.
-/n/n
+
 ## DOPO LA LICENZA
 
 Con la Licenza di Paracadutista puoi fare cose che, finché eri allievo, non ti erano consentite. Come ad esempio: utilizzare una telecamera, fare lanci di formazione con altri paracadutisti oppure utilizzare paracadute non della Scuola (sempre sotto la supervisione degli istruttori per garantire il giusto down-sizing della vela).
