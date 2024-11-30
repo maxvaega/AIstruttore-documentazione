@@ -15,7 +15,7 @@ Per poter avere sempre una rapida risposta in controllo della vela, è opportuno
 
 ## Volo a paracadute aperto - pilotaggio della vela - Pilotaggio con i comandi - Frenate
 
-Per frenare un paracadute ad ala si interviene abbassando il bordo d'uscita (posteriore) della vela con li comandi, modificando in tal modo il flusso d'aria lungo il paracadute.
+Per frenare un paracadute ad ala si interviene abbassando il bordo d'uscita (posteriore) della vela con i comandi, modificando in tal modo il flusso d'aria lungo il paracadute.
 Trazionando i due comandi fino all'altezza delle spalle la vela risulta frenata di circa il 25 %. In assenza di vento o con un lieve vento da dietro, questa posizione offre il migliore angolo di planata e consente di percorrere la maggiore distanza.
 *Con vento a raffiche, pilotare le moderne vele in modo veloce, ma prestando attenzione a compiere cambi di direzione senza strappi. Si raccomanda di evitare brusche manovre.*
 Trazionando i comandi fino all'altezza del busto la vela è frenata al 80-90% circa, con un dimezzamento della velocità di avanzamento rispetto alla piena velocità. Anche la velocità di discesa si riduce a ca. 2-3 m/secondo. In caso di forte vento da dietro, questa posizione dei comandi permette di percorrere la maggiore distanza.
