@@ -321,3 +321,26 @@ La scelta della vela giusta dipende da molti fattori, tra cui il livello di espe
 -   Ascoltare le proprie sensazioni durante il volo con la vela
 
 Ricorda che la sicurezza viene prima di tutto. Scegli una vela che ti permetta di progredire gradualmente e di divertirti in sicurezza.
+
+## Tipi di vele da paracadutismo - vele per paracadutisti esperti
+
+è fondamentale utilizzare una vela di tipologia e dimensioni adatte alla tua esperienza e capacità.
+
+Le seguenti vele sono solo per paracadutisti esperti e sono assolutamente da evitare per allievi o paracadutisti meno esperti! il loro uso da parte di paracadutisti senza la dovuta esperienza e capacità potrebbe causare incidenti e lesioni anche gravi!  
+
+- Stiletto
+- Crossfire
+- Velocity
+- Valkyrie
+- Leia
+- JFX
+- JVX
+- Petra
+- Peregrine
+- Neos
+- Katana
+- Gangster
+- Airwolf
+- HK
+
+In ogni caso è sempre utile parlare con un istruttore prima di cambiare tipologia e dimensioni di vela, per assicurarsi di avere l'esperienza e le capacità adeguate a pilotarla in sicurezza.
