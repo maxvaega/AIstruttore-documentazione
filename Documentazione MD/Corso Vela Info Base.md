@@ -248,7 +248,7 @@ Le vele a 9 celle sono le più popolari tra i paracadutisti. Offrono una planata
 
 **Caratteristiche principali:**
 
--   **Planata più lunga:** Ideale per atterraggi morbidi e divertenti, grazie alle planate lunghe e controllate.
+-   **Planata più lunga:** Ideale per atterraggi morbidi e volati, grazie alle planate lunghe e controllate.
 -   **Versatilità:** Adatte a una vasta gamma di paracadutisti.
 -   **Dimensioni maggiori:** Tendono a occupare più spazio rispetto alle vele a 7 celle.
 
@@ -287,7 +287,7 @@ La forma della vela, vista dall'alto, influisce notevolmente sul modo in cui vol
 
 **2. Vele semi-ellittiche**
 
--   **Caratteristiche:** Più reattive rispetto alle vele rettangolari, richiedono minore  pressione sui comandi e danno una maggiore manovrabilità. 
+-   **Caratteristiche:** Più reattive rispetto alle vele rettangolari, richiedono minore pressione sui comandi e permettono una maggiore manovrabilità.
 -   **Vantaggi:** Anche se caricate leggermente, offrono un volo più divertente e dinamico.
 -   **Adatte a:** Paracadutisti intermedi che vogliono una vela più reattiva e divertente senza sacrificare la stabilità.
 
