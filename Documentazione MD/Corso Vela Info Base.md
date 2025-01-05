@@ -221,3 +221,103 @@ Per la valutazione del punto nel momento in cui si guarda fuori dalla porta dell
 ## Quota di apertura
 
 La quota di apertura del paracadute è un elemento cruciale per la sicurezza e il successo di un salto; questa quota varia significativamente in base all'esperienza del paracadutista. Durante il corso AFF, l’allievo deve generalmente aprire il paracadute a una quota più alta, di solito intorno ai 1700 metri, per garantire un margine di sicurezza adeguato. Con l’aumentare dell’esperienza e della competenza, i paracadutisti più esperti possono ridurre progressivamente la quota di apertura, fino ad una quota consigliata di 1200 metri, fino ad un minimo di 1000 metri. È fondamentale che la quota di apertura permetta un margine di quota per la gestione di eventuali emergenze ad alta o bassa velocità.
+
+## Tipi di vele da paracadutismo
+
+Scegliere la vela giusta è una delle decisioni più importanti per un paracadutista, specialmente per chi è agli inizi. Ogni tipo di vela ha caratteristiche specifiche che influenzano il modo in cui vola, si apre e atterra. Di seguito sono elencati i principali tipi di vele da paracadutismo, le loro caratteristiche e il livello di esperienza necessario per utilizzarle in sicurezza. Ricorda sempre che il tipo di vela, assieme alla dimensione, sono fattori determinanti per il comportamento della vela e le sue performance. Dovresti sempre consultarti con un istruttore per determinare il tipo di vela adatto alla tua esperienza
+
+----------
+
+**Vele a 7 celle**
+
+Le vele a 7 celle sono note per la stabilità delle loro aperture e per essere più precise quando molto frenate, sono infatti ideali per approcci di precisione. Grazie al minor numero di funi e centine interne, queste vele tendono a occupare meno volume quando vengono piegate, rendendole tipicamente più compatte rispetto ad una vela a 9 celle a parità di dimensione
+
+**Caratteristiche principali:**
+
+-   **Precisione:** Ottime per manovre di precisione e atterraggi accurati.
+-   **Dimensioni compatte:** Occupano meno spazio nella sacca.
+-   **Utilizzo comune:** Spesso preferite per Tute alari, CRW (formazioni in volo), precisione e come vele di riserva.
+
+**Esperienza necessaria:**
+
+Le vele a 7 celle sono adatte sia ai principianti che ai paracadutisti più esperti, a seconda delle dimensioni e del carico alare.
+
+**Vele a 9 celle**
+
+Le vele a 9 celle sono le più popolari tra i paracadutisti. Offrono una planata più lunga e un flare (fase finale dell'atterraggio) più efficace rispetto alle vele a 7 celle. Tuttavia, tendono a occupare più spazio quando vengono piegate.
+
+**Caratteristiche principali:**
+
+-   **Planata più lunga:** Ideale per atterraggi morbidi e divertenti, grazie alle planate lunghe e controllate.
+-   **Versatilità:** Adatte a una vasta gamma di paracadutisti.
+-   **Dimensioni maggiori:** Tendono a occupare più spazio rispetto alle vele a 7 celle.
+
+**Esperienza necessaria:**
+
+Le vele a 9 celle sono adatte ai principianti e ai paracadutisti intermedi, ma la scelta della dimensione e del carico alare deve essere fatta con attenzione.
+
+----------
+
+**Materiali delle vele**
+
+Le vele moderne sono realizzate con due tipi principali di materiali: nylon a bassa porosità e nylon a porosità zero.
+
+**Nylon a bassa porosità:**
+
+-   **Pro:** Più facile da piegare.
+-   **Contro:** Diventa più poroso nel tempo, riducendo le prestazioni dopo 300-500 salti.
+-   **Adatto a:** Paracadutisti principianti o chi cerca una vela più facile da gestire.
+
+**Nylon a porosità zero:**
+
+-   **Pro:** Mantiene le prestazioni per oltre 2.000 salti grazie a un rivestimento protettivo (spesso a base di silicone).
+-   **Contro:** Più difficile da piegare e occupa più spazio.
+-   **Adatto a:** Paracadutisti con più esperienza, che cercano una vela più duratura e performante.
+
+----------
+
+**Forme delle vele**
+
+La forma della vela, vista dall'alto, influisce notevolmente sul modo in cui vola. Esistono tre principali tipi di forme:
+
+**1. Vele rettangolari**
+
+-   **Caratteristiche:** Stabili con aperture prevedibili. Possono risultare lente e poco reattive.
+-   **Adatte a:** Principianti, grazie alla loro stabilità e facilità d'uso.
+
+**2. Vele semi-ellittiche**
+
+-   **Caratteristiche:** Più reattive rispetto alle vele rettangolari, richiedono minore  pressione sui comandi e danno una maggiore manovrabilità. 
+-   **Vantaggi:** Anche se caricate leggermente, offrono un volo più divertente e dinamico.
+-   **Adatte a:** Paracadutisti intermedi che vogliono una vela più reattiva e divertente senza sacrificare la stabilità.
+
+**3. Vele ellittiche**
+
+-   **Caratteristiche:** Estremamente reattive, con virate rapide e sensibilità decisamente maggiore a tutti i tipi di input (dai comandi all'imbracatura). Aperture meno prevedibili.
+-   **Svantaggi:** Possono essere poco indulgenti, specialmente durante l'apertura, e richiedono molta attenzione nel ripiegamento e alla posizione del corpo durante la fase di apertura. Possono perdere quota più velocemente delle altre tipologie.
+-   **Adatte a:** Paracadutisti esperti, con esperienza su vele semi-ellittiche o rettangolari più piccole.
+
+----------
+
+**Caratteristiche speciali**
+
+Alcune vele ad alte prestazioni per paracadutismi molto esperti includono caratteristiche avanzate:
+
+**Cross-braces**
+
+-   **Funzione:** Aggiungono rigidità alla vela, aumentando le prestazioni e richiedendo un numero minore di celle.
+-   **Prestazioni:** Offrono prestazioni molto elevate, perdono quota molto rapidamente. Richiedono tanta esperienza e continuità nei salti per essere utilizzate in sicurezza.
+-   **Adatte a:** Per via delle alte prestazioni, sono adatte solamente a paracadutisti molto esperti che hanno già esperienza con vele ellittiche di piccole dimensioni. 
+
+
+----------
+
+**Consigli finali**
+
+La scelta della vela giusta dipende da molti fattori, tra cui il livello di esperienza, il tipo di volo desiderato e le preferenze personali. È sempre importante:
+
+-   Consultare istruttori o paracadutisti esperti per ricevere consigli prima di prendere decisioni circa il tipo di vela da utilizzare.
+-   Procedere con cautela, evitando cambiamenti drastici come downsizing (riduzione della dimensione della vela) senza un'adeguata esperienza.
+-   Ascoltare le proprie sensazioni durante il volo con la vela
+
+Ricorda che la sicurezza viene prima di tutto. Scegli una vela che ti permetta di progredire gradualmente e di divertirti in sicurezza.
