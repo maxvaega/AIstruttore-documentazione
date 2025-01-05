@@ -4,7 +4,7 @@
 1.  _Vela Livellata (vela parallela al terreno in fase di approccio)_
 2.  _Zona libera da ostacoli_
 3.  _Possibilmente controvento_
-/n/n
+
 ## Ambiente di Volo e Carico Alare
 
 ### Cambi di pressione
@@ -26,7 +26,7 @@ Proseguendo con questa regola, un paracadute portato dal livello del mare fino a
 Anche l’umidità diminuisce leggermente le prestazioni.
 
 **NB**: come perdita di performance della propria vela si considera principalmente la portanza della stessa. Quindi se salti in inverno, ricordati che ti avvicinerai al terreno un po’ più velocemente rispetto che durante la stagione estiva.
-/n/n
+
 ### Turbolenza
 
 La turbolenza può essere intesa come un disturbo nell’aria; diverse cose possono causarla: vento, temperatura e “onde”:
@@ -47,7 +47,7 @@ Come esce dalle celle finali crea un’onda circolare che segue ogni parte dell�
 È importante quindi pianificare bene il punto di atterraggio, considerando anche le eventuali zone di turbolenze date sia da ostacoli fissi sia dal traffico delle altre vele. Nel secondo caso è quindi bene organizzare correttamente il “traffico” e mantenere una separazione verticale tra le vele prima e dopo di noi oltre che orizzontale.
 
 **_Nota Bene_**_: è importante non atterrare dietro ad aeroplani quando hanno i motori accesi_
-/n/n
+
 ### Il carico alare
 
 Il carico alare è un numero che si ottiene da un’equazione tra il peso del paracadutista (in libbre, tenendo conto anche del peso della sacca) e la misura della vela in piedi.
@@ -66,7 +66,7 @@ In realtà si raccomanda di rispettare sempre i parametri indicati dal costrutto
 Inoltre è doveroso rammentare che due vele diverse con due masse al carico diverse possono dare due valori di carico alare uguali, ma non necessariamente volare in modo uguale; allo stesso tempo, misure uguali e pesi uguali possono dare risultati identici ma basta che una vela sia in porosità zero o in f111 o che abbia un numero di cassoni diverso (9 o 7) , che il numero del carico alare sarà sempre uguale ma con enormi differenze nella realtà.
 
 Di conseguenza è bene cercare una vela di tipologia e dimensione adatte al proprio peso e soprattutto alla propria esperienza e prima di effettuare un passaggio ad una vela diversa, che sia in prestito o a noleggio o da acquistare, è necessario un confronto con istruttori esperti.
-/n/n
+
 ### Misura della vela in relazione all’esperienza lancistica (numero lanci)
 
 In Italia non è prevista una vera e propria regolamentazione riguardante la misura di vela da utilizzare, si raccomanda sempre il buon senso oltre che seguire i consigli dei propri istruttori.
@@ -90,7 +90,7 @@ Con queste considerazioni, è quindi possibile affermare che per un paracadutist
 
 Ad ogni modo, per calcolare la dimensione appropriata della vela da utilizzare, è importante considerarne il profilo alare oltre che considerare il carico che il paracadutista ha sulla stessa (e quindi il peso del paracadutista stesso).
 
-/n/n
+
 ## Pianificazione del volo e dell’atterraggio
 
 ### Pianificazione
@@ -139,7 +139,7 @@ Inoltre, ricordati che una regola d’oro per la navigazione con la vela è “*
 - Attieniti al circuito concordato
 
 - Attieniti alla direzione d’atterraggio del primo paracadutista atterrato nel tuo decollo
-/n/n
+
 # Ordine di uscita
 
 ## Ordine di uscita per caduta libera
@@ -154,17 +154,17 @@ Inoltre, ricordati che una regola d’oro per la navigazione con la vela è “*
 6. Tute Alari (wingsuit)
 
 **Nota Bene:** l’ordine di uscita può variare a seconda delle condizioni della giornata di attività oltre che dalla singola dropzone in cui ci si trova, se non addirittura per esigenze specifiche dei gruppi e paracadutisti in aereo, quindi è importante informarsi in anticipo. Una volta deciso l’ordine d’uscita è quindi possibile avere anche una previsione di dove si potrà essere in fase di apertura e, con tutti questi primi dati, si può già impostare una pianificazione di volo e atterraggio con la propria vela.
-/n/n
+
 ## Ordine di uscita per salti Hop&Pop
 
 In caso di salti Hop&Pop, è necessario organizzare l’ordine di uscita in primis in base al carico alare dei paracadutisti, ma è importante valutare anche lo stile di pilotaggio degli stessi. A parità di carico alare o con differenze minime, uno stile di pilotaggio più aggressivo comporta una priorità maggiore in fase di atterraggio. Di conseguenza, è consigliato impostare un primo ordine di uscita in base al carico alare e poi rivalutare l’ordine delineato a seconda di come pilota il singolo paracadutista (ad esempio, se ci sono due paracadutisti con il medesimo o simile carico alare, se uno dei due effettua manovre high performance dovrà atterrare per primo tra i due).
 
 **Nota Bene:** si chiama Hop&Pop quando il paracadutista salta (Hop) e apre dopo circa 5 secondi (pop).
-/n/n
+
 ## Come salire in aereo in base all’ordine di uscita
 
 Una volta definito l’ordine di uscita dei paracadutisti, è bene procedere a assegnare preventivamente i posti in aereo; in questo modo, si riesce sia a velocizzare il momento dell’imbarco sia a minimizzare i movimenti in aereo dei singoli paracadutisti nel momento in cui ci sarà la porta dell’aereo aperta. Una buona regola per gestire l’imbarco è “gli ultimi a uscire sono i primi a salire”, quindi se sei tra le ultime uscite ricordati che sarai tra i primi a salire sull’aereo; non tardare!
-/n/n
+
 ## Uscita dall’aereo / Separazione tra le uscite
 
 Negli ultimi anni, la distanza tra le uscite (quanto tempo/distanza tra un'uscita e l'altra) e l'ordine delle uscite (quale gruppo/disciplina esce per primo) sono diventati molto più complicati rispetto a qualche anno fa. Ci sono diverse ragioni per questo:
@@ -205,7 +205,7 @@ Qui di seguito sono riportati i valori minimi consigliati per una separazione di
 - **Groundspeed**: 5 → **Secondi**: 119
 
 **Nota Bene**: è profondamente scorretto dichiarare un numero di secondi di attesa tra le uscite senza sapere le condizioni di vento e la velocità dell'aereo e di conseguenza la groundspeed. In generale comunque puoi chiedere al DL o RL quanto aspettare prima di saltare (è il DL / RL che chiederà al pilota la groundspeed)
-/n/n
+
 ## Verifica del Punto di Lancio dal Porta dell’Aereo
 
 Quando ci si appresta a saltare da un aereo, è fondamentale valutare il punto di lancio. 
@@ -217,7 +217,130 @@ Per la valutazione del punto nel momento in cui si guarda fuori dalla porta dell
 - In un assetto picchiato, l’angolo di discesa dell’aereo riduce la visuale del terreno e potrebbe creare un’illusione di vicinanza, rendendo difficile stabilire se il punto di lancio sia corretto. In tal caso il rischio è quello di anticipare il punto di lancio corretto (e quindi dare l’ok all’exit troppo presto).
   
 - Al contrario, in un assetto cabrato, l’aereo tende a mantenere una visione più chiara e ampia del terreno sottostante, ma la velocità orizzontale può aumentare, portando a un errore di valutazione nella scelta del momento di lancio. In tal caso il rischio è quello di oltrepassare il punto di lancio corretto (e quindi dare l’ok all’exit in ritardo).
-/n/n
+
 ## Quota di apertura
 
 La quota di apertura del paracadute è un elemento cruciale per la sicurezza e il successo di un salto; questa quota varia significativamente in base all'esperienza del paracadutista. Durante il corso AFF, l’allievo deve generalmente aprire il paracadute a una quota più alta, di solito intorno ai 1700 metri, per garantire un margine di sicurezza adeguato. Con l’aumentare dell’esperienza e della competenza, i paracadutisti più esperti possono ridurre progressivamente la quota di apertura, fino ad una quota consigliata di 1200 metri, fino ad un minimo di 1000 metri. È fondamentale che la quota di apertura permetta un margine di quota per la gestione di eventuali emergenze ad alta o bassa velocità.
+
+## Tipi di vele da paracadutismo
+
+Scegliere la vela giusta è una delle decisioni più importanti per un paracadutista, specialmente per chi è agli inizi. Ogni tipo di vela ha caratteristiche specifiche che influenzano il modo in cui vola, si apre e atterra. Di seguito sono elencati i principali tipi di vele da paracadutismo, le loro caratteristiche e il livello di esperienza necessario per utilizzarle in sicurezza. Ricorda sempre che il tipo di vela, assieme alla dimensione, sono fattori determinanti per il comportamento della vela e le sue performance. Dovresti sempre consultarti con un istruttore per determinare il tipo di vela adatto alla tua esperienza
+
+----------
+
+**Vele a 7 celle**
+
+Le vele a 7 celle sono note per la stabilità delle loro aperture e per essere più precise quando molto frenate, sono infatti ideali per approcci di precisione. Grazie al minor numero di funi e centine interne, queste vele tendono a occupare meno volume quando vengono piegate, rendendole tipicamente più compatte rispetto ad una vela a 9 celle a parità di dimensione
+
+**Caratteristiche principali:**
+
+-   **Precisione:** Ottime per manovre di precisione e atterraggi accurati.
+-   **Dimensioni compatte:** Occupano meno spazio nella sacca.
+-   **Utilizzo comune:** Spesso preferite per Tute alari, CRW (formazioni in volo), precisione e come vele di riserva.
+
+**Esperienza necessaria:**
+
+Le vele a 7 celle sono adatte sia ai principianti che ai paracadutisti più esperti, a seconda delle dimensioni e del carico alare.
+
+**Vele a 9 celle**
+
+Le vele a 9 celle sono le più popolari tra i paracadutisti. Offrono una planata più lunga e un flare (fase finale dell'atterraggio) più efficace rispetto alle vele a 7 celle. Tuttavia, tendono a occupare più spazio quando vengono piegate.
+
+**Caratteristiche principali:**
+
+-   **Planata più lunga:** Ideale per atterraggi morbidi e volati, grazie alle planate lunghe e controllate.
+-   **Versatilità:** Adatte a una vasta gamma di paracadutisti.
+-   **Dimensioni maggiori:** Tendono a occupare più spazio rispetto alle vele a 7 celle.
+
+**Esperienza necessaria:**
+
+Le vele a 9 celle sono adatte ai principianti e ai paracadutisti intermedi, ma la scelta della dimensione e del carico alare deve essere fatta con attenzione.
+
+----------
+
+**Materiali delle vele**
+
+Le vele moderne sono realizzate con due tipi principali di materiali: nylon a bassa porosità e nylon a porosità zero.
+
+**Nylon a bassa porosità:**
+
+-   **Pro:** Più facile da piegare.
+-   **Contro:** Diventa più poroso nel tempo, riducendo le prestazioni dopo 300-500 salti.
+-   **Adatto a:** Paracadutisti principianti o chi cerca una vela più facile da gestire.
+
+**Nylon a porosità zero:**
+
+-   **Pro:** Mantiene le prestazioni per oltre 2.000 salti grazie a un rivestimento protettivo (spesso a base di silicone).
+-   **Contro:** Più difficile da piegare e occupa più spazio.
+-   **Adatto a:** Paracadutisti con più esperienza, che cercano una vela più duratura e performante.
+
+----------
+
+**Forme delle vele**
+
+La forma della vela, vista dall'alto, influisce notevolmente sul modo in cui vola. Esistono tre principali tipi di forme:
+
+**1. Vele rettangolari**
+
+-   **Caratteristiche:** Stabili con aperture prevedibili. Possono risultare lente e poco reattive.
+-   **Adatte a:** Principianti, grazie alla loro stabilità e facilità d'uso.
+
+**2. Vele semi-ellittiche**
+
+-   **Caratteristiche:** Più reattive rispetto alle vele rettangolari, richiedono minore pressione sui comandi e permettono una maggiore manovrabilità.
+-   **Vantaggi:** Anche se caricate leggermente, offrono un volo più divertente e dinamico.
+-   **Adatte a:** Paracadutisti intermedi che vogliono una vela più reattiva e divertente senza sacrificare la stabilità.
+
+**3. Vele ellittiche**
+
+-   **Caratteristiche:** Estremamente reattive, con virate rapide e sensibilità decisamente maggiore a tutti i tipi di input (dai comandi all'imbracatura). Aperture meno prevedibili.
+-   **Svantaggi:** Possono essere poco indulgenti, specialmente durante l'apertura, e richiedono molta attenzione nel ripiegamento e alla posizione del corpo durante la fase di apertura. Possono perdere quota più velocemente delle altre tipologie.
+-   **Adatte a:** Paracadutisti esperti, con esperienza su vele semi-ellittiche o rettangolari più piccole.
+
+----------
+
+**Caratteristiche speciali**
+
+Alcune vele ad alte prestazioni per paracadutismi molto esperti includono caratteristiche avanzate:
+
+**Cross-braces**
+
+-   **Funzione:** Aggiungono rigidità alla vela, aumentando le prestazioni e richiedendo un numero minore di celle.
+-   **Prestazioni:** Offrono prestazioni molto elevate, perdono quota molto rapidamente. Richiedono tanta esperienza e continuità nei salti per essere utilizzate in sicurezza.
+-   **Adatte a:** Per via delle alte prestazioni, sono adatte solamente a paracadutisti molto esperti che hanno già esperienza con vele ellittiche di piccole dimensioni. 
+
+
+----------
+
+**Consigli finali**
+
+La scelta della vela giusta dipende da molti fattori, tra cui il livello di esperienza, il tipo di volo desiderato e le preferenze personali. È sempre importante:
+
+-   Consultare istruttori o paracadutisti esperti per ricevere consigli prima di prendere decisioni circa il tipo di vela da utilizzare.
+-   Procedere con cautela, evitando cambiamenti drastici come downsizing (riduzione della dimensione della vela) senza un'adeguata esperienza.
+-   Ascoltare le proprie sensazioni durante il volo con la vela
+
+Ricorda che la sicurezza viene prima di tutto. Scegli una vela che ti permetta di progredire gradualmente e di divertirti in sicurezza.
+
+## Tipi di vele da paracadutismo - vele per paracadutisti esperti
+
+è fondamentale utilizzare una vela di tipologia e dimensioni adatte alla tua esperienza e capacità.
+
+Le seguenti vele sono solo per paracadutisti esperti e sono assolutamente da evitare per allievi o paracadutisti meno esperti! il loro uso da parte di paracadutisti senza la dovuta esperienza e capacità potrebbe causare incidenti e lesioni anche gravi!  
+
+- Stiletto
+- Crossfire
+- Velocity
+- Valkyrie
+- Leia
+- JFX
+- JVX
+- Petra
+- Peregrine
+- Neos
+- Katana
+- Gangster
+- Airwolf
+- HK
+
+In ogni caso è sempre utile parlare con un istruttore prima di cambiare tipologia e dimensioni di vela, per assicurarsi di avere l'esperienza e le capacità adeguate a pilotarla in sicurezza.
