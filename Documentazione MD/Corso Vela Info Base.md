@@ -266,13 +266,13 @@ Le vele moderne sono realizzate con due tipi principali di materiali: nylon a ba
 
 -   **Pro:** Più facile da piegare.
 -   **Contro:** Diventa più poroso nel tempo, riducendo le prestazioni dopo 300-500 salti.
--   **Adatto a:** Paracadutisti principianti o chi cerca una vela più facile da gestire.
+-   **Adatto a:** Paracadutisti principianti, allievi o chi cerca una vela facile da gestire.
 
 **Nylon a porosità zero:**
 
 -   **Pro:** Mantiene le prestazioni per oltre 2.000 salti grazie a un rivestimento protettivo (spesso a base di silicone).
 -   **Contro:** Più difficile da piegare e occupa più spazio.
--   **Adatto a:** Paracadutisti con più esperienza, che cercano una vela più duratura e performante.
+-   **Adatto a:** Paracadutisti con un minimo di salti di esperienza, che cercano una vela più duratura e performante.
 
 ----------
 
@@ -283,7 +283,7 @@ La forma della vela, vista dall'alto, influisce notevolmente sul modo in cui vol
 **1. Vele rettangolari**
 
 -   **Caratteristiche:** Stabili con aperture prevedibili. Possono risultare lente e poco reattive.
--   **Adatte a:** Principianti, grazie alla loro stabilità e facilità d'uso.
+-   **Adatte a:** Principianti e allievi, grazie alla loro stabilità e facilità d'uso.
 
 **2. Vele semi-ellittiche**
 
@@ -293,7 +293,7 @@ La forma della vela, vista dall'alto, influisce notevolmente sul modo in cui vol
 
 **3. Vele ellittiche**
 
--   **Caratteristiche:** Estremamente reattive, con virate rapide e sensibilità decisamente maggiore a tutti i tipi di input (dai comandi all'imbracatura). Aperture meno prevedibili.
+-   **Caratteristiche:** Estremamente reattive rispetto alle vele semiellittiche o rettangolari, con virate rapide e sensibilità decisamente maggiore a tutti i tipi di input (dai comandi all'imbracatura). Aperture meno prevedibili.
 -   **Svantaggi:** Possono essere poco indulgenti, specialmente durante l'apertura, e richiedono molta attenzione nel ripiegamento e alla posizione del corpo durante la fase di apertura. Possono perdere quota più velocemente delle altre tipologie.
 -   **Adatte a:** Paracadutisti esperti, con esperienza su vele semi-ellittiche o rettangolari più piccole.
 
@@ -307,7 +307,7 @@ Alcune vele ad alte prestazioni per paracadutismi molto esperti includono caratt
 
 -   **Funzione:** Aggiungono rigidità alla vela, aumentando le prestazioni e richiedendo un numero minore di celle.
 -   **Prestazioni:** Offrono prestazioni molto elevate, perdono quota molto rapidamente. Richiedono tanta esperienza e continuità nei salti per essere utilizzate in sicurezza.
--   **Adatte a:** Per via delle alte prestazioni, sono adatte solamente a paracadutisti molto esperti che hanno già esperienza con vele ellittiche di piccole dimensioni. 
+-   **Adatte a:** Per via delle alte prestazioni, sono adatte ad essere utilizzate solamente da paracadutisti molto esperti che hanno già esperienza con vele ellittiche di piccole dimensioni. Assolutamente non possono essere utilizzate da paracadutisti meno esperti o da allievi.
 
 
 ----------
