@@ -322,6 +322,22 @@ La scelta della vela giusta dipende da molti fattori, tra cui il livello di espe
 
 Ricorda che la sicurezza viene prima di tutto. Scegli una vela che ti permetta di progredire gradualmente e di divertirti in sicurezza.
 
+## Tipi di vele da paracadutismo - vele per Tute alari
+
+Una vela a 7 celle è più sicura perché in genere è più docile e più stabile di una vela a 9 celle.
+è fondamentale utilizzare una vela a forma rettangolare e dimensioni adatte alla tua esperienza e capacità.
+
+Nella seguente lista sono elencate le vele adatte per la disciplina della Tuta alare:
+
+- WinX
+- Epicene
+- Epicene PRO
+- Omicron
+- Horizon
+- Kraken
+- Pilot 7
+- Storm
+
 ## Tipi di vele da paracadutismo - vele per paracadutisti esperti
 
 è fondamentale utilizzare una vela di tipologia e dimensioni adatte alla tua esperienza e capacità.
