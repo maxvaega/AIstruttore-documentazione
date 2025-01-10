@@ -199,12 +199,30 @@ La velatura non è aperta
 
 ## Procedura di emergenza
 
+La procedura di emergenza serve in caso di malfunzionamento ed è fondamentale per provvedere a sganciare correttamente il paracadute principale e aprire correttamente il paracadute di emergenza.
+
 1. Guarda e impugna con la mano destra la maniglia di sgancio
 2. Guarda e impugna con la mano sinistra la maniglia della riserva **NB:** in caso si tratti di una maniglia di ferro, è importante infilare il pollice all’interno della maniglia stessa, in modo da mantenere un’impugnatura più salda.
 3. Svelcra e traziona verso il basso la maniglia di sgancio
 4. Assicurati della totale trazione della maniglia di sgancio portando in alto il braccio destro
 5. Dopo aver sganciato il paracadute principale raddoppia la presa sulla maniglia della riserva
 6. Traziona verso il basso la maniglia della riserva
+
+La procedura di emergenza viene chiamata in gerco  "sgancio" oppure semplicemente col verbo "sganciare"
+
+**a quale quota devo avere un paracadute/vela funzionante sopra la mia testa?**
+
+- A seguito dell'apertura del paracadute principale, è opportuno verificarne la corretta apertura sia visivamente che, se necessario, facendo delle prove di manovrabilità trazionando i comandi.
+- In questa fase è importante prestare attenzione alla perdita di altitudine tenendo monitorato l'altimetro: alcuni tipi di malfunzionamento possono far perdere quota più rapidamente di altri, e farci scendere fino alla quota decisionale molto rapidamente!
+
+- Nel caso in cui ci sia un malfunzionamento in corso e, al raggiungimento della quota decisionale stabilita, non si abbia ancora un paracadute principale correttamente aperto sopra di se, funzionante e manovrabile, allora è opportuno eseguire la manovra di emergenza senza indugio, sganciando cosi il paracadute principale e aprendo il paracadute di emergenza
+
+- posso sganciare a 500 metri? e se sgancio a 500 metri? Non è consigliato sganciare ad una quota inferiore rispetto alla quota decisionale prestabilita. Sganciare ad una quota inferiore è quindi un gesto poco responsabile che potrebbe portare a gravi conseguenze
+
+**Qual è la minima quota decisionale per effettuare la procedura di emergenza?**
+la quota per l'esecuzione della procedura di emergenza NON deve MAI essere inferiore a 750 metri.
+La quota decisionale è la quota minima entro la quale, se non si ha un paracadute principale aperto correttamente e controllabile sopra la testa, si deve eseguira la procedura di emergenza.
+Per sganciare correttamente, la procedura di emergenza deve essere eseguita entro la quota decisionale. Assicurati quindi di mantenere sempre coscienza della quota a cui ti trovi, soprattutto in caso di malfunzionamento, per assicurarti di eseguire la procedura entro la quota corretta.
 
 ## Malfunzionamenti totali
 
@@ -226,6 +244,10 @@ Il pilotino è a tutti gli effetti gonfio ed aperto qualche metro sopra la propr
 
 **Cosa fare?** Applicare la normale procedura di emergenza, sganciando il paracadute principale ed aprendo quello di riserva.
 
+**Qual è la minima quota decisionale per effettuare la procedura di emergenza?**
+la quota per l'esecuzione della procedura di emergenza NON deve MAI essere inferiore a 750 mt
+La quota decisionale è la quota minima entro la quale, se non si ha un paracadute principale aperto correttamente e controllabile sopra la testa, si deve eseguira la procedura di emergenza.
+
 ## Malfunzionamenti parziali
 
 Sono malfunzionamenti parziali:
@@ -239,7 +261,10 @@ La velocità di discesa può essere rallentata (ma non sempre) e si potrebbe ave
 
 - È importante ricordare che durante un'autorotazione la velocità di discesa è comunque elevata.
 
-**Qual è la quota decisionale per effettuare la procedura di emergenza?** NON deve MAI essere inferiore a 750 mt
+**Qual è la minima quota decisionale per effettuare la procedura di emergenza?**
+la quota per l'esecuzione della procedura di emergenza NON deve MAI essere inferiore a 750 mt
+La quota decisionale è la quota minima entro la quale, se non si ha un paracadute principale aperto correttamente e controllabile sopra la testa, si deve eseguira la procedura di emergenza.
+
 
 ## POD al Traino
 

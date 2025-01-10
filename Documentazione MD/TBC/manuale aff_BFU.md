@@ -168,6 +168,15 @@ Quando un corpo solido si muove in un fluido, il fluido dal quale viene investit
 Affinchè il corpo, durante la caduta, rimanga in equilibrio (cioè mantenga una direzione e un assetto prestabilito) è necessario che la posizione degli arti sia simmetrica (cioè la parte destra del corpo sia uguale a quella sinistra) ed è
 necessario che i centri di pressione e di gravità si trovino allineati lungo la direzione del movimento (cioè devono giacere entrambi lungo la traiettoria di caduta). Se il centro di pressione (CP) si trova sopra il centro di gravità (CG) si ha la condizione di equilibrio stabile; in questo caso, se il corpo viene spostato dalla posizione di equilibrio tende spontaneamente a ritornare nella posizione originale.
 
+### 6.2 | ESERCIZI DURANTE IL 1° LIVELLO AFF
+
+**- CONTROLLO E COMUNICAZIONE DELLA QUOTA** Acquisita la posizione di stabilità subito dopo l’uscita, si legge la quota sull’altimetro senza scomporsi e la si comunica verbalmente, prima all’istruttore di sinistra e quindi
+all’istruttore di destra.
+**- FALSE MANIGLIE** Mantenendo la posizione ed accentuando l’arco si esegue per 3 volte la simulazione dell’apertura del paracadute principale, portando la mano destra posteriormente a trovare ed impugnare il nottolino del principale.
+Simultaneamente si deve portare la mano sinistra in avanti per mantenere l’equilibrio della posizione. I movimenti devono essere effettuati in modo controllato e senza fretta.
+**- CONTROLLO E COMUNICAZIONE DELLA QUOTA** Dopo le tre false maniglie si controlla la quota e la si comunica nuovamente a entrambi gli istruttori. Dopo questi esercizi si deve mantenere la posizione stabile e controllare con frequenza la quota. A 2000 metri si interrompe qualsiasi esercizio e si guarda costantemente l’altimetro preparandosi all’apertura del paracadute.
+**- APERTURA DEL PARACADUTE** Alla quota di 1700 metri si deve segnalare l’apertura, accentuare l’arco e trazionare il nottolino del principale, lanciando il pilotino estrattore nel flusso d’aria, lateralmente e in avanti.
+
 ## 8.1 | EMERGENZE IN AEREO
 
 In caso di un’emergenza in aereo il pilota è il più alto in carica nella gerarchia decisionale , gli istruttori e il direttore di lancio sono i referenti per le procedure da seguire nelle diverse situazioni. È importante conoscere tali procedure per eseguirle più rapidamente possibile:
@@ -409,12 +418,103 @@ Perché ha perso la sua funzione e potrebbe essersi incastrato o aggrovigliato e
 
 Potrebbe capitare di trovarsi nella situazione in cui, con la riserva aperta, sia fuoriuscito il paracadute principale o parte di esso. In questo caso bisogna agire per raccogliere quanto fuoriuscito, stivandolo progressivamente tra le gambe e tenendolo saldamente fermo, fino all’atterraggio. Raccogliere con calma e senza strattoni quanto fuoriuscito per evitare che la situazione possa degenerare.
 
+## 11.0 | EMERGENZE IN ATTERRAGGIO
+
+La priorità di atterrare in modo corretto e lontano da ostacoli deve essere tenuta presente sempre, a maggior ragione nel caso in cui si sia costretti ad atterrare fuori campo, in una zona alternativa a quella dell’aeroporto. È molto importante agire per tempo nella scelta della zona di atterraggio, valutando se è sufficientemente grande e libera da ostacoli.
+
+### TECNICA DELLA CAPOVOLTA
+
+Nel caso in cui la velocità di atterraggio sia elevata, oppure ci si trovi in una situazione in cui non si possa effettuare un
+normale atterraggio, possiamo giocare d’anticipo preparando una buona capovolta.
+
+- Predisporsi con ginocchia e piedi uniti, gambe leggermente flesse e comandi impugnati
+- frenando alla giusta quota, portare le mani all’altezza del bacino stringendo le braccia lungo il corpo
+- quando i piedi toccano contemporaneamente il suolo, ruotare il busto porgendo il fianco della gamba al terreno, seguito dal gluteo, ed infine ruotare sulla schiena sino alla spalla opposta.
+
+Questa tecnica permette di dissipare la forza dell’atterraggio distribuendola omogeneamente su tutto il corpo, necessita di un po’ di tonicità muscolare, ma è facilmente praticabile e in alcuni casi utile. Inoltre, è veramente importante non cercare mai di arrestarsi cadendo in avanti e con le mani puntate.
+
+### Ostacoli in atterraggio
+
+Se vi sono degli ostacoli la regola è quella di cercare di evitarli.
+Nel caso in cui sia inevitabile atterrare su ostacoli questi sono i comportamenti da tenere:
+
+#### ALBERI
+
+- possibilmente atterra controvento e con frenata poco prima della collisione
+- gambe unite e raccolte per ammortizzare l’urto
+- proteggi il viso e il collo con le braccia
+- preparati ad un atterraggio duro
+- se rimani appeso ad un albero non sganciare, potresti farti male cadendo!
+- Piuttosto cerca un solido appiglio per metterti in sicurezza mentre aspetti assistenza o, eventualmente, per riuscire a scendere.
+
+#### ACQUA
+
+- possibilmente atterra in prossimità della riva o vicino ad imbarcazioni, se ce ne sono
+- con sufficiente anticipo slaccia il pettorale e disconnetti l’RSL
+- fai una normale frenata, possibilmente controvento, come se dovessi atterrare sul suolo
+- piedi uniti e gambe flesse per prepararti ad un atterraggio duro
+- una volta atterrato sgancia la vela e cerca di liberarti dall’imbragatura il prima possibile allontanandoti dalla vela
+- se sei lontano dalla riva rimani vicino all’equipaggiamento, sarà più facile essere localizzato.
+
+#### LINEE ELETTRICHE
+
+Sono sicuramente uno dei maggiori pericoli quando sei obbligato ad atterrare fuori zona, perché le linee elettriche non sono facilmente riconoscibili dall’alto e spesso si notano soltanto quando sono già troppo vicine.
+Inoltre bisogna considerare non solo l’ostacolo meccanico, ma anche la corrente elettrica. Un suggerimento per individuare eventuali linee elettriche è seguire la posizione dei tralicci di sostegno. Ricorda che, se ci sono due pali, facilmente ci sarà un filo tra essi.
+
+Cerca di evitarle atterrando parallelamente ad esse, indipendentemente dalla direzione del vento. Se non ti è possibile:
+
+- piedi uniti e gambe flesse
+- cerca di attraversare i fili senza toccarli
+- preparati ad un atterraggio duro (capovolta)
+- se rimani appeso non sganciare e attendi assistenza dal personale qualificato (Vigili del Fuoco o addetti ENEL).
+
+#### ALTRI OSTACOLI COME COSTRUZIONI, TETTI, VEICOLI, PERSONE
+
+Per evitarli puoi atterrare in qualsiasi direzione, ma è importante che tu lo faccia sempre con la vela livellata.
+
+- Preparati a un atterraggio duro (capovolta)
+- frena con piedi uniti e gambe flesse in avanti se si tratta di un ostacolo verticale per ammortizzare l’urto e ricorda di
+utilizzare il massimo della frenata
+- se atterri su di un tetto (disconnetti l’RSL) e liberati della vela principale appena puoi sganciandola. Ciò eviterà che il vento ti trascini facendoti cadere dal tetto.
+
+### ATTERRAGGI FUORI ZONA
+
+Se non ti è possibile atterrare dove pianificato, prima dei 600 metri scegli una zona alternativa, grande e libera da ostacoli e riporta su di essa il circuito pianificato.
+Non preoccuparti di atterrare distante, verrai subito recuperato! Meglio scegliere una zona sicura ma lontana, piuttosto che perdere molta quota obbligandoti ad un atterraggio forzato, in zone poco sicure o dovendo effettuare virate basse.
+Se sei fuori zona e non riesci a capire la direzione del vento per l’atterraggio cerca dei segnali alternativi, come ad esempio un fuoco acceso a terra o una ciminiera di qualche zona industriale.
+
+### VENTO FORTE
+
+Se stai volando controvento e la tua vela indietreggia dovrai pianificare il tuo atterraggio guardando indietro e cercando di non farti portare verso ostacoli. Una volta raggiunto il suolo la tua vela potrebbe rimanere gonfia; per sgonfiarla lascia un comando e traziona a fondo l’altro, correndo verso la vela. **Se dovessi essere trascinato disconnetti l’RSL** (perchè altrimenti sganciando la vela principale verrebbe aperta l’emergenza) **e sgancia.**
+Ricordati che il pilota della tua vela sarai tu e tuo sarà il compito di portarti in una zona sicura per l’atterraggio.
+
+Il vento e la direzione di atterraggio sono solo una parte delle considerazioni che dovrai fare, ricorda che virare a bassa quota per cercare di metterti controvento può essere molto rischioso. Una buona pianificazione del circuito di atterraggio può evitare errori compromettenti la tua sicurezza.
+
+**PER EVITARE GLI OSTACOLI SI PUÒ ATTERRARE IN QUALSIASI DIREZIONE, NON È IMPORTANTE ATTERRARE
+CONTROVENTO, È PIÙ IMPORTANTE ATTERRARE IN SICUREZZA!**
+
+## Comportamento a vela aperta
+
+Alla quota stabilita si dovrà aprire il paracadute principale, trazionando il pilotino estrattore ed allontanandolo. Si esegue il conteggio 1001, 1002, 1003, 1004, 1005 e si effettua il controllo della corretta apertura della vela.
+
+Dopo che la vela si è aperta devi procedere così:
+
+- Controlla la vela! Si è aperta correttamente?
+- Se la vela si è aperta correttamente porta le mani alle bretelle posteriori localizzando e afferrando i comandi
+- Traziona i comandi contemporaneamente, a fondo e verso il basso per sbloccarli
+- Controlla che non ci siano altre vele vicino a te
+- Guarda a che quota ti trovi
+- Esegui la prova di manovrabilità per determinare se il tuo paracadute può portarti all’atterraggio in sicurezza
+- Localizza la zona di atterraggio. Se hai dei dubbi guarda le altre vele sotto e intorno a te dove si dirigono.
+
+Si effettua quindi un giro d’orizzonte con lo sguardo, individuando l’aeroporto e la zona di atterraggio, ma anche gli altri paracadutisti.
+Si deve fare sempre attenzione al traffico in aria: prima di effettuare qualsiasi manovra guardare nella direzione in cui si vuole girare per essere sicuri che non ci siano altri paracadutisti, anche nello spazio aereo sottostante.
 
 ### 12.1 | MANOVRARE LA VELA
 
 **- MASSIMA VELOCITÀ** La vela, a comandi rilasciati (mani alte), procede diritta e stabile a una velocità di circa 30-40 Km/h e ad una rateo di discesa verticale di 4-5 m/s. Questi sono i parametri di volo in condizioni normali.
 **- VOLO A MEZZO FRENO** Si tirano i comandi circa fino all’altezza delle spalle. In questo modo viene ridotta la velocità di avanzamento a circa 15-20 Km/h e il rateo di discesa a circa 3-4 m/s.
-**- MASSIMA FRENATA** In normali condizioni di volo, la massima frenata viene raggiunta trazionando progressivamente e contemporaneamente entrambi i comandi fino alla massima estensione delle braccia, verso il basso
+**- MASSIMA FRENATA** In normali condizioni di volo, la massima frenata viene raggiunta trazionando progressivamente e contemporaneamente entrambi i comandi fino alla massima estensione delle braccia, verso il basso.
 Raggiunta la massima frenata, la velocità di avanzamento sarà quasi nulla, perciò la direzione di volo della vela sarà quasi verticale.
 Mantenendo i comandi frenati a circa il 70-80 % riusciremo a mantenere una direzione stabile, ma oltrepassando questa soglia potremmo raggiungere il punto di stallo della vela.
 **- STALLO** È indotto quando entrambi i comandi vengono trattenuti oltre il punto di massima frenata. In questa situazione la vela ha una perdita di efficienza e di portanza, perciò la velocità di avanzamento sarà ridotta a zero e perderà la sua capacità di sostenerti.
@@ -424,11 +524,14 @@ Mantenendo i comandi frenati a circa il 70-80 % riusciremo a mantenere una direz
 In questa fase la manica a vento sarà già visibile e ti permetterà di confermare la direzione del vento e quindi, in quale direzione atterrare. Ricordati che normalmente si atterra controvento.
 Prepara mentalmente il circuito del tuo atterraggio e individua la zona di attesa in base all’intensità del vento, in modo da poter fare il tuo ingresso nel circuito a circa 300 metri.
 
-**12.3 | CIRCUITO DI ATTERRAGGIO | Preparazione del circuito di atterraggio**
+### 12.3 | CIRCUITO DI ATTERRAGGIO
+
+#### Preparazione del circuito di atterraggio
+
 Il parametro di cui tenere conto per il circuito di atterraggio è la direzione del vento a terra, segnalata dalle maniche a vento. Per questo motivo, prima dell’imbarco in aereo, ci si assicura di quale sia la direzione del vento e si decide  assieme agli altri paracadutisti il circuito da seguire e la direzione di atterraggio.
 La regola è quella di sfruttare la deriva del vento a vantaggio dei paracadutisti, grazie al punto di lancio sopravento rispetto alla zona di atterraggio, quindi una volta aperto il paracadute e rientrati sull’aeroporto, ci si posiziona in una zona d’attesa. La zona d’attesa è uno spazio aereo, sempre sopravento rispetto alla zona d’atterraggio, in cui si perde quota, effettuando delle manovre (virate max di 360°). Anche in questa fase è fondamentale controllare spesso la quota sull’altimetro.
 
-**Esecuzione del circuito di atterraggio**
+#### Esecuzione del circuito di atterraggio
 
 - A 500 metri circa, ci si sposta dalla zona di attesa verso quella di inizio circuito.
 - A 300 metri, si risale l’area di atterraggio (sottovento)
@@ -438,19 +541,20 @@ La regola è quella di sfruttare la deriva del vento a vantaggio dei paracadutis
 **- VIRATE** Non effettuare manovre superiori a 360° (spiralate)
 **- PRECEDENZE** La vela più in basso ha sempre la precedenza
 
-**Buone norme e precauzioni per l'atterraggio**
+#### Buone norme e precauzioni per l'atterraggio
 
-- NON ATTERRARE SULLA PISTA, Non sorvolare o attraversare la pista in volo, con il paracadute aperto sotto i 300 metri.
+- NON ATTERRARE SULLA PISTA Non sorvolare o attraversare la pista in volo, con il paracadute aperto sotto i 300 metri.
 - RISPETTA SEMPRE IL CIRCUITO
 - VIRATE A “S”** Durante il sottovento, se ci si accorge di essere alti, si eseguono delle “S” in modo da perdere quota riducendo l’avanzamento della vela.
 - CONTROLLA IL TRAFFICO In caso si sia in rotta di collisione con un’altra vela si effettua immediatamente una virata a destra, tenendo sotto controllo l’altra vela e verificando, prima di virare, che non ci sia nessuno alla propria destra.
 - IN CASO DI COLLISIONE Se non siete riusciti in nessuna maniera ad evitare una collisione, aprite le braccia e le gambe a X per cercare di rimbalzare sul fascio funicolare dell’altro paracadute.
 - IN CASO DI SCARSA VISIBILITÀ Se si entra in nube, frenate la vela al 50% (mezzo freno) e innescate una lenta rotazione verso destra, facendo dei lenti 360°, finché non torna la visibilità. Rispettando questa regola, verranno ridotte le probabilità di collisione con altri paracadutisti, poiché ognuno girerà nel proprio slot e tutti nella stessa direzione.
 
-### ATTERRAGGIO | PRIORITÀ IN ATTERRAGGIO
+### PRIORITÀ IN ATTERRAGGIO
 
 **Una volta effettuata la virata finale a 100 metri circa, si deve tenere quella direzione fino all’ atterraggio!** Facendo solo eventuali piccoli e delicati aggiustamenti di direzione. In prossimità del terreno non si devono più effettuare virate, la vela deve volare diritta, perché ogni virata determina una perdita considerevole di quota.
 Atterrare controvento è l’ultima priorità in atterraggio, più importante è atterrare lontano dagli ostacoli e, il terreno sotto di noi, può diventare un grande ostacolo se atterriamo virando! Maggiore sarà l’intensità del vento, minore sarà lo spazio che percorreremo controvento nel finale e viceversa.
+
 
 **PRIORITA' IN ATTERRAGGIO :**
 
@@ -462,7 +566,7 @@ Atterrare controvento è l’ultima priorità in atterraggio, più importante è
 
 Al variare dell’intensità del vento diminuirà o aumenterà l’efficienza della nostra vela. Questo effetto in fase d’atterraggio va sempre tenuto in considerazione, non andando sottovento ad ostacoli e mantenendo sempre un ampio margine di sicurezza. Ricorda che quando farai il sottovento del circuito, la vela sarà più veloce con vento sostenuto.
 
-**FRENATA IN ATTERRAGGIO**
+## 13.2 | FRENATA IN ATTERRAGGIO
 
 Dopo aver effettuato la virata finale, alla quota di 100 metri circa, si deve lasciar volare la vela alla sua velocità naturale, tenendo le braccia e le mani in alto, rilasciando i comandi alla massima lunghezza. A 3 metri circa dal terreno, si
 deve iniziare la frenata. Evitare di guardare il terreno in questa fase, piuttosto tenere lo sguardo in avanti verso il basso (in diagonale) per valutare meglio la distanza dal terreno e non farsi prendere dal desiderio di frenare in anticipo.
@@ -472,8 +576,15 @@ deve iniziare la frenata. Evitare di guardare il terreno in questa fase, piuttos
 Nota: se avete iniziato la frenata troppo presto (metà freno), mantenete inalterata la trazione sui comandi per poi completare la frenata alla giusta distanza dal suolo (3 metri circa).
 Se invece avete frenato troppo presto (massima frenata) mantenete trazionati i comandi alla massima estensione fino a che non sarete a terra. Braccia lungo il corpo, preparandosi ad una capovolta. Probabilmente farete un atterraggio un po’ brusco, ma in sicurezza.
 
+## 13.3 | INCONVENIENTI IN ATTERRAGGIO
 
-## RECUPERO DELLA VELA DOPO L’ATTERRAGGIO
+### TURBOLENZE E ROTORI DI SOTTOVENTO
+
+L’aria, scorrendo sul terreno, per diversi motivi può assumere moti turbolenti. Durante il volo a vela aperta si possono attraversare delle zone di turbolenza causate dal vento o dall’aria calda che sale verso l’alto. Lasciare volare la vela alla sua velocità naturale senza trazionare i comandi.
+Normalmente si generano turbolenze per effetto della diversa irradiazione solare sul terreno, per effetto della conformazione terrestre o per la presenza di ostacoli, che modificano il moto dell’aria. Atterrare nel lato sottovento di un ostacolo di notevoli dimensioni può essere molto pericoloso, in quanto l’aria turbolenta può provocare rotori in grado di andare lontano dall’ostacolo fino a 10/20 volte l’altezza (X) dell’ostacolo, a seconda dell’intensità del vento. Queste zone di sottovento potrebbero provocare improvvise perdite
+di portanza della vela, ad un’altezza critica.
+
+## 13.4 | RECUPERO DELLA VELA DOPO L’ATTERRAGGIO
 
 Una volta atterrati la vela cadrà davanti o dietro di noi. Ci si alza subito per mostrare agli istruttori che si sta bene e che non si ha bisogno di aiuto. Poi si allargano i nastri cosciali ed il pettorale, si abbassano gli occhialini sul collo ed eventualmente si apre la zip della tuta.
 Si prendono in mano le bretelle e, spingendo lo Slider verso la vela, si raccoglie il fascio funicolare facendone una matassa. È importante camminare verso la vela e non tirarla o trascinarla, per evitare di lacerare o lesionare il tessuto. Una volta arrivati alla vela si appoggia il fascio funicolare e lo Slider su di essa. Si raccoglie la POD, il bridle e il pilotino estrattore con entrambe le braccia, la si solleva verso il petto e si controlla che non ci sia nessuna parte del paracadute rimasta sul terreno per non calpestarla o trascinarla. Si ritorna quindi in hangar.
@@ -482,7 +593,7 @@ Una volta all’interno dell’hangar si chiede agli istruttori, o al ripiegator
  A questo punto si allentano ulteriormente le maglie autobloccanti del pettorale e dei cosciali e ci si sfila di dosso il paracadute, appoggiandolo delicatamente a terra (sempre su tappeti/moquettes) con l’imbragatura rivolta verso il basso, pronto per essere ripiegato.
 In questo momento il lancio è terminato.
 
-## DOCUMENTI NECESSARI PER PRATICARE l'ATTIVITA DI PARACADUTISMO
+# DOCUMENTI NECESSARI
 
 **VISITA MEDICA**
 Da effettuare presso un Medico Sportivo abilitato, su modulistica ENAC.
@@ -490,5 +601,16 @@ Da effettuare presso un Medico Sportivo abilitato, su modulistica ENAC.
 **ASSICURAZIONE**
 L’assicurazione base obbligatoria per legge è RCT (Responsabilità Civile verso Terzi) con i minimi legali indicati dalle tabelle ENAC. Esistono Assicurazioni online convenzionate o specializzate per il settore paracadutismo, che offrono svariate formule di copertura assicurativa.
 
-**DOCUMENTO DI IDENTITA'**
+**DOCUMENTO**
 È indispensabile avere un documento di identità in corso di validità e il Codice Fiscale.
+
+## DOPO IL CORSO AFF
+
+Una volta terminato il tuo Corso AFF potrai lanciarti in autonomia, iniziando ad esplorare questo meraviglioso sport, sempre con la possibilità di essere affiancato da un istruttore/coach per affinare la tua tecnica, completare i test pratici necessari all’esame di Licenza di Paracadutista e, soprattutto, progredire più rapidamente.
+Raggiunti i primi 50 lanci, effettuato un corso vela e smarcati tutti i test pratici necessari, potrai accedere all’esame di Licenza ENAC, che ti permetterà di confermare la tua preparazione pratico-teorica e diventare quindi ufficialmente
+un paracadutista.
+
+## DOPO LA LICENZA
+
+Con la Licenza di Paracadutista puoi fare cose che, finché eri allievo, non ti erano consentite. Come ad esempio: utilizzare una telecamera, fare lanci di formazione con altri paracadutisti oppure utilizzare paracadute non della Scuola (sempre sotto la supervisione degli istruttori per garantire il giusto down-sizing della vela).
+Inoltre potrai lanciarti in centri di paracadutismo che non siano Scuola di Paracadutismo, partecipare a manifestazioni (una volta acquisite le competenze necessarie) oppure avvicinarti al mondo delle figure in caduta libera, del FreeFly (head up, head down, tracking/deriva), della tuta alare o ad una delle tante discipline sportive del paracadutismo.
