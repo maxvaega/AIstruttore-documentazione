@@ -344,3 +344,46 @@ Le seguenti vele sono solo per paracadutisti esperti e sono assolutamente da evi
 - HK
 
 In ogni caso è sempre utile parlare con un istruttore prima di cambiare tipologia e dimensioni di vela, per assicurarsi di avere l'esperienza e le capacità adeguate a pilotarla in sicurezza.
+
+## Come è fatto un paracadute principale
+
+Il paracadute principale è costituito da diversi componenti progettati per garantire sicurezza, stabilità e prestazioni aerodinamiche. Ecco una sintesi delle sue caratteristiche principali:
+
+1. **Struttura del paracadute**
+
+- **Centine (Ribs)**: Collegano il lato superiore e inferiore della vela, conferendo una forma aerodinamica. Possono essere caricate ("loaded ribs") o non caricate ("unloaded ribs"). Nei paracadute ad alte prestazioni, si utilizzano centine intermedie rinforzate diagonalmente ("cross braced canopy") per migliorare la portanza.
+- **Celle**: Il paracadute è suddiviso in celle, che si trovano tra due centine caricate. Un numero maggiore di celle migliora la qualità della superficie e la portanza, ma aumenta peso e volume d'impacco.
+- **Crossports**: Fori nelle centine che permettono la compensazione della pressione tra le celle, essenziali per stabilità e apertura sicura.
+
+2. **Forma e caratteristiche aerodinamiche**
+
+- **Profilo alare**: Determina resistenza e portanza. Paracadute lenti hanno profili più spessi e convessi, mentre quelli veloci hanno profili sottili e meno convessi.
+- **Apertura alare e corda**: Il rapporto tra apertura alare (la distanza tra le estremità laterali dell'ala) e la corda (distanza tra estradosso e intradosso) può variare di molto e impattare le performance del paracadute. Un maggiore allungamento migliora l'angolo di planata e l'efficienza.
+- **Forma alare**: Originariamente rettangolare, oggi paracadute più avanzati presentano forme ellittiche per maggiore efficienza aerodinamica. Le vele ellittiche reagiscono più rapidamente agli input e possono essere più brusche e pericolose.
+
+3. **Materiali**
+
+- **Tessuto della vela**: Realizzato in nylon "ripstop", con vari gradi di permeabilità all'aria. I materiali a porosità zero (rivestiti in silicone) garantiscono prestazioni elevate e lunga durata, ma sono più difficili da ripiegare.
+- **Funi di sospensione (fascio)**: Prodotte in materiali sintetici come Spectra, Vectran o HMA, che offrono resistenza, leggerezza e basso allungamento. Le funi possono essere dirette o in cascata per ridurre il volume d'impacco. Il numero di funi è variabile in funzione della struttura del paracadute.
+
+4. **Sistema di apertura**
+- **Slider**: Utilizzato per ritardare l'apertura della vela, controllando la velocità di dispiegamento e riducendo la resistenza aerodinamica durante il volo.
+
+5. **Stabilizzatori**
+Riducono la resistenza indotta e aumentano la stabilità del paracadute.
+
+6. **Carico alare**
+Il carico alare (peso del paracadutista e attrezzatura per unità di superficie alare) influisce su velocità, stabilità e manovrabilità. Paracadute con carico alare basso sono più lenti e stabili, mentre quelli con carico alare alto sono più veloci e reattivi.
+
+In sintesi, il paracadute principale è un sistema complesso, progettato per bilanciare sicurezza, prestazioni e manovrabilità, con materiali e tecniche costruttive avanzate per soddisfare le esigenze di diversi tipi di paracadutisti.
+E' molto importante utilizzare un paracadute principale adeguato al proprio livello di abilità per saltare in sicurezza. Assicurati quindi di saltare sempre con un paracadute di tipologia e dimensioni adeguate alla tua esperienza.
+
+## Come è fatto un paracadute di emergenza (o di riserva)
+
+Il paracadute d'emergenza è progettato per garantire un'apertura rapida, un volo stabile e un atterraggio sicuro, anche in situazioni critiche. La vela è generalmente composta da 7 celle, con un allungamento moderato di circa 2,1:1, per offrire un equilibrio tra stabilità e manovrabilità. È realizzata in nylon ripstop, spesso del tipo F-111 a bassa porosità, che garantisce una permeabilità all'aria molto ridotta, essenziale per un'apertura rapida e sicura. Negli ultimi anni, alcuni modelli utilizzano materiali innovativi, come quelli sviluppati da Performance Designs (PD), che permettono di ridurre il volume d'impacco senza compromettere le dimensioni della vela.
+
+Le funi di sospensione sono progettate per essere leggere e resistenti, spesso realizzate in materiali come Dacron, che offre una maggiore elasticità per ridurre le sollecitazioni durante l'apertura. Le funi sono fissate direttamente alle centine, senza l'uso di nastri o flares, per ridurre ulteriormente il volume d'impacco e garantire una distribuzione uniforme delle forze.
+
+Il paracadute d'emergenza è progettato per aprirsi in modo sicuro anche a velocità elevate, con un tempo massimo di apertura di 3 secondi per un peso massimo di 113,4 kg a una velocità di 150 KTAS (227,8 km/h). La velocità di discesa con il paracadute aperto non deve superare i 7,3 m/s, garantendo un atterraggio controllato e sicuro. Per soddisfare le esigenze di compattezza, le dimensioni della vela d'emergenza sono spesso più piccole rispetto al paracadute principale, ma devono comunque rispettare i limiti di peso e carico alare specificati dal produttore.
+
+In generale, il paracadute d'emergenza è progettato per essere facile da manovrare, stabile in volo e affidabile in ogni situazione. Tuttavia, è fondamentale che il paracadutista scelga un modello adeguato al proprio peso, alla propria esperienza e alle condizioni di utilizzo, rispettando sempre i limiti di certificazione stabiliti dal produttore.
