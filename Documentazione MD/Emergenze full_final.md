@@ -217,12 +217,11 @@ La procedura di emergenza viene chiamata in gerco  "sgancio" oppure semplicement
 
 - Nel caso in cui ci sia un malfunzionamento in corso e, al raggiungimento della quota decisionale stabilita, non si abbia ancora un paracadute principale correttamente aperto sopra di se, funzionante e manovrabile, allora è opportuno eseguire la manovra di emergenza senza indugio, sganciando cosi il paracadute principale e aprendo il paracadute di emergenza
 
-- posso sganciare a 500 metri? e se sgancio a 500 metri? Non è consigliato sganciare ad una quota inferiore rispetto alla quota decisionale prestabilita. Sganciare ad una quota inferiore è quindi un gesto poco responsabile che potrebbe portare a gravi conseguenze
-
 **Qual è la minima quota decisionale per effettuare la procedura di emergenza?**
 la quota per l'esecuzione della procedura di emergenza NON deve MAI essere inferiore a 750 metri.
 La quota decisionale è la quota minima entro la quale, se non si ha un paracadute principale aperto correttamente e controllabile sopra la testa, si deve eseguira la procedura di emergenza.
 Per sganciare correttamente, la procedura di emergenza deve essere eseguita entro la quota decisionale. Assicurati quindi di mantenere sempre coscienza della quota a cui ti trovi, soprattutto in caso di malfunzionamento, per assicurarti di eseguire la procedura entro la quota corretta.
+Non è consigliato sganciare ad una quota inferiore rispetto alla quota decisionale prestabilita. Sganciare ad una quota inferiore è quindi un gesto poco responsabile che potrebbe portare a gravi conseguenze
 
 ## Malfunzionamenti totali
 
