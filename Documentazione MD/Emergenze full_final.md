@@ -89,8 +89,9 @@ Può succedere che durante un lancio si attraversi uno strato di nubi / si perda
 **Cosa fare?**
 In entrambi i casi è importante evitare spostamenti «incontrollati» lungo l’asse di lancio e di conseguenza la cosa migliore da fare è fermarsi, mantenere una posizione di caduta libera «piatta» senza perdere mai la coscienza della quota e alla quota giusta procedere con l’apertura del paracadute principale.
 
-**Cosa fare se l’apertura avviene sopra le nubi o in nube?**
-Mantenere la vela frenata a circa il 40% e rilasciare poi leggermente il comando sinistro in modo da innescare una rotazione piatta a destra.
+**Cosa fare se l’apertura della vela avviene sopra le nubi o dentro una nuvola?**
+Nel caso in cui ci si trovi a vela aperta dentro una nuvola, mantenere la vela frenata a circa il 40% e rilasciare poi leggermente il comando sinistro in modo da innescare una rotazione piatta a destra.
+Mantenere sempre il controllo della quota, e rilasciare il comando una volta uscito dalla nuvola.
 
 ### Emergenze in caduta libera: Apertura accidentale
 
