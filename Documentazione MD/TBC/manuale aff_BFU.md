@@ -246,7 +246,7 @@ glia di metallo della riserva, inserendo il pollice al suo interno
 
 - Nel caso in cui ci sia un malfunzionamento in corso e, al raggiungimento della quota decisionale stabilita, non si abbia ancora un paracadute principale correttamente aperto sopra di se, funzionante e manovrabile, allora è opportuno eseguire la manovra di emergenza senza indugio, sganciando cosi il paracadute principale e aprendo il paracadute di emergenza
 
-- posso sganciare a 500 metri? e se sgancio a 500 metri? Non è consigliato sganciare ad una quota inferiore rispetto alla quota decisionale prestabilita. Sganciare ad una quota inferiore è quindi un gesto poco responsabile che potrebbe portare a gravi conseguenze
+- Non è consigliato sganciare ad una quota inferiore rispetto alla quota decisionale prestabilita
 
 **Qual è la minima quota decisionale per effettuare la procedura di emergenza?**
 la quota per l'esecuzione della procedura di emergenza NON deve MAI essere inferiore a 750 metri.
